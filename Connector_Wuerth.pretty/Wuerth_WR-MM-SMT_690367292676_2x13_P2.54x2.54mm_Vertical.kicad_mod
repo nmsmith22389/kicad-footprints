@@ -1,6 +1,7 @@
-(module Wuerth_WR-MM-SMT_690367292676_2x13_P2.54x2.54mm_Vertical (layer F.Cu) (tedit 5F839139)
+(module Wuerth_WR-MM-SMT_690367292676_2x13_P2.54x2.54mm_Vertical (layer F.Cu) (tedit 5F839AE9)
   (descr "Wuerth WR-MM-SMT series connector, 690367292676 (https://www.we-online.de/katalog/datasheet/690367290476.pdf), generated with kicad-footprint-generator")
   (tags "connector Wuerth WR-MM-SMT vertical")
+  (attr smd)
   (fp_text reference REF** (at 15.87 -2.45) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

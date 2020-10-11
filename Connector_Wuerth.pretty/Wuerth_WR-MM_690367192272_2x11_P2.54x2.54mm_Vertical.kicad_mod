@@ -1,4 +1,4 @@
-(module Wuerth_WR-MM_690367192272_2x11_P2.54x2.54mm_Vertical (layer F.Cu) (tedit 5F8390B6)
+(module Wuerth_WR-MM_690367192272_2x11_P2.54x2.54mm_Vertical (layer F.Cu) (tedit 5F839AF0)
   (descr "Wuerth WR-MM series connector, 690367192272 (https://www.we-online.de/katalog/datasheet/690367192272.pdf), generated with kicad-footprint-generator")
   (tags "connector Wuerth Mini Module WR-MM vertical")
   (fp_text reference REF** (at -13.34 -2.43) (layer F.SilkS)
