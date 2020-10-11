@@ -1,3 +1,3 @@
-# Housings_DFN_QFN.pretty
+# Housings_DFN.pretty
 
-This repository contains various No-Lead packages - https://en.wikipedia.org/wiki/Quad_Flat_No-leads_package
+This repository contains various No-Lead packages - https://en.wikipedia.org/wiki/Flat_No-leads_package
