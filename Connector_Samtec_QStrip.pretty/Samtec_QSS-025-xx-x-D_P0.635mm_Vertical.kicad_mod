@@ -1,4 +1,4 @@
-(module Samtec_QSS-025-xx-x-D_P0.635mm_Vertical (layer F.Cu) (tedit 5F6785B2)
+(module Samtec_QSS-025-xx-x-D_P0.635mm_Vertical (layer F.Cu) (tedit 5FA04284)
   (descr "Samtec QSS-025-xx-x-D 0.635mm Q Strip High-Speed Ground Plane Socket Strip, 1 bank(s), 50 pins/bank, generated with kicad-footprint-generator, http://suddendocs.samtec.com/catalog_english/qss.pdf")
   (tags "connector Samtec QStrip QSS mezzanine socket vertical single-ended")
   (attr smd)
@@ -87,7 +87,7 @@
   (pad P1 smd rect (at 8.065 0) (size 2.8 0.432) (layers F.Cu F.Mask F.Paste))
   (pad P1 smd rect (at -3.175 0) (size 4.7 0.432) (layers F.Cu F.Mask F.Paste))
   (pad P1 smd rect (at 3.175 0) (size 4.7 0.432) (layers F.Cu F.Mask F.Paste))
-  (fp_text user %R (at 0 -5.5) (layer F.Fab)
+  (fp_text user ${REFERENCE} (at 0 -5.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (model ${KISYS3DMOD}/Connector_Samtec_QStrip.3dshapes/Samtec_QSS-025-xx-x-D_P0.635mm_Vertical.wrl

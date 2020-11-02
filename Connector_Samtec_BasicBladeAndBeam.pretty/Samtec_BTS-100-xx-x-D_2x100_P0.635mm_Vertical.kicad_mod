@@ -1,4 +1,4 @@
-(module Samtec_BTS-100-xx-x-D_2x100_P0.635mm_Vertical (layer F.Cu) (tedit 5F71210B)
+(module Samtec_BTS-100-xx-x-D_2x100_P0.635mm_Vertical (layer F.Cu) (tedit 5FA0428D)
   (descr "Samtec BTS-100-xx-x-D 0.635mm Basic Blade & Beam Terminal; 200 pins; generated with kicad-footprint-generator, generated with kicad-footprint-generator, http://suddendocs.samtec.com/catalog_english/bts.pdf")
   (tags "connector Samtec BTS mezzanine terminal vertical")
   (attr smd)
@@ -233,7 +233,7 @@
   (pad 198 smd rect (at 30.7975 3.086) (size 0.432 1.45) (layers F.Cu F.Mask F.Paste))
   (pad 199 smd rect (at 31.4325 -3.086) (size 0.432 1.45) (layers F.Cu F.Mask F.Paste))
   (pad 200 smd rect (at 31.4325 3.086) (size 0.432 1.45) (layers F.Cu F.Mask F.Paste))
-  (fp_text user %R (at 0 -5.31) (layer F.Fab)
+  (fp_text user ${REFERENCE} (at 0 -5.31) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (model ${KISYS3DMOD}/Connector_Samtec_BasicBladeAndBeam.3dshapes/Samtec_BTS-100-xx-x-D_2x100_P0.635mm_Vertical.wrl
