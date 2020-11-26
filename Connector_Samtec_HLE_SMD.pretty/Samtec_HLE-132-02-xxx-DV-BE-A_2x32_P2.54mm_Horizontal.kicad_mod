@@ -1,4 +1,4 @@
-(module Samtec_HLE-132-02-xxx-DV-BE-A_2x32_P2.54mm_Horizontal (layer F.Cu) (tedit 5FBD1BD6)
+(module Samtec_HLE-132-02-xxx-DV-BE-A_2x32_P2.54mm_Horizontal (layer F.Cu) (tedit 5FBFCEE0)
   (descr "Samtec HLE .100\" Tiger Beam Cost-effective Single Beam Socket Strip, HLE-132-02-xxx-DV-BE-A, 32 Pins per row (http://suddendocs.samtec.com/prints/hle-1xx-02-xxx-dv-xx-xx-xx-mkt.pdf, http://suddendocs.samtec.com/prints/hle-dv-footprint.pdf), generated with kicad-footprint-generator")
   (tags "connector Samtec HLE horizontal")
   (attr smd)
@@ -217,7 +217,7 @@
   (pad 60 smd rect (at 34.29 2.72) (size 1.27 1.68) (layers F.Cu F.Mask F.Paste))
   (pad 62 smd rect (at 36.83 2.72) (size 1.27 1.68) (layers F.Cu F.Mask F.Paste))
   (pad 64 smd rect (at 39.37 2.72) (size 1.27 1.68) (layers F.Cu F.Mask F.Paste))
-  (fp_text user %R (at 0 1.84) (layer F.Fab)
+  (fp_text user ${REFERENCE} (at 0 1.84) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (model ${KISYS3DMOD}/Connector_Samtec_HLE_SMD.3dshapes/Samtec_HLE-132-02-xxx-DV-A_2x32_P2.54mm_Horizontal.wrl
