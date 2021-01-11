@@ -1,4 +1,4 @@
-(module Samtec_QTS-048-xx-x-D-DP-A_P0.635mm_Vertical (layer F.Cu) (tedit 5FA04284)
+(module Samtec_QTS-048-xx-x-D-DP-A_P0.635mm_Vertical (layer F.Cu) (tedit 5FFBE425)
   (descr "Samtec QTS-048-xx-x-D-DP-A 0.635mm Q Pairs High-Speed Ground Plane Terminal Strip, Differential Pair, 3 bank(s), 16 pairs/bank, generated with kicad-footprint-generator, http://suddendocs.samtec.com/catalog_english/qts.pdf")
   (tags "connector Samtec QPairs QTS mezzanine terminal vertical differential alignment-pins")
   (attr smd)
@@ -158,7 +158,7 @@
   (fp_text user ${REFERENCE} (at 0 -5.31) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Connector_Samtec_QStrip.3dshapes/Samtec_QTS-048-xx-x-D-DP-A_P0.635mm_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Samtec_QStrip.3dshapes/Samtec_QTS-048-xx-x-D-DP-A_P0.635mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

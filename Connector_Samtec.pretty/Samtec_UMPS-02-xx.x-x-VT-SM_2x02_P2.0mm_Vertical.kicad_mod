@@ -1,4 +1,4 @@
-(module Samtec_UMPS-02-xx.x-x-VT-SM_2x02_P2.0mm_Vertical (layer F.Cu) (tedit 5FA042A3)
+(module Samtec_UMPS-02-xx.x-x-VT-SM_2x02_P2.0mm_Vertical (layer F.Cu) (tedit 5FFBE458)
   (descr "Samtec UMPS-02-xx.x-x-VT-SM 2.00mm Ultra Micro Power Socket, generated with kicad-footprint-generator, http://suddendocs.samtec.com/catalog_english/umps.pdf")
   (tags "connector Samtec mPOWER UMPS power socket vertical")
   (attr smd)
@@ -35,7 +35,7 @@
   (fp_text user ${REFERENCE} (at 0 -4.6) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Connector_Samtec.3dshapes/Samtec_UMPS-02-xx.x-x-VT-SM_2x02_P2.0mm_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_UMPS-02-xx.x-x-VT-SM_2x02_P2.0mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
