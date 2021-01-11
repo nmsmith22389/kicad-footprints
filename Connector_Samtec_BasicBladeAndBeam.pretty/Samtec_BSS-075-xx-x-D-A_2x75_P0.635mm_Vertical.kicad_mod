@@ -1,4 +1,4 @@
-(module Samtec_BSS-075-xx-x-D-A_2x75_P0.635mm_Vertical (layer F.Cu) (tedit 5FA0428D)
+(module Samtec_BSS-075-xx-x-D-A_2x75_P0.635mm_Vertical (layer F.Cu) (tedit 5FFBE44B)
   (descr "Samtec BSS-075-xx-x-D-A 0.635mm Basic Blade & Beam Socket; 150 pins; generated with kicad-footprint-generator, generated with kicad-footprint-generator, http://suddendocs.samtec.com/catalog_english/bss.pdf")
   (tags "connector Samtec BSS mezzanine socket vertical")
   (attr smd)
@@ -188,7 +188,7 @@
   (fp_text user ${REFERENCE} (at 0 -5.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Connector_Samtec_BasicBladeAndBeam.3dshapes/Samtec_BSS-075-xx-x-D-A_2x75_P0.635mm_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Samtec_BasicBladeAndBeam.3dshapes/Samtec_BSS-075-xx-x-D-A_2x75_P0.635mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
