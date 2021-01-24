@@ -110,7 +110,7 @@
   (pad 16 smd rect (at 8.75 -3) (size 1.5 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 17 smd rect (at 8.75 -4.5) (size 1.5 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 18 smd rect (at 8.75 -6) (size 1.5 0.9) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/ESP-WROOM-02.wrl
+  (model ${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ESP-WROOM-02.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
