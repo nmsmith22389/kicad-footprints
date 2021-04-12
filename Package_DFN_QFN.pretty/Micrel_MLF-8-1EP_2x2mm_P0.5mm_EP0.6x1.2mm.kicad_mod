@@ -1,4 +1,4 @@
-(module Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.6x1.2mm (layer F.Cu) (tedit 6062207F)
+(module Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.6x1.2mm (layer F.Cu) (tedit 6074D084)
   (descr "Micrel  MLF, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/mic23050.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "Micrel MLF NoLead")
   (attr smd)
