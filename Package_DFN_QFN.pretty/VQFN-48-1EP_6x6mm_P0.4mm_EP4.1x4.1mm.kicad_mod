@@ -1,4 +1,4 @@
-(module VQFN-48-1EP_6x6mm_P0.4mm_EP4.1x4.1mm (layer F.Cu) (tedit 5FF45BF0)
+(module VQFN-48-1EP_6x6mm_P0.4mm_EP4.1x4.1mm (layer F.Cu) (tedit 6095932A)
   (descr "VQFN, 48 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/48L_VQFN_6x6mm_6LX_C04-00494a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "VQFN NoLead")
   (attr smd)
@@ -85,7 +85,7 @@
   (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/VQFN-48-1EP_6x6mm_P0.4mm_EP4.1x4.1mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-48-1EP_6x6mm_P0.4mm_EP4.1x4.1mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
