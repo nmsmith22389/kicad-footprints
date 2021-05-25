@@ -1,5 +1,5 @@
-(module TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm (layer F.Cu) (tedit 60AC063F)
-  (descr "TSSOP, 28 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0108.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+(module TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm (layer F.Cu) (tedit 60AD2F53)
+  (descr "TSSOP, 28 Pin (JEDEC MO-153 Var AET Pkg.Code U28E-4 https://pdfserv.maximintegrated.com/package_dwgs/21-0108.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "TSSOP SO")
   (attr smd)
   (fp_text reference REF** (at 0 -5.8) (layer F.SilkS)
