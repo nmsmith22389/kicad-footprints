@@ -1,4 +1,4 @@
-(module MSOP-8-1EP_3.1x3.1mm_P0.65mm_EP1.70x2.00mm_ThermalVias (layer F.Cu) (tedit 60C9CB99)
+(module MSOP-8-1EP_3.1x3.1mm_P0.65mm_EP1.70x2.00mm_ThermalVias (layer F.Cu) (tedit 60C9CC96)
   (descr "MSOP, 8 Pin (https://www.diodes.com/assets/Datasheets/AP25x1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "MSOP SO")
   (attr smd)
@@ -41,7 +41,7 @@
   (pad 9 thru_hole circle (at 0.45 -0.585) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 9 thru_hole circle (at -0.455 0.56) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
   (pad 9 thru_hole circle (at 0.45 0.56) (size 0.5 0.5) (drill 0.2) (layers *.Cu))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-8-1EP_3.1x3.1mm_P0.65mm_EP1.70x2.00mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
