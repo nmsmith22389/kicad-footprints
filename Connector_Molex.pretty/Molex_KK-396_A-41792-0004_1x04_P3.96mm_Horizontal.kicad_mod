@@ -74,7 +74,7 @@
   (pad "2" thru_hole oval (at 3.96 0) (size 3.16 4.1) (drill 1.7) (layers *.Cu *.Mask) (tstamp 9206be15-a6d0-4c89-830c-2d3a4bf1f538))
   (pad "3" thru_hole oval (at 7.92 0) (size 3.16 4.1) (drill 1.7) (layers *.Cu *.Mask) (tstamp 54e6b0f7-631b-467d-9eac-3a6f11bc77f0))
   (pad "4" thru_hole oval (at 11.88 0) (size 3.16 4.1) (drill 1.7) (layers *.Cu *.Mask) (tstamp e09b8bcb-d7f8-4e06-a431-100dc8ccffad))
-  (model "${KISYS3DMOD}/Connector_Molex.3dshapes/Molex_KK-396_A-41792-0004_1x04_P3.96mm_Horizontal.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_KK-396_A-41792-0004_1x04_P3.96mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
