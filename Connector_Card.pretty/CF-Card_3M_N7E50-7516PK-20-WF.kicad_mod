@@ -1,7 +1,7 @@
 (footprint "CF-Card_3M_N7E50-7516PK-20-WF" (version 20211014) (generator pcbnew)
  (layer "F.Cu")
   (tedit 61DF3AB5)
-  (descr "Compact Flash Card connector Inverse (https://multimedia.3m.com/mws/media/22365O/3mtm-cf-card-header-compactflashtm-type-i-sm-ts0662.pdf)")
+  (descr "Compact Flash Card connector Card Polarization Normal (https://multimedia.3m.com/mws/media/22365O/3mtm-cf-card-header-compactflashtm-type-i-sm-ts0662.pdf)")
   (tags "connector cf")
   (attr smd)
   (fp_text reference "REF**" (at 4.32 0 90) (layer "F.SilkS")
