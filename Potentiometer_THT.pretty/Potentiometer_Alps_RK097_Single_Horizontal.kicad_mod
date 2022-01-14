@@ -1,6 +1,6 @@
 (footprint "Potentiometer_Alps_RK097_Single_Horizontal" (version 20211014) (generator pcbnew)
  (layer "F.Cu")
-  (tedit 61E0AFD0)
+  (tedit 61E18BBF)
   (descr "Potentiometer, horizontal, Alps RK097 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK097/RK097_list.html")
   (tags "Potentiometer horizontal Alps RK097 Single")
   (attr through_hole)
@@ -72,7 +72,7 @@
  (layer "F.Fab") (tstamp 8fcd5c5a-0322-41b1-a74f-f5cffffa5a2c))
   (fp_line (start 2.05 7.25) (end 2.05 -2.25)
  (layer "F.Fab") (tstamp 33566f23-6026-493d-ab37-bd5460b9f2cd))
-  (pad "1" thru_hole circle (at 0 0 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp b6b85363-2871-4b5f-92e5-74af862ca286))
+  (pad "1" thru_hole rect (at 0 0 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp b6b85363-2871-4b5f-92e5-74af862ca286))
   (pad "2" thru_hole circle (at 0 2.5 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 1ae0c180-0b11-4fb5-9a96-9685cb4fe453))
   (pad "3" thru_hole circle (at 0 5 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 7b4f7318-be67-4d53-9496-ff91cda0d891))
   (model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK097_Single_Horizontal.wrl"

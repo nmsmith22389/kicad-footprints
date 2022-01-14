@@ -1,6 +1,6 @@
 (footprint "Potentiometer_Alps_RK09L_Single_Horizontal" (version 20211014) (generator pcbnew)
  (layer "F.Cu")
-  (tedit 61E0AF69)
+  (tedit 61E18B7C)
   (descr "Potentiometer, horizontal, Alps RK09L Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html")
   (tags "Potentiometer horizontal Alps RK09L Single")
   (attr through_hole)
@@ -74,7 +74,7 @@
  (layer "F.Fab") (tstamp 24bfdc9a-83ed-448b-9d81-00c53b4bdccd))
   (pad "" thru_hole roundrect (at 4.1 -2.25 270) (size 3 2) (drill oval 1.8 1.1) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp d86758b2-b50c-4fad-9bd4-b70070cd5ed0))
   (pad "" thru_hole roundrect (at 4.1 7.25 270) (size 3 2) (drill oval 1.8 1.1) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp f5ba4029-3e75-4ca1-9a2b-698bf449b12d))
-  (pad "1" thru_hole circle (at 0 0 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 6ac86314-ba2e-4c86-9f9b-b48708e22ff1))
+  (pad "1" thru_hole rect (at 0 0 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 6ac86314-ba2e-4c86-9f9b-b48708e22ff1))
   (pad "2" thru_hole circle (at 0 2.5 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 66cf44fc-2d0e-46e0-bf17-19826d064622))
   (pad "3" thru_hole circle (at 0 5 180) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 89afb379-48e4-4f9e-a49e-a6f2b1270327))
   (model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK09L_Single_Horizontal.wrl"
