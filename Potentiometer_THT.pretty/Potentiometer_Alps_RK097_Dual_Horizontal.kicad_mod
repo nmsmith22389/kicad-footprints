@@ -1,7 +1,7 @@
 (footprint "Potentiometer_Alps_RK097_Dual_Horizontal" (version 20211014) (generator pcbnew)
  (layer "F.Cu")
   (tedit 61E1D8F0)
-  (descr "Potentiometer, horizontal, Alps RK097 Dual, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK097/RK097_list.html")
+  (descr "Potentiometer, horizontal, Alps RK097 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf")
   (tags "Potentiometer horizontal Alps RK097 Dual")
   (attr through_hole)
   (fp_text reference "REF**" (at 0 8.5 180) (layer "F.SilkS")
