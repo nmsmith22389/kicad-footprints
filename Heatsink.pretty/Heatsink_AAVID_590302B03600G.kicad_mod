@@ -1,4 +1,4 @@
-(footprint "Heatsink_Aavid_590302B03600G" (version 20211014) (generator pcbnew)
+(footprint "Heatsink_AAVID_590302B03600G" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 61ECA9D7)
   (descr "Heatsink, 25.4x25.4x42.54mm, TO-220, https://www.boydcorp.com/aavid-datasheets/Board-Level-Cooling-Channel-5903.pdf")
@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e149e0b1-47fa-4b20-b36e-2d51ee1e85c3)
   )
-  (fp_text value "Heatsink_Aavid_590302B03600G" (at 2.54 27.04) (layer "F.Fab")
+  (fp_text value "Heatsink_AAVID_590302B03600G" (at 2.54 27.04) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 81c041f3-483e-477d-9475-d108280de2a9)
   )
@@ -54,7 +54,7 @@
   (fp_line (start 15.24 24.74) (end -10.155 24.74) (layer "F.Fab") (width 0.1) (tstamp f6ee98b5-4773-4eeb-a825-33c1705abace))
   (pad "1" thru_hole oval (at 0 0) (size 5.05 3) (drill oval 3.55 1.5) (layers *.Cu *.Mask) (tstamp e68c5170-03c3-4a20-abd0-ad610c43d035))
   (pad "2" thru_hole oval (at 0 24.08) (size 5.05 3) (drill oval 3.55 1.5) (layers *.Cu *.Mask) (tstamp 92e8f8c3-0985-4c0d-8e38-92cbbf365409))
-  (model "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Aavid_590302B03600G.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_AAVID_590302B03600G.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
