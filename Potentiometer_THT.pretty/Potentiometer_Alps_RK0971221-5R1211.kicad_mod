@@ -1,6 +1,6 @@
 (footprint "Potentiometer_Alps_RK0971221-5R1211" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61EDD671)
+  (tedit 61EDD7C8)
   (descr "Dual Pot, Horizontal, Switch, Alps RK097 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf")
   (tags "pot horizontal alps rk097 dual switch")
   (attr through_hole)
@@ -44,7 +44,7 @@
   (pad "7" thru_hole circle (at 8.75 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 87371631-aa02-498a-998a-09bdb74784c1))
   (pad "8" thru_hole circle (at 8.75 5) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 30f15357-ce1d-48b9-93dc-7d9b1b2aa048))
   (model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK0971221-5R1211.wrl"
-    (offset (xyz -4.8 -5 0))
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
