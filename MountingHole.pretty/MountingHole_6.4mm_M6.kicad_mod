@@ -3,7 +3,7 @@
   (tedit 56D1B4CB)
   (descr "Mounting Hole 6.4mm, no annular, M6")
   (tags "mounting hole 6.4mm no annular m6")
-  (attr exclude_from_pos_files exclude_from_bom)
+  (attr through_hole exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -7.4) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 8810bbb1-373f-4d4e-9196-6f4fdd7f8748)

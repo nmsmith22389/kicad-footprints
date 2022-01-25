@@ -3,7 +3,7 @@
   (tedit 56DDC273)
   (descr "Mounting Hole 5.5mm")
   (tags "mounting hole 5.5mm")
-  (attr exclude_from_pos_files exclude_from_bom)
+  (attr through_hole exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 516ece8d-ba0e-437a-9a7d-ea08decd9ff1)

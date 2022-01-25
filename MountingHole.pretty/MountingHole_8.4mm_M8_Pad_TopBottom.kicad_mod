@@ -3,7 +3,7 @@
   (tedit 56D1B4CB)
   (descr "Mounting Hole 8.4mm, M8")
   (tags "mounting hole 8.4mm m8")
-  (attr exclude_from_pos_files exclude_from_bom)
+  (attr through_hole exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -9.4) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 93f5edff-c3ad-49fb-b350-7caa1b8a8d60)

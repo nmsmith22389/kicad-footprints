@@ -3,7 +3,7 @@
   (tedit 56D1B4CB)
   (descr "Mounting Hole 6.4mm, M6")
   (tags "mounting hole 6.4mm m6")
-  (attr exclude_from_pos_files exclude_from_bom)
+  (attr through_hole exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -7.4) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c4394f49-f248-4bfa-9cce-073990c214af)

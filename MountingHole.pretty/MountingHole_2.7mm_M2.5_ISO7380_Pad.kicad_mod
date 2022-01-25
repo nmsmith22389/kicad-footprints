@@ -3,7 +3,7 @@
   (tedit 56D1B4CB)
   (descr "Mounting Hole 2.7mm, M2.5, ISO7380")
   (tags "mounting hole 2.7mm m2.5 iso7380")
-  (attr exclude_from_pos_files exclude_from_bom)
+  (attr through_hole exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -3.25) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9bab063a-39f0-4c8a-b526-88d96833113f)

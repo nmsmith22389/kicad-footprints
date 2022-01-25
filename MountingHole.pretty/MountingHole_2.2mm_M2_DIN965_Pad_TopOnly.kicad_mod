@@ -3,7 +3,7 @@
   (tedit 56D1B4CB)
   (descr "Mounting Hole 2.2mm, M2, DIN965")
   (tags "mounting hole 2.2mm m2 din965")
-  (attr exclude_from_pos_files exclude_from_bom)
+  (attr through_hole exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -2.9) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b04b8a31-ce2d-486e-876a-6e7e2fc2ce1d)
