@@ -18,6 +18,6 @@
   )
   (fp_circle (center 0 0) (end 3.5 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp fb779745-4ebd-4d06-bc24-f6e25fb5355b))
   (fp_circle (center 0 0) (end 3.75 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp b6c057d7-0225-4ec5-b896-0521e50fe72d))
-  (pad "1" thru_hole circle (at 0 0) (size 3.9 3.9) (drill 3.5) (layers *.Cu *.Mask) (tstamp 5d5e2279-1ab6-4d60-9df9-94d2381c6629))
-  (pad "1" connect circle (at 0 0) (size 7 7) (layers "F.Cu" "F.Mask") (tstamp db922f0a-398d-4db6-9764-ca045f903908))
+  (pad "" thru_hole circle (at 0 0) (size 3.9 3.9) (drill 3.5) (layers *.Cu *.Mask) (tstamp 5d5e2279-1ab6-4d60-9df9-94d2381c6629))
+  (pad "" connect circle (at 0 0) (size 7 7) (layers "F.Cu" "F.Mask") (tstamp db922f0a-398d-4db6-9764-ca045f903908))
 )
