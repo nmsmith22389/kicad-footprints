@@ -3,7 +3,7 @@
   (tedit 5B924920)
   (descr "Mounting Hole 2mm, no annular")
   (tags "mounting hole 2mm no annular")
-  (attr exclude_from_pos_files exclude_from_bom)
+  (attr through_hole exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -3.2) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a6c85626-27f1-4353-8b9d-ea3e559a3b58)
