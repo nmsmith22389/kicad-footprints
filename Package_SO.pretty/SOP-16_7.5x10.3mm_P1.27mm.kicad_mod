@@ -1,4 +1,4 @@
-(module SOP-16_7.5x10.3mm_P1.27mm (layer F.Cu) (tedit 61F7CBF4)
+(module SOP-16_7.5x10.3mm_P1.27mm (layer F.Cu) (tedit 61F8E807)
   (descr "SOP, 16 Pin (https://www.ti.com/lit/ds/symlink/pcf8574a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOP SO")
   (attr smd)
