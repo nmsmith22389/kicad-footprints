@@ -1,5 +1,6 @@
-(footprint "Jack_3.5mm_Technik_TWP-3002_Horizontal" (version 20210424) (generator pcbnew) (layer "F.Cu")
-  (tedit 60A51B93)
+(footprint "Jack_3.5mm_Technik_TWP-3002_Horizontal" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 6200EBC5)
   (descr "3.5mm Horizontal Waterproof Stereo Headphones Jack, https://www.technik.com.hk/images/pdf_product/WP3002-PA66-A.pdf")
   (tags "audio jack stereo horizontal waterproof")
   (attr through_hole)
