@@ -1,6 +1,6 @@
 project( kicad-footprints NONE )
 
-cmake_minimum_required( VERSION 2.6.1 FATAL_ERROR )
+cmake_minimum_required( VERSION 3.10 FATAL_ERROR )
 
 
 #================================================
@@ -10,13 +10,13 @@ if( APPLE )
     # Like all variables, CMAKE_INSTALL_PREFIX can be over-ridden on the command line.
     set( CMAKE_INSTALL_PREFIX "/Library/Application Support/kicad/" CACHE PATH "" )
     # Everything without leading / is relative to CMAKE_INSTALL_PREFIX.
-    set( KICAD_MODULES modules )
+    set( KICAD_MODULES footprints )
     set( KICAD_TEMPLATE template )
 else()
     # Everything without leading / is relative to CMAKE_INSTALL_PREFIX.
     set( KICAD_DATA share/kicad
         CACHE PATH "Location of KiCad data files." )
-    set( KICAD_MODULES ${KICAD_DATA}/modules )
+    set( KICAD_MODULES ${KICAD_DATA}/footprints )
     set( KICAD_TEMPLATE ${KICAD_DATA}/template )
 endif()
 
