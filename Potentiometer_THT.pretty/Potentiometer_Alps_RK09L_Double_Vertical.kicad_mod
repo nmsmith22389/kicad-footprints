@@ -42,10 +42,10 @@
   (pad "4" thru_hole circle (at 2.5 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 43fb1ad0-b982-4374-be37-b53c9d5c6c69))
   (pad "5" thru_hole circle (at 2.5 2.5) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 2db468ce-74b6-4b8e-be3b-d954e0a4d82c))
   (pad "6" thru_hole circle (at 2.5 5) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 84f455f6-0e54-4bd9-8a21-565c54e63408))
-  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp db4b3fd7-8808-4be0-88b9-faa4d762c095) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp db4b3fd7-8808-4be0-88b9-faa4d762c095) (name "Copper Keep Out") (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed ) (copperpour allowed) (footprints allowed))
+    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed ) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -56,10 +56,10 @@
       )
     )
   )
-  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 1399f001-fcc8-44ad-93cd-45f556537d9b) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 1399f001-fcc8-44ad-93cd-45f556537d9b) (name "Copper Keep Out") (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed ) (copperpour allowed) (footprints allowed))
+    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed ) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
