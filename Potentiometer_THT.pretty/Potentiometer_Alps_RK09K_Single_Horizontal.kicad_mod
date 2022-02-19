@@ -1,7 +1,7 @@
 (footprint "Potentiometer_Alps_RK09K_Single_Horizontal" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 61FEE6D2)
-  (descr "111009J 1110AK4 11100DN 1110AAR 1110077 1110A0J 110AMJ 1110B26 D1110C1A Potentiometer, horizontal, Alps RK09K Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09K_list.html")
+  (descr "111009J 1110AK4 11100DN 1110AAR 1110077 1110A0J 110AMJ 1110B26 D1110C1A Potentiometer, horizontal, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
   (tags "Potentiometer horizontal Alps RK09K Single Snapin")
   (attr through_hole)
   (fp_text reference "REF**" (at 0 11.05 180) (layer "F.SilkS")
