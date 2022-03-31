@@ -1,6 +1,6 @@
 (footprint "ESP32-S3-WROOM-1U" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6243F210)
+  (tedit 6244D267)
   (descr "2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf")
   (tags "2.4 GHz Wi-Fi and Bluetooth module")
   (attr smd)
@@ -142,7 +142,7 @@
   (pad "41" thru_hole circle (at -2.2 -0.69) (size 0.5 0.5) (drill 0.2) (layers *.Cu "B.Mask") (tstamp 78c68a1a-003b-474b-97aa-5fc5a7548a4e))
   (pad "41" thru_hole circle (at -0.8 -2.09) (size 0.5 0.5) (drill 0.2) (layers *.Cu "B.Mask") (tstamp d208edff-c132-4ec2-b7b4-840cca7e27cc))
   (pad "41" thru_hole circle (at -0.8 0.71) (size 0.5 0.5) (drill 0.2) (layers *.Cu "B.Mask") (tstamp d879bd0d-4ddc-47d8-b271-6ac1865b94d9))
-  (pad "41" smd rect (at -1.5 -0.69) (size 3.7 3.7) (layers "F.Cu" "F.Mask") (tstamp dfda57a3-f97d-4f9a-bba2-393823e00670))
+  (pad "41" smd rect (at -1.5 -0.69) (size 3.9 3.9) (layers "F.Cu" "F.Mask") (tstamp dfda57a3-f97d-4f9a-bba2-393823e00670))
   (pad "41" thru_hole circle (at -2.2 0.71) (size 0.5 0.5) (drill 0.2) (layers *.Cu "B.Mask") (tstamp e74c08bc-50c2-477d-9b06-97310a1d390d))
   (pad "41" thru_hole circle (at -2.9 -1.39) (size 0.5 0.5) (drill 0.2) (layers *.Cu "B.Mask") (tstamp e8dee418-73fb-4299-a24a-c99fc506ec13))
   (model "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ESP32-S3-WROOM-1U.wrl"
