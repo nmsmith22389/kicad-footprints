@@ -1,6 +1,8 @@
 (footprint "USB3_B_Connfly_DS1099-02" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
+  (descr "USB 3.0, type B, right angle (http://en.connfly.com/static/upload/file/pdf/DS1099-02.pdf)")
+  (tags "USB 3.0 type B right angle")
   (attr through_hole)
   (fp_text reference "REF**" (at -1.25 -5.08 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -32,4 +34,9 @@
   (pad "9" thru_hole circle (at 3 -2) (size 1.3 1.3) (drill 0.7) (layers *.Cu *.Mask) (tstamp f82dc44c-46f4-4e57-907c-b1c42e667a98))
   (pad "10" thru_hole circle (at -7.27 4.71) (size 3.5 3.5) (drill 2.3) (layers *.Cu *.Mask) (tstamp 67ac3a88-af31-4960-be8b-5768270aa521))
   (pad "10" thru_hole circle (at 4.77 4.71) (size 3.5 3.5) (drill 2.3) (layers *.Cu *.Mask) (tstamp f7dd4e2b-6c80-4c02-b5ae-0f669fa6d42c))
+  (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB3_B_Connfly_DS1099-02.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
