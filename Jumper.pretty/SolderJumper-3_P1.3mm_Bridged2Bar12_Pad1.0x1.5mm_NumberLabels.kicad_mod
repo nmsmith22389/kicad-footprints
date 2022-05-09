@@ -1,7 +1,7 @@
 (footprint "SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm_NumberLabels" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5C756B16)
-  (descr "SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers")
+  (descr "SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 2 copper strips, labeled with numbers")
   (tags "net tie solder jumper bridged")
   (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -1.8) (layer "F.SilkS")
