@@ -13,7 +13,7 @@
     (tstamp abcca5b6-1843-4985-86b3-98c95a54b5d0)
   )
   (fp_text user "Sound Exit Hole" (at 0 -5 unlocked) (layer "Cmts.User")
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.5 0.5) (thickness 0.08)))
     (tstamp 1c7d349c-d2da-4ef6-a8a5-45ed3856b2b6)
   )
   (fp_text user "${REFERENCE}" (at 0 0 180) (layer "F.Fab")
