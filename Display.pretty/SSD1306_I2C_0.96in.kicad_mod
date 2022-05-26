@@ -46,4 +46,9 @@
   (pad "2" thru_hole circle (at 2.54 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp f2ea3e67-7e92-4626-ad6f-55a05e1e2336))
   (pad "3" thru_hole circle (at 5.08 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 8464218b-d79b-4f0c-ac95-cd3b58398de8))
   (pad "4" thru_hole circle (at 7.62 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp bdb31262-7633-44e7-bc85-b0781bebf5f4))
+  (model "${KICAD6_3DMODEL_DIR}/Display.3dshapes/SSD1306_I2C_0.96in.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
