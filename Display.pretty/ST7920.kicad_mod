@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 8c76a6b1-60f1-40e5-8a1c-06e484f3185b)
   )
-  (fp_text value "ST7920_128x64" (at 63.5 61.79 270) (layer "F.Fab")
+  (fp_text value "ST7920" (at 63.5 61.79 270) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 1966db93-da7a-4b65-bd51-3bb0a1fedfb8)
   )
