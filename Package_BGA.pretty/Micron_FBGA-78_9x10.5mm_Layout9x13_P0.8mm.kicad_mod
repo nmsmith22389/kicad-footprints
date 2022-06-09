@@ -1,4 +1,4 @@
-(module Micron_FBGA-78_9x10.5mm_Layout9x13_P0.8mm (layer F.Cu) (tedit 6224B32F)
+(module Micron_FBGA-78_9x10.5mm_Layout9x13_P0.8mm (layer F.Cu) (tedit 62A1B852)
   (descr "FBGA-78, 10.5x9.0mm, 78 Ball, 9x13 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=23")
   (tags "BGA 78 0.8")
   (attr smd)
@@ -99,7 +99,7 @@
   (pad N7 smd circle (at 1.6 4.8) (size 0.45 0.45) (layers F.Cu F.Mask F.Paste))
   (pad N8 smd circle (at 2.4 4.8) (size 0.45 0.45) (layers F.Cu F.Mask F.Paste))
   (pad N9 smd circle (at 3.2 4.8) (size 0.45 0.45) (layers F.Cu F.Mask F.Paste))
-  (fp_text user %R (at 0 0) (layer F.Fab)
+  (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Micron_FBGA-78_9x10.5mm_Layout9x13_P0.8mm.wrl
