@@ -1,5 +1,5 @@
-(module L_Wuerth_LQS-2010 (layer F.Cu) (tedit 62CEC038)
-  (descr "Inductor, Wurth Elektronik, LQS-Wuerth_LQS-2010, 2.0x1.6mm")
+(module L_Wuerth_LQS-2010 (layer F.Cu) (tedit 62CFCF43)
+  (descr "Inductor, Wurth Elektronik, LQS-Wuerth_LQS-2010, 2.0mmx1.6mm")
   (tags "inductor we wurth lqs smd")
   (attr smd)
   (fp_text reference REF** (at 0 -1.8) (layer F.SilkS)
@@ -20,7 +20,15 @@
   (fp_line (start -1.1 -0.9) (end 1.1 -0.9) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at -0.76 0) (size 0.82 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.76 0) (size 0.82 1.2) (layers F.Cu F.Paste F.Mask))
-  (model Inductors_SMD.3dshapes/L_Wuerth_LQS-2010.stp
+  (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (model ${KICAD6_3DMODEL_DIR}/Inductors_SMD.3dshapes/L_Wuerth_LQS-2010.stp
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model ${KICAD6_3DMODEL_DIR}/Inductors_SMD.3dshapes/L_Wuerth_LQS-2010.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
