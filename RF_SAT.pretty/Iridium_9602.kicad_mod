@@ -3,7 +3,7 @@
   (tedit 61D71285)
   (descr "Iridium 9602 SBD Module, https://fccid.io/Q639603N/User-Manual/Iridium-9602-9602N-SBD-Transceiver-Developers-Guide-V1-2-DRAFT2-2528889.pdf")
   (tags "Iridium Module")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0 22) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 3490fb7d-3d08-4502-a546-5abf6832aa68)
@@ -72,4 +72,9 @@
   (pad "24" thru_hole circle (at 9.23 -15.3) (size 1.4 1.4) (drill 1) (layers *.Cu *.Mask) (tstamp 638785c0-7788-4948-a502-75acb50fc63f))
   (pad "24" thru_hole circle (at 9.23 -17.84) (size 1.4 1.4) (drill 1) (layers *.Cu *.Mask) (tstamp c216a601-d2a3-4802-adad-b802e2de553f))
   (pad "24" thru_hole circle (at 11.77 -17.84) (size 1.4 1.4) (drill 1) (layers *.Cu *.Mask) (tstamp fae2b5ad-a070-4a66-8441-2fbfb7e3b44d))
+  (model "${KICAD6_3DMODEL_DIR}/RF_SAT.3dshapes/Iridium_9602.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
