@@ -40,8 +40,8 @@
   (pad "2" thru_hole circle (at 5.08 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask) (tstamp aeb8af32-040e-4c46-a9d8-0d943af013c3))
   (pad "3" thru_hole circle (at 10.16 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask) (tstamp 0b04878a-0226-49ae-aebe-432c0d5c8c51))
   (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_XKB_DM1-16UC-1.wrl"
-    (offset (xyz 5.08 2.4 2.92))
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 90 0 0))
+    (rotate (xyz 0 0 0))
   )
 )
