@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (tedit 0)
   (descr "10/100/1000 Base-T Transformer Module, PT61020EL (https://www.bourns.com/pdfs/PT61020.pdf)")
-  (tags "Gigabit Ethernet Transformer Single")
+  (tags "Gigabit PoE Ethernet Transformer Single")
   (attr smd)
   (fp_text reference "REF**" (at 0 -10 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
