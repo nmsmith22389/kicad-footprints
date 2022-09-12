@@ -1,7 +1,7 @@
 (footprint "Lightpipe_Bivar_RLP1-400-650" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 62CD4B11)
-  (descr "https://www.bivar.com/parts_content/Datasheets/RLP1-XXX-XXX.pdf")
+  (descr "1-way, 2.8mm lightpipe, 10mm lens output height, 17mm protrusion, https://www.bivar.com/parts_content/Datasheets/RLP1-XXX-XXX.pdf")
   (tags "planar light pipe 1 way 3mm ")
   (fp_text reference "REF**" (at -5.6 3.05) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
