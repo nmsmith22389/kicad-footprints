@@ -3,7 +3,6 @@
   (tedit 62CD4B11)
   (descr "https://www.bivar.com/parts_content/Datasheets/RLP1-XXX-XXX.pdf")
   (tags "planar light pipe 1 way 3mm ")
-  (attr through_hole)
   (fp_text reference "REF**" (at -5.6 3.05) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5a56a701-4edc-41de-ba6c-648b794b3365)
