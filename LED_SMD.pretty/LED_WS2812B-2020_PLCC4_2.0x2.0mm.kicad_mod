@@ -1,7 +1,7 @@
 (footprint "LED_WS2812B-2020_PLCC4_2.0x2.0mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5AA4B285)
-  (descr "https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf")
+  (descr "Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf")
   (tags "LED RGB NeoPixel Nano 2020")
   (attr smd)
   (fp_text reference "REF**" (at 0 -2) (layer "F.SilkS")
