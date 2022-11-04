@@ -1,4 +1,4 @@
-(module Mounting_Wuerth_WA-SMSI-M2.5_H5mm_9774050151 (layer F.Cu) (tedit 6364D90B)
+(module Mounting_Wuerth_WA-SMSI-M2.5_H5mm_9774050151 (layer F.Cu) (tedit 6364DBE2)
   (descr "Mounting Hardware, inside through hole M2.5, height 5, Wuerth electronics 9774050151 (https://www.we-online.com/catalog/datasheet/9774050151.pdf), generated with kicad-footprint-generator")
   (tags "Mounting M2.5 9774050151")
   (attr smd)
