@@ -43,4 +43,9 @@
   (pad "4" thru_hole circle (at 5.08 -5.08) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp 2fdd5221-9f35-4767-8a97-57dfe645dd52))
   (pad "4" thru_hole circle (at -2.54 -5.08) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp cca0c657-7fe4-485c-b3b6-3078c10ff349))
   (pad "4" thru_hole circle (at 5.08 2.54) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp d92b07ab-8cde-458a-8435-f0412fe7c363))
+  (model "${KICAD6_3DMODEL_DIR}/Connector_LEMO.3dshapes/LEMO_0B-3_EPG.0B.303_Horizontal.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
