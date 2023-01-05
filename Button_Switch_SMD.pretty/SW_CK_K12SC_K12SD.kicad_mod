@@ -12,7 +12,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4addd49a-8445-451a-abae-e2a1b0a51328)
   )
-  (fp_text user "${REFERENCE}" (at 0 0 unlocked) (layer "F.SilkS")
+  (fp_text user "${REFERENCE}" (at 0 0 unlocked) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 159db620-f1a7-4f62-8dd5-d93676831cd2)
   )
