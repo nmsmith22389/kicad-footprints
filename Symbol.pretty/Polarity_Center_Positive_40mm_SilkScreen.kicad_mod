@@ -1,18 +1,48 @@
-(footprint "Polarity_Center_Positive_40mm_SilkScreen" (version 20211014) (generator pcbnew)
+(footprint "Polarity_Center_Positive_40mm_SilkScreen" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 0)
   (descr "Polarity Logo, Center Positive")
   (tags "Logo Polarity Center Positive")
   (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 7dd92bd4-8c5c-4612-9350-04c9fee77bfc)
   )
   (fp_text value "Polarity_Center_Positive_40mm_SilkScreen" (at 0.75 0) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 0e776182-b47c-45c0-84a4-7706826f75f3)
   )
-  (fp_poly (pts
+  (fp_poly
+    (pts
+      (xy -49.883935 1.998688)
+      (xy -69.87082 1.998688)
+      (xy -69.87082 -1.998689)
+      (xy -49.883935 -1.998689)
+      (xy -49.883935 1.998688)
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp b7fbde0e-c92a-4dfd-b6c8-3a046f24356a))
+  (fp_poly
+    (pts
+      (xy 61.959344 -1.998689)
+      (xy 69.954098 -1.998689)
+      (xy 69.954098 1.998688)
+      (xy 61.959344 1.998688)
+      (xy 61.959344 9.993442)
+      (xy 57.961967 9.993442)
+      (xy 57.961967 1.998688)
+      (xy 49.967213 1.998688)
+      (xy 49.967213 -1.997074)
+      (xy 53.94377 -2.018701)
+      (xy 57.920328 -2.040328)
+      (xy 57.941955 -6.016885)
+      (xy 57.963582 -9.993443)
+      (xy 61.959344 -9.993443)
+      (xy 61.959344 -1.998689)
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 8daac1b3-e3ec-4f91-a8a8-399d5666fc93))
+  (fp_poly
+    (pts
       (xy 60.764625 -19.965869)
       (xy 61.48763 -19.937991)
       (xy 61.840351 -19.911648)
@@ -282,25 +312,11 @@
       (xy 59.122018 -19.953794)
       (xy 59.95957 -19.970712)
       (xy 60.764625 -19.965869)
-    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 69212f12-79be-4622-a8ad-98a352f9c092))
-  (fp_poly (pts
-      (xy 61.959344 -1.998689)
-      (xy 69.954098 -1.998689)
-      (xy 69.954098 1.998688)
-      (xy 61.959344 1.998688)
-      (xy 61.959344 9.993442)
-      (xy 57.961967 9.993442)
-      (xy 57.961967 1.998688)
-      (xy 49.967213 1.998688)
-      (xy 49.967213 -1.997074)
-      (xy 53.94377 -2.018701)
-      (xy 57.920328 -2.040328)
-      (xy 57.941955 -6.016885)
-      (xy 57.963582 -9.993443)
-      (xy 61.959344 -9.993443)
-      (xy 61.959344 -1.998689)
-    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 8daac1b3-e3ec-4f91-a8a8-399d5666fc93))
-  (fp_poly (pts
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 69212f12-79be-4622-a8ad-98a352f9c092))
+  (fp_poly
+    (pts
       (xy 1.882611 -19.876328)
       (xy 3.625566 -19.637164)
       (xy 5.345527 -19.240271)
@@ -642,12 +658,7 @@
       (xy -1.625583 -19.887893)
       (xy 0.128336 -19.959369)
       (xy 1.882611 -19.876328)
-    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 98cfcf06-9610-44ff-b05e-0cd699161ab8))
-  (fp_poly (pts
-      (xy -49.883935 1.998688)
-      (xy -69.87082 1.998688)
-      (xy -69.87082 -1.998689)
-      (xy -49.883935 -1.998689)
-      (xy -49.883935 1.998688)
-    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp b7fbde0e-c92a-4dfd-b6c8-3a046f24356a))
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 98cfcf06-9610-44ff-b05e-0cd699161ab8))
 )

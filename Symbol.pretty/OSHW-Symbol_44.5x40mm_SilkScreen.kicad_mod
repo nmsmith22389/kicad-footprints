@@ -1,18 +1,18 @@
-(footprint "OSHW-Symbol_44.5x40mm_SilkScreen" (version 20211014) (generator pcbnew)
+(footprint "OSHW-Symbol_44.5x40mm_SilkScreen" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 0)
   (descr "Open Source Hardware Symbol")
   (tags "Logo Symbol OSHW")
   (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp fad92b7a-42a6-4162-8128-eaa2a49e9089)
   )
   (fp_text value "OSHW-Symbol_44.5x40mm_SilkScreen" (at 0.75 0) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 61812bcf-44b4-4ef7-a3bf-14ef994f73a3)
   )
-  (fp_poly (pts
+  (fp_poly
+    (pts
       (xy 3.714468 -16.997867)
       (xy 4.274634 -14.011909)
       (xy 6.341569 -13.155674)
@@ -351,5 +351,7 @@
       (xy -3.0304 -19.983824)
       (xy 3.154303 -19.983824)
       (xy 3.714468 -16.997867)
-    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 1b4f441c-c515-4d60-a2e8-dcf8299a2b3d))
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 1b4f441c-c515-4d60-a2e8-dcf8299a2b3d))
 )

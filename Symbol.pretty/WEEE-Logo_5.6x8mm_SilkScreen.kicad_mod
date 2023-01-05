@@ -1,25 +1,28 @@
-(footprint "WEEE-Logo_5.6x8mm_SilkScreen" (version 20211014) (generator pcbnew)
+(footprint "WEEE-Logo_5.6x8mm_SilkScreen" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 0)
   (descr "Waste Electrical and Electronic Equipment Directive")
   (tags "Logo WEEE")
   (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a8915fad-22d8-4119-9bb8-b7d7f90fa4cd)
   )
   (fp_text value "WEEE-Logo_5.6x8mm_SilkScreen" (at 0.75 0) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 3a0c6d1d-f6a4-444e-903a-0d28107c387f)
   )
-  (fp_poly (pts
+  (fp_poly
+    (pts
       (xy 2.322763 4.010526)
       (xy -2.356184 4.010526)
       (xy -2.356184 2.8575)
       (xy 2.322763 2.8575)
       (xy 2.322763 4.010526)
-    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp d7f7dedb-9f9a-495b-9113-ae271d0cf6b1))
-  (fp_poly (pts
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp d7f7dedb-9f9a-495b-9113-ae271d0cf6b1))
+  (fp_poly
+    (pts
       (xy 2.823256 -3.900663)
       (xy 2.822433 -3.784934)
       (xy 2.222115 -3.175)
@@ -537,5 +540,7 @@
       (xy 2.104031 -3.286551)
       (xy 2.824079 -4.01639)
       (xy 2.823256 -3.900663)
-    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp ee2197f8-5116-4688-914b-48e457bf07ab))
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp ee2197f8-5116-4688-914b-48e457bf07ab))
 )

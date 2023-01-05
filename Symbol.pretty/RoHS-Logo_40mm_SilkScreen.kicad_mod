@@ -1,18 +1,36 @@
-(footprint "RoHS-Logo_40mm_SilkScreen" (version 20211014) (generator pcbnew)
+(footprint "RoHS-Logo_40mm_SilkScreen" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 0)
   (descr "Restriction of Hazardous Substances Directive Logo")
   (tags "Logo RoHS")
   (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 365c9d9d-5a50-4b2b-821b-523cfc91aaa7)
   )
   (fp_text value "RoHS-Logo_40mm_SilkScreen" (at 0.75 0) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp bbdf5aea-7059-4c94-8738-42c58222bc4f)
   )
-  (fp_poly (pts
+  (fp_poly
+    (pts
+      (xy 9.525 -4.082142)
+      (xy 24.492857 -4.082142)
+      (xy 24.492857 -19.20119)
+      (xy 32.354761 -19.20119)
+      (xy 32.354761 19.201191)
+      (xy 24.492857 19.201191)
+      (xy 24.492857 2.416199)
+      (xy 9.600595 2.494643)
+      (xy 9.522439 19.201191)
+      (xy 1.663095 19.201191)
+      (xy 1.663095 -19.20119)
+      (xy 9.525 -19.20119)
+      (xy 9.525 -4.082142)
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp b8ded76a-8a5e-41ae-a6e6-3d040f66115e))
+  (fp_poly
+    (pts
       (xy -18.445239 -9.132406)
       (xy -17.435782 -9.125462)
       (xy -16.657887 -9.105697)
@@ -126,8 +144,11 @@
       (xy -19.800877 -9.127016)
       (xy -18.921527 -9.132978)
       (xy -18.445239 -9.132406)
-    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 56a6834f-fed8-43f4-b28b-525efc1bcf1c))
-  (fp_poly (pts
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 56a6834f-fed8-43f4-b28b-525efc1bcf1c))
+  (fp_poly
+    (pts
       (xy -59.077679 -19.153026)
       (xy -56.702695 -19.134901)
       (xy -54.580888 -19.113468)
@@ -259,23 +280,11 @@
       (xy -69.69881 -12.548809)
       (xy -69.69881 -19.222825)
       (xy -59.077679 -19.153026)
-    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp a85a60fc-8d5b-485f-8459-41ff443ef6d1))
-  (fp_poly (pts
-      (xy 9.525 -4.082142)
-      (xy 24.492857 -4.082142)
-      (xy 24.492857 -19.20119)
-      (xy 32.354761 -19.20119)
-      (xy 32.354761 19.201191)
-      (xy 24.492857 19.201191)
-      (xy 24.492857 2.416199)
-      (xy 9.600595 2.494643)
-      (xy 9.522439 19.201191)
-      (xy 1.663095 19.201191)
-      (xy 1.663095 -19.20119)
-      (xy 9.525 -19.20119)
-      (xy 9.525 -4.082142)
-    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp b8ded76a-8a5e-41ae-a6e6-3d040f66115e))
-  (fp_poly (pts
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp a85a60fc-8d5b-485f-8459-41ff443ef6d1))
+  (fp_poly
+    (pts
       (xy 56.57755 -19.700083)
       (xy 58.106374 -19.516683)
       (xy 59.506633 -19.22042)
@@ -461,5 +470,7 @@
       (xy 52.918612 -19.765774)
       (xy 54.866262 -19.77999)
       (xy 56.57755 -19.700083)
-    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp d36059e1-1faa-4c2e-9889-944b5e41b810))
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp d36059e1-1faa-4c2e-9889-944b5e41b810))
 )

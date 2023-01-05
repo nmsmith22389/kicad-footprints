@@ -1,18 +1,18 @@
-(footprint "FCC-Logo_14.6x12mm_SilkScreen" (version 20211014) (generator pcbnew)
+(footprint "FCC-Logo_14.6x12mm_SilkScreen" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 0)
   (descr "FCC marking")
   (tags "Logo FCC certification")
   (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f48873e2-c46e-4355-ad31-de597afb4806)
   )
   (fp_text value "FCC-Logo_14.6x12mm_SilkScreen" (at 0.75 0) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a2bf288f-7c13-4e4e-922e-6f59da4ff71f)
   )
-  (fp_poly (pts
+  (fp_poly
+    (pts
       (xy 2.744904 -3.367191)
       (xy 3.137257 -3.302011)
       (xy 3.510533 -3.191117)
@@ -146,8 +146,11 @@
       (xy 2.144678 -3.38436)
       (xy 2.328334 -3.388507)
       (xy 2.744904 -3.367191)
-    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 49d842cf-81b1-467f-8c76-b2a5a286c873))
-  (fp_poly (pts
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 49d842cf-81b1-467f-8c76-b2a5a286c873))
+  (fp_poly
+    (pts
       (xy 2.9929 -5.922614)
       (xy 3.528191 -5.839099)
       (xy 3.690938 -5.803152)
@@ -408,5 +411,7 @@
       (xy 1.902737 -5.940693)
       (xy 2.449256 -5.956288)
       (xy 2.9929 -5.922614)
-    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp f65bc631-4426-4f44-9a54-c8906c2a7ed5))
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp f65bc631-4426-4f44-9a54-c8906c2a7ed5))
 )

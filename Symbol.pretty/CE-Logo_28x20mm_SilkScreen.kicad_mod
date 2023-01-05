@@ -1,18 +1,18 @@
-(footprint "CE-Logo_28x20mm_SilkScreen" (version 20211014) (generator pcbnew)
+(footprint "CE-Logo_28x20mm_SilkScreen" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 0)
   (descr "CE marking")
   (tags "Logo CE certification")
   (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 6490a69a-b50c-4c07-8000-564de008b0fa)
   )
   (fp_text value "CE-Logo_28x20mm_SilkScreen" (at 0.75 0) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 7e5b4b31-6a98-4e8d-beb2-b244defac44f)
   )
-  (fp_poly (pts
+  (fp_poly
+    (pts
       (xy -3.511656 -9.982955)
       (xy -3.298195 -9.977459)
       (xy -3.143824 -9.967627)
@@ -123,8 +123,11 @@
       (xy -4.051082 -9.981971)
       (xy -3.768016 -9.984373)
       (xy -3.511656 -9.982955)
-    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 00c4644a-d481-43c4-924b-4db3668b573c))
-  (fp_poly (pts
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 00c4644a-d481-43c4-924b-4db3668b573c))
+  (fp_poly
+    (pts
       (xy 14.013796 -8.441121)
       (xy 14.013799 -6.897414)
       (xy 13.039399 -6.896456)
@@ -236,5 +239,7 @@
       (xy 13.083189 -9.983973)
       (xy 14.013793 -9.984827)
       (xy 14.013796 -8.441121)
-    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 0ba38cc2-aae2-4bf4-92cc-9b7d1c923d28))
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 0ba38cc2-aae2-4bf4-92cc-9b7d1c923d28))
 )

@@ -1,18 +1,18 @@
-(footprint "OSHW-Symbol_22.3x20mm_Copper" (version 20211014) (generator pcbnew)
+(footprint "OSHW-Symbol_22.3x20mm_Copper" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 0)
   (descr "Open Source Hardware Symbol")
   (tags "Logo Symbol OSHW")
   (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 1ab7cb4d-1dec-45ce-8803-0925ef3cdbff)
   )
   (fp_text value "OSHW-Symbol_22.3x20mm_Copper" (at 0.75 0) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 12b28d39-370c-4dbe-82e4-b0c6b6f53fe1)
   )
-  (fp_poly (pts
+  (fp_poly
+    (pts
       (xy 1.866338 -8.498934)
       (xy 2.147794 -7.005955)
       (xy 3.186327 -6.577837)
@@ -351,5 +351,7 @@
       (xy -1.522627 -9.991912)
       (xy 1.584882 -9.991912)
       (xy 1.866338 -8.498934)
-    ) (layer "F.Cu") (width 0.01) (fill solid) (tstamp e5da7cb0-796f-44c7-831a-ab03bbae52f6))
+    )
+
+    (stroke (width 0.01) (type solid)) (fill solid) (layer "F.Cu") (tstamp e5da7cb0-796f-44c7-831a-ab03bbae52f6))
 )
