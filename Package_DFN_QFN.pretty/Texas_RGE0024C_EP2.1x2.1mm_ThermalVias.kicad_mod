@@ -86,7 +86,7 @@
   (pad "25" thru_hole circle (at 0.8 -0.8) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp 5a37c4ad-844c-4c88-a42d-6b50348dc371))
   (pad "25" thru_hole circle (at 0.8 0) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp 0bbadea2-d926-49f1-a0b1-5007617bb23f))
   (pad "25" thru_hole circle (at 0.8 0.8) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp 2838b61e-98d1-46ca-843f-6cb6bed4c5c8))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RGE0024C_EP2.1x2.1mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RGE0024C_EP2.1x2.1mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

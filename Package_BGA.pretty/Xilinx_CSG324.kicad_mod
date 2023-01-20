@@ -366,7 +366,7 @@
   (pad "V16" smd circle (at 5.2 6.8) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 14b94b29-64b4-4abe-9654-5539a434d819))
   (pad "V17" smd circle (at 6 6.8) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 78f5b1f3-d688-49b5-8094-6628f81e6901))
   (pad "V18" smd circle (at 6.8 6.8) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 38489932-7462-4b78-bf06-6a8162577b61))
-  (model "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_CSG324.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_CSG324.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

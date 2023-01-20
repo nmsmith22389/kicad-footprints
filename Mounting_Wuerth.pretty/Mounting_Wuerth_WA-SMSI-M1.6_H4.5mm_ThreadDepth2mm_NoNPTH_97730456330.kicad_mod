@@ -108,7 +108,7 @@
       (gr_line (start -0.465568 -0.527817) (end 1.004737 -0.527817) (width 0.2))
     ) (tstamp 960ce8c8-9dd0-451c-ac23-b366811cecb3))
   (pad "1" smd circle (at 0 0) (size 4 4) (layers "F.Cu" "F.Mask") (tstamp 1cf8f46f-ad2d-4ad7-b961-11f1c2e2b552))
-  (model "${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M1.6_H4.5mm_ThreadDepth2mm_NoNPTH_97730456330.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M1.6_H4.5mm_ThreadDepth2mm_NoNPTH_97730456330.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

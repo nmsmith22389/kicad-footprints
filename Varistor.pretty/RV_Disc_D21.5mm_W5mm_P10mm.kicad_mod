@@ -41,7 +41,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 38595263-25e1-45f6-adbe-e31fe68148d3))
   (pad "1" thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp bb088671-d69c-4bc8-a7af-98698207531d))
   (pad "2" thru_hole circle (at 10 2.3) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp b90b4449-2d86-4708-85d9-5f15e8f7a8c9))
-  (model "${KICAD6_3DMODEL_DIR}/Varistor.3dshapes/RV_Disc_D21.5mm_W5mm_P10mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Varistor.3dshapes/RV_Disc_D21.5mm_W5mm_P10mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

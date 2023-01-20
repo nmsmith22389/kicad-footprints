@@ -49,7 +49,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 077ba8bd-1c3d-4f3b-b0cd-bd3ba78b77cb))
   (pad "1" smd rect (at -2.525 0) (size 2.55 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 480ed6ac-8c9f-458e-b9f4-575796f8746f))
   (pad "2" smd rect (at 2.525 0) (size 2.55 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2d1bd666-dc2e-4c38-86b0-6f0001ef0d34))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_HCM-7070.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_HCM-7070.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

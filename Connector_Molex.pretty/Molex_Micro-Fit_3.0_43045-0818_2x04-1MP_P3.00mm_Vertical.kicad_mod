@@ -125,7 +125,7 @@
   (pad "8" smd rect (at 4.5 4.7) (size 1.27 2.54) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d230e548-89ee-450c-848f-af45ee399641))
   (pad "MP" smd rect (at -8.385 0) (size 3.43 1.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5e2d89ba-be0b-4be9-9f3b-0a63939a12d1))
   (pad "MP" smd rect (at 8.385 0) (size 3.43 1.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3e4a5469-11d0-45f2-81a0-6adf71cd3a28))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43045-0818_2x04-1MP_P3.00mm_Vertical.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43045-0818_2x04-1MP_P3.00mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

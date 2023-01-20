@@ -157,7 +157,7 @@
   (pad "L10" smd circle (at 1.75 2.75) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5ef4255f-cf25-40d3-a551-0aebff70a710))
   (pad "L11" smd circle (at 2.25 2.75) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3f454bd4-b56b-4041-ac33-939454b7cab3))
   (pad "L12" smd circle (at 2.75 2.75) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 56126115-c2f6-4c04-9e2a-df4d7f5d6c25))
-  (model "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

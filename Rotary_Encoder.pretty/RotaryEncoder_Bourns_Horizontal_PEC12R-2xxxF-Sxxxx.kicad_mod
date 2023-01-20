@@ -80,7 +80,7 @@
   (pad "S2" thru_hole circle (at -2.5 -5 90) (size 1.524 1.524) (drill 1) (layers "*.Cu" "*.Mask") (tstamp eb6028be-34b7-4a53-b24c-5b468f2871e1))
   (pad "SH" thru_hole roundrect (at -3.5 -7.9 90) (size 2.9 2.8) (drill oval 2.1 2) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25) (tstamp 32b630ce-0ea5-488c-9394-448f680f7361))
   (pad "SH" thru_hole roundrect (at -3.5 2.9 90) (size 2.9 2.8) (drill oval 2.1 2) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25) (tstamp 4d0ceed4-36ad-4a62-a1a6-fc227ae13209))
-  (model "${KICAD6_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Bourns_Horizontal_PEC12R-2xxxF-Sxxxx.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Bourns_Horizontal_PEC12R-2xxxF-Sxxxx.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

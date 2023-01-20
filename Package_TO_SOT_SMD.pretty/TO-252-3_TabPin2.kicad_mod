@@ -77,7 +77,7 @@
   (pad "2" smd rect (at -4.2 0) (size 2.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5cba8131-a200-4610-beb4-13fc4bceeef1))
   (pad "2" smd rect (at 2.1 0) (size 6.4 5.8) (layers "F.Cu" "F.Mask") (tstamp 875b2b9d-7ba9-451d-b287-da3e3e5e059d))
   (pad "3" smd rect (at -4.2 2.28) (size 2.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 57caed95-02e5-4902-a56e-60f7617e49ec))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-252-3_TabPin2.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-252-3_TabPin2.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

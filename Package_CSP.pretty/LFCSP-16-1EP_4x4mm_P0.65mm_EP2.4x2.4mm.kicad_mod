@@ -68,7 +68,7 @@
   (pad "15" smd roundrect (at -0.325 -1.8875) (size 0.35 0.975) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 58113cc5-0a8f-42a9-b982-e4358f3e45a2))
   (pad "16" smd roundrect (at -0.975 -1.8875) (size 0.35 0.975) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 86ffd07d-a636-4921-8049-adaed38df871))
   (pad "17" smd rect (at 0 0) (size 2.4 2.4) (layers "F.Cu" "F.Mask") (tstamp 605657e6-a578-4a42-9548-0e5c8afb19ef))
-  (model "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

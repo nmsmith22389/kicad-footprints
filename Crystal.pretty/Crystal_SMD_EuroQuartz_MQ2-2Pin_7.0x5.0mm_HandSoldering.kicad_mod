@@ -49,7 +49,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 0dce0638-5f27-4c2a-b537-760bb54b48b2))
   (pad "1" smd rect (at -3.975 0) (size 3.85 2.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0537c966-2afc-44b7-9e79-9ed8f2844320))
   (pad "2" smd rect (at 3.975 0) (size 3.85 2.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 95c57093-32e0-4596-a87e-8454a75fce20))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_EuroQuartz_MQ2-2Pin_7.0x5.0mm_HandSoldering.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_EuroQuartz_MQ2-2Pin_7.0x5.0mm_HandSoldering.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

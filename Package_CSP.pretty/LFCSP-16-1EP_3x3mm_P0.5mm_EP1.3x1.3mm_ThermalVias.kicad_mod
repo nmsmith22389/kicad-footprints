@@ -73,7 +73,7 @@
   (pad "17" smd rect (at 0 0) (size 1.3 1.3) (layers "B.Cu") (tstamp 700224fa-37bb-42a5-8dc6-dcb4e2722268))
   (pad "17" thru_hole circle (at 0.35 -0.35) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 03682cee-26b7-4ff6-b14c-963133b3e0d5))
   (pad "17" thru_hole circle (at 0.35 0.35) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 76335df7-675c-45b5-951a-c7c548bf92a0))
-  (model "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

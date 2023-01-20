@@ -75,7 +75,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 2aedb506-f189-473c-91d7-47b81cccdf23))
   (pad "1" thru_hole rect (at 0 0) (size 1.35 1.35) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp e8484229-dfe8-427f-b0f8-7b6ba0adadcd))
   (pad "2" thru_hole circle (at 2 0) (size 1.35 1.35) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 0a589d06-65f5-4733-acbb-9af4b2b09db3))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_LTek-Male_02_P2.00mm_Vertical.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_LTek-Male_02_P2.00mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

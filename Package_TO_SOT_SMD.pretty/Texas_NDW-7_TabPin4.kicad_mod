@@ -99,7 +99,7 @@
   (pad "5" smd rect (at -5.0225 1.27) (size 3.06 0.89) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 31195707-1fc4-4b4b-96d8-0bbdbc3b2690))
   (pad "6" smd rect (at -5.0225 2.54) (size 3.06 0.89) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp da1e97ff-2ac3-4ce7-993c-06c0c1fd6f8e))
   (pad "7" smd rect (at -5.0225 3.81) (size 3.06 0.89) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6d8f6d0a-210c-434e-8caf-dbda1299074c))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Texas_NDW-7_TabPin4.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Texas_NDW-7_TabPin4.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

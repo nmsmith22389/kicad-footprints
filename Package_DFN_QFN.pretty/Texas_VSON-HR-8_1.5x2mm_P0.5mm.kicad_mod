@@ -45,7 +45,7 @@
   (pad "6" smd roundrect (at 0.725 0.25) (size 0.8 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c4ac67a0-e52a-481a-9a19-6389392ff828))
   (pad "7" smd roundrect (at 0.725 -0.25) (size 0.8 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d5a5c1bb-b6a9-47b0-9179-786ce5b603df))
   (pad "8" smd roundrect (at 0.725 -0.75) (size 0.8 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 305e430d-1c3a-410e-9168-abf2f81c13df))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_VSON-HR-8_1.5x2mm_P0.5mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_VSON-HR-8_1.5x2mm_P0.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

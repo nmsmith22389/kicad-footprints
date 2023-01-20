@@ -41,7 +41,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 520f2645-1117-49d3-b005-86a849896b22))
   (pad "1" smd rect (at -0.9 0) (size 2.2 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f27b831f-46e7-4d40-bf6e-c86d81803aec))
   (pad "2" smd rect (at 1.375 0) (size 1.25 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0f92cede-73bb-403b-8f67-855871880cf2))
-  (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_PLCC_2835.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/LED_SMD.3dshapes/LED_PLCC_2835.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

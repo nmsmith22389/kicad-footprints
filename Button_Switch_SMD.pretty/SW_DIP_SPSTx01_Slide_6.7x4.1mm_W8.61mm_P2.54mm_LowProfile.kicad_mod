@@ -119,7 +119,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp e8330fe5-f070-4b7d-b406-052b27a772fe))
   (pad "1" smd rect (at -4.305 0) (size 2.44 1.12) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp aada75bf-2040-4ccf-aff9-2225d03065b4))
   (pad "2" smd rect (at 4.305 0) (size 2.44 1.12) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3c31e9c2-2f30-4103-91c0-b48a6c24c1aa))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx01_Slide_6.7x4.1mm_W8.61mm_P2.54mm_LowProfile.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx01_Slide_6.7x4.1mm_W8.61mm_P2.54mm_LowProfile.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

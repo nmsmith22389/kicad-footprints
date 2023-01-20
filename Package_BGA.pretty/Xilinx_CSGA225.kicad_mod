@@ -267,7 +267,7 @@
   (pad "R13" smd circle (at 4 5.6) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 34feb7bd-3a59-44b8-b101-be2acd801efa))
   (pad "R14" smd circle (at 4.8 5.6) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 19e7d6d9-1874-4563-8ade-118eb3b267b4))
   (pad "R15" smd circle (at 5.6 5.6) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8bb8112e-88e7-47d5-8f15-9bac4fcd07d8))
-  (model "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_CSGA225.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_CSGA225.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

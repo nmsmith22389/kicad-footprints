@@ -61,7 +61,7 @@
   (pad "11" thru_hole circle (at 0.52 -0.89) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 0be32600-5a36-49f0-97e9-4d4b1b194a36))
   (pad "11" thru_hole circle (at 0.52 0) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 81d6f71a-c3c0-4e35-a4cc-aa43b3141ca3))
   (pad "11" thru_hole circle (at 0.52 0.89) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 204a782a-e341-4702-bf8d-755a8c8f9785))
-  (model "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

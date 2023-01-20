@@ -67,7 +67,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 2b82a86b-a92f-4f5f-9184-c572ee3e33ff))
   (pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp bb735cd5-a480-49fe-ab71-eda967fe0ed3))
   (pad "2" thru_hole circle (at 2.54 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp ee5f6be4-071b-44b8-9344-6a4317b3491a))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_4.9x4.2mm_P2.54mm_Vertical.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_4.9x4.2mm_P2.54mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

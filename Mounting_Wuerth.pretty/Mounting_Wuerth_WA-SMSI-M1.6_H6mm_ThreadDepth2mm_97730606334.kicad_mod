@@ -85,7 +85,7 @@
     (primitives
       (gr_circle (center -1.525 0) (end 0 0) (width 0.95) (fill none))
     ) (tstamp 4da2d43a-13d6-4e84-b5a9-d88fccac51b0))
-  (model "${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M1.6_H6mm_ThreadDepth2mm_97730606334.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M1.6_H6mm_ThreadDepth2mm_97730606334.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

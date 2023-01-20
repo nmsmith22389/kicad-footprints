@@ -45,7 +45,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 3b4e8f9c-17eb-42e6-afa0-7dc6ca7c229c))
   (pad "1" smd rect (at -8.5 0) (size 6 6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0ccb4eba-b2fb-4d4b-ab36-fea148fa9fa0))
   (pad "2" smd rect (at 8.5 0) (size 6 6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 50ed2442-5c64-4942-b3e4-1e06514ae0ed))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Wuerth_696103101002-SMD_Horizontal_Open.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Wuerth_696103101002-SMD_Horizontal_Open.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -133,7 +133,7 @@
   (pad "9" thru_hole circle (at -3.07 5.33) (size 3 3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp b2641492-4876-433f-bc8d-66e307634bef))
   (pad "9" thru_hole circle (at 10.07 -0.35) (size 3 3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 33eb3d86-6227-4bb7-8cc2-17a4be55157b))
   (pad "9" thru_hole circle (at 10.07 5.33) (size 3 3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 48564f19-492e-46b6-aa7e-667f2628d3f9))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_Wuerth_61400826021_Horizontal_Stacked.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_Wuerth_61400826021_Horizontal_Stacked.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

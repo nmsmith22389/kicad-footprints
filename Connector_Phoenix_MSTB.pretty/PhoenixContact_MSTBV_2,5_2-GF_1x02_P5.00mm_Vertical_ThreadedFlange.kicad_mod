@@ -119,7 +119,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 8a26450f-9b31-465c-af5c-1b22386ac147))
   (pad "1" thru_hole roundrect (at 0 0) (size 2 3.6) (drill 1.4) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.125) (tstamp 2dd1b2ff-08e6-4996-af16-d6d5e2fe8b53))
   (pad "2" thru_hole oval (at 5 0) (size 2 3.6) (drill 1.4) (layers "*.Cu" "*.Mask") (tstamp 590994c2-6d1a-47de-8d85-e833aeb66406))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBV_2,5_2-GF_1x02_P5.00mm_Vertical_ThreadedFlange.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBV_2,5_2-GF_1x02_P5.00mm_Vertical_ThreadedFlange.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

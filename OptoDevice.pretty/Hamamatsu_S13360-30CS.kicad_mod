@@ -45,7 +45,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp abdca30d-5755-40fa-9c30-f5548e024185))
   (pad "1" thru_hole roundrect (at 0 0) (size 1.2 1.2) (drill 0.66) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.208) (tstamp 893e4799-2d9a-48af-a1b6-e9574acaa50a))
   (pad "2" thru_hole circle (at 0 2.54) (size 1.2 1.2) (drill 0.66) (layers "*.Cu" "*.Mask") (tstamp 7c974cd3-def8-44a8-b7df-1b7255421cb4))
-  (model "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Hamamatsu_S13360-30CS.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/OptoDevice.3dshapes/Hamamatsu_S13360-30CS.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

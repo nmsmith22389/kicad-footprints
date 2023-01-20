@@ -57,7 +57,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp b4d9c3ec-1017-4578-8d27-b40d6a8ba9c3))
   (pad "1" thru_hole circle (at 0 0) (size 1 1) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp da4d7f76-0767-45c2-bd7e-9e4a550bdd22))
   (pad "2" thru_hole circle (at 2.54 0) (size 1 1) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp 882da8a2-faa6-431f-ab96-cea9c5fe6a46))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_AT310_D3.0mm_L10.0mm_Horizontal.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Crystal.3dshapes/Crystal_AT310_D3.0mm_L10.0mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

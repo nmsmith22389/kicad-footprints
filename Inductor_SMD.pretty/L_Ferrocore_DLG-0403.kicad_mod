@@ -37,7 +37,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 5e84a3c3-6cbd-4741-96e2-7aa346397fd3))
   (pad "1" smd rect (at -1.625 0) (size 1.75 4.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fd9a0b40-6d9f-47e7-8853-42a1a619a740))
   (pad "2" smd rect (at 1.625 0) (size 1.75 4.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4a4da2ed-c321-4350-b4f2-8ca070450ba9))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Ferrocore_DLG-0403.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Ferrocore_DLG-0403.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

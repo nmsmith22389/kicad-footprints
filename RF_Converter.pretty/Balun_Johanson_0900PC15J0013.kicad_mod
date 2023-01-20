@@ -49,7 +49,7 @@
   (pad "8" smd roundrect (at 0.7125 -0.25) (size 0.625 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 63115105-e730-4198-8601-b5087888938f))
   (pad "9" smd roundrect (at 0.7125 -0.75) (size 0.625 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9a859100-a638-4b7c-9c5a-d60a760e64ce))
   (pad "10" smd roundrect (at 0 -1.0875) (size 0.3 0.625) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 1a91bf9c-462b-4831-b35f-6d37e77f6fd2))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Converter.3dshapes/Balun_Johanson_0900PC15J0013.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/RF_Converter.3dshapes/Balun_Johanson_0900PC15J0013.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

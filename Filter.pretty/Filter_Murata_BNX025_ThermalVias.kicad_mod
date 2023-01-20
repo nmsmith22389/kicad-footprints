@@ -89,7 +89,7 @@
     (zone_connect 2) (tstamp 7c4ea09c-bd52-464f-9107-e22e8378427d))
   (pad "4" thru_hole circle (at 7.75 5.05) (size 1.524 1.524) (drill 0.8) (layers "*.Cu")
     (zone_connect 2) (tstamp 72536e38-aa33-4e8d-ab4c-9006980933fb))
-  (model "${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Murata_BNX025.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Filter.3dshapes/Filter_Murata_BNX025.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -798,7 +798,7 @@
   (pad "Y30" smd circle (at 10.8 2.8) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 010cbd7c-3265-4a9c-9ba0-e773e4d3ab10))
   (pad "Y31" smd circle (at 11.6 2.8) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4f9b69da-71aa-4343-8341-0b53569fce75))
   (pad "Y32" smd circle (at 12.4 2.8) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a86dd7b9-4a5e-438b-b949-ec9f10a3af93))
-  (model "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_BGA.3dshapes/Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

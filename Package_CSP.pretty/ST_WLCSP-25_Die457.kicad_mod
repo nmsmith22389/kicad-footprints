@@ -91,7 +91,7 @@
     (solder_paste_margin_ratio 0.055556) (tstamp 5d2728b3-f7cc-4762-811f-7b5204b87f2a))
   (pad "E5" smd circle (at 0.8 0.8) (size 0.225 0.225) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_paste_margin_ratio 0.055556) (tstamp e2ed77dc-83e0-484e-bfd6-4aacce9de8c5))
-  (model "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-25_Die457.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-25_Die457.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -41,7 +41,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 7ffe9f83-2ad9-4407-81e0-648114ca39fe))
   (pad "1" thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 74bdb250-9b05-4af8-ad41-7e09b636fbe3))
   (pad "2" thru_hole circle (at 11.4 0) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp da7681e8-1560-473a-97ad-7958defa92a2))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Littelfuse-LVR200.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Littelfuse-LVR200.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

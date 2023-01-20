@@ -63,7 +63,7 @@
     (stroke (width 0.1) (type solid)) (fill none) (layer "F.Fab") (tstamp 9a5c50fa-930c-401e-8d99-cda164904617))
   (pad "1" smd rect (at -1.95 0) (size 0.9 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 37ff16ee-6fcb-470d-9311-3acbea5b468e))
   (pad "2" smd rect (at 1.95 0) (size 0.9 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 29377648-8930-481f-8089-16593572bce6))
-  (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_Trimmer_Voltronics_JZ.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_Trimmer_Voltronics_JZ.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

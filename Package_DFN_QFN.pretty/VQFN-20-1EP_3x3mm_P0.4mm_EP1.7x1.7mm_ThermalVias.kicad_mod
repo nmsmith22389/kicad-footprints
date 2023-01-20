@@ -181,7 +181,7 @@
   (pad "21" smd rect (at 0 0) (size 1.7 1.7) (layers "B.Cu") (tstamp 74f75442-ee53-4248-b5ea-04c0fc36e37a))
   (pad "21" thru_hole circle (at 0.6 -0.6) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp 9266cbaa-4fde-41a8-b60a-5ed5869d1d19))
   (pad "21" thru_hole circle (at 0.6 0.6) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp 79d5f5f3-a2d2-4547-99bf-73497c898cfe))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

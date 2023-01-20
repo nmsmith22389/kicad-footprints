@@ -98,7 +98,7 @@
   (pad "27" thru_hole circle (at 20.32 12.7 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 3859c011-413f-421e-ba89-dd04235609ae))
   (pad "28" thru_hole circle (at 20.32 10.16 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 612a26ec-6ee7-4ca5-b5f0-b672ebe5af93))
   (pad "29" thru_hole circle (at 17.78 20.32 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 26d5789d-2665-4d20-82df-91947c65a1af))
-  (model "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_WICED.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_WICED.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

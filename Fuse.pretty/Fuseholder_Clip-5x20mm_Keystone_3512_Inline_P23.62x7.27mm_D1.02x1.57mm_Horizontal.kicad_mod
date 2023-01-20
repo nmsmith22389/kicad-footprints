@@ -75,7 +75,7 @@
   (pad "1" thru_hole roundrect (at 7.27 0) (size 2 2.8) (drill oval 1.02 1.87) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25) (tstamp d0b95d2b-fcbe-4a4e-bc55-a0bb10a8db6e))
   (pad "2" thru_hole oval (at 16.35 0) (size 2 2.8) (drill oval 1.02 1.87) (layers "*.Cu" "*.Mask") (tstamp 89d56407-28a2-4abe-be89-c96c82f164b8))
   (pad "2" thru_hole oval (at 23.62 0) (size 2 2.8) (drill oval 1.02 1.87) (layers "*.Cu" "*.Mask") (tstamp 2e710243-54dd-4d59-ae18-135e4df4f90e))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Clip-5x20mm_Keystone_3512_Inline_P23.62x7.27mm_D1.02x1.57mm_Horizontal.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Clip-5x20mm_Keystone_3512_Inline_P23.62x7.27mm_D1.02x1.57mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

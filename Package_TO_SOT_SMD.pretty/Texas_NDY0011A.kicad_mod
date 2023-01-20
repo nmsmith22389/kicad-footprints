@@ -65,7 +65,7 @@
   (pad "10" smd rect (at 5.08 7.49) (size 0.86 2.41) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c7acec63-ed98-4167-b0bf-e9765959baba))
   (pad "11" smd rect (at 6.35 7.49) (size 0.86 2.41) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a8cd4a46-96b8-4652-9d43-270a248719ee))
   (pad "12" smd rect (at 0 -2.01) (size 9.126 13.37) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3a4c8f3c-50b7-45b7-9535-5c151d592f8e))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Texas_NDY0011A.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Texas_NDY0011A.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

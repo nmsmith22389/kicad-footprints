@@ -79,7 +79,7 @@
   (pad "SH" smd rect (at 4.095 5.84 180) (size 0.75 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9d4dc1ae-6827-47a0-b9c0-4331461b55da))
   (pad "SH" smd rect (at 4.595 -3.16 180) (size 0.45 2.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 758c48a5-33dd-462d-8d63-ab389a72d073))
   (pad "SH" smd rect (at 4.595 1.69 180) (size 0.45 1.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp afc942d9-656a-4f9f-bab4-41f8a9dcc393))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_JAE.3dshapes/JAE_SIM_Card_SF72S006.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_JAE.3dshapes/JAE_SIM_Card_SF72S006.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

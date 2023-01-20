@@ -45,7 +45,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 2c630210-4b2f-41c7-bc0e-c688d5678f98))
   (pad "1" thru_hole circle (at 0 0) (size 2.01 2.01) (drill 1.01) (layers "*.Cu" "*.Mask") (tstamp e2a2e444-e5fa-41d4-874c-e4c331e58e14))
   (pad "2" thru_hole circle (at 5.1 1.2) (size 2.01 2.01) (drill 1.01) (layers "*.Cu" "*.Mask") (tstamp be4bb247-afda-4649-855f-68ae545fd9be))
-  (model "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-RG600.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-RG600.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

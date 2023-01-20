@@ -49,7 +49,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 2aaf7b45-1223-471b-8fe3-7ac6f9ab528d))
   (pad "1" smd rect (at -2.35 0) (size 1.6 5.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5f20c743-9438-4143-a4fe-102d9d05d192))
   (pad "2" smd rect (at 2.35 0) (size 1.6 5.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b8ff0dd5-5951-4426-b8ed-919c5e7c35da))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns-SRN6028.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns-SRN6028.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

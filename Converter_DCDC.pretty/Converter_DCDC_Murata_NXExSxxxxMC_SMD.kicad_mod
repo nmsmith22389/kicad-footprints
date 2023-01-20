@@ -82,7 +82,7 @@
       )
     )
   )
-  (model "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_NXE2SxxxxMC_SMD.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_NXExSxxxxMC_SMD.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

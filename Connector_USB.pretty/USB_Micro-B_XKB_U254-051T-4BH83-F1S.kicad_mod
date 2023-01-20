@@ -96,7 +96,7 @@
         )
         (width 0) (fill yes))
     ) (tstamp 28e1d8e7-5f78-4c84-b432-34424d880a4e))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_XKB_U254-051T-4BH83-F1S.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_XKB_U254-051T-4BH83-F1S.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

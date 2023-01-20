@@ -42,7 +42,7 @@
   (fp_line (start 1.2 0.25) (end 1.2 -0.25)
     (stroke (width 0.12) (type solid)) (layer "F.Fab") (tstamp 116e1af1-c25a-4749-a775-4e6a7ba1e7e6))
   (pad "1" thru_hole circle (at 0 0) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 5a5aa227-c308-40b8-9d98-f8c404d4d165))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

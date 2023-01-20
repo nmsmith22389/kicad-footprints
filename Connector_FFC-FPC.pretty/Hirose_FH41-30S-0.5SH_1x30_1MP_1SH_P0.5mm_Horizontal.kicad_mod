@@ -95,7 +95,7 @@
   (pad "SH" smd rect (at 1.25 2.7) (size 0.3 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 569b0e1e-c970-4079-b15f-31eb8f6ffd49))
   (pad "SH" smd rect (at 3.75 2.7) (size 0.3 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0146d649-dba4-484e-83cb-680f16e250b0))
   (pad "SH" smd rect (at 6.25 2.7) (size 0.3 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 12d77199-0dfe-4839-9d74-be9cb8256009))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

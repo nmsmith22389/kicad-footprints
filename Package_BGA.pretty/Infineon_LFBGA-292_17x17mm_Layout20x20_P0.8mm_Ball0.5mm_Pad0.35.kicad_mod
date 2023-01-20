@@ -333,7 +333,7 @@
   (pad "Y18" smd circle (at 6 7.6) (size 0.35 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b9f63653-5487-49d6-aea0-b500fac7a17f))
   (pad "Y19" smd circle (at 6.8 7.6) (size 0.35 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f41394d8-579b-4474-a42c-d8c34b383bd2))
   (pad "Y20" smd circle (at 7.6 7.6) (size 0.35 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d7afbe97-c04f-4d6c-8bce-5172f359d799))
-  (model "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm_Ball0.5mm_Pad0.35.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_BGA.3dshapes/Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm_Ball0.5mm_Pad0.35.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -61,7 +61,7 @@
   (pad "11" smd rect (at 0 0) (size 1.68 1.88) (layers "F.Cu" "F.Mask") (tstamp 04285330-c6e7-4730-b39f-1e227e7a12b0))
   (pad "11" thru_hole circle (at 0.55 -0.65) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp fbf27cf2-be82-4e32-9db1-3f805ac82955))
   (pad "11" thru_hole circle (at 0.55 0.65) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp 7ad08544-8b44-4e0a-b751-4774f2769c98))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

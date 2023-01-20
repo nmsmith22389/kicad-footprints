@@ -83,7 +83,7 @@
     (zone_connect 2) (tstamp 141f553a-205b-4088-894a-72133afb4a03))
   (pad "6" smd rect (at 2.54 -2.54 270) (size 1.651 2.54) (layers "F.Cu" "F.Paste" "F.Mask")
     (clearance 0.635) (tstamp cafc4fe6-06f8-4968-bc98-583e5511d1bf))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_CD542.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_CD542.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

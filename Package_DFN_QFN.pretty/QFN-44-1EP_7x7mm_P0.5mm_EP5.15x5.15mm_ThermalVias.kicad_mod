@@ -134,7 +134,7 @@
   (pad "45" thru_hole circle (at 2.325 0) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp 90a110fc-36f8-45a3-9236-e6f58d85c9f1))
   (pad "45" thru_hole circle (at 2.325 1.1625) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp 9cf09a5c-2bd7-4e44-a72a-8e66dea32658))
   (pad "45" thru_hole circle (at 2.325 2.325) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp fe465793-02ae-4b4a-bc54-4342276f9424))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-44-1EP_7x7mm_P0.5mm_EP5.15x5.15mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-44-1EP_7x7mm_P0.5mm_EP5.15x5.15mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

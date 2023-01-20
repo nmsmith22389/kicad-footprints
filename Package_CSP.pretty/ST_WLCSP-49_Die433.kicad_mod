@@ -90,7 +90,7 @@
   (pad "G5" smd circle (at 0.4 1.2) (size 0.22 0.22) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 25c9d0b1-5580-439f-9a2f-b6a590aa09ab))
   (pad "G6" smd circle (at 0.8 1.2) (size 0.22 0.22) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 480c9041-aa85-4f10-ad8a-2661243348c1))
   (pad "G7" smd circle (at 1.2 1.2) (size 0.22 0.22) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f6e61372-0b77-42fc-92af-7bdd1edf0e92))
-  (model "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-49_Die433.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-49_Die433.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

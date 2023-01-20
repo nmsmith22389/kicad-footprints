@@ -45,7 +45,7 @@
   (pad "6" smd roundrect (at 0.4 1.1875) (size 0.5 0.525) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c7baff3b-1110-47b0-9a1a-723d836842a6))
   (pad "7" smd roundrect (at -0.4 1.1875) (size 0.5 0.525) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ed42003a-c1ac-4d1c-9931-c589c74c2ec9))
   (pad "8" smd roundrect (at -1.2 1.1875) (size 0.5 0.525) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp b95f71b3-7f81-44d0-972e-b961650f805e))
-  (model "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

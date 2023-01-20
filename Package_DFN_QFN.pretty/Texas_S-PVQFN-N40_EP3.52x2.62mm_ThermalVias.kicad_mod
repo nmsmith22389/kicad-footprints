@@ -107,7 +107,7 @@
   (pad "41" thru_hole circle (at 1.51 -1.06) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp 72d3a8d7-02db-448a-a87c-b83cf18fcf0e))
   (pad "41" thru_hole circle (at 1.51 0) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp babbe7e9-a82f-45b0-8141-4ef5988866be))
   (pad "41" thru_hole circle (at 1.51 1.06) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp 175916ea-c153-4275-be0d-97f82537f98f))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N40_EP3.52x2.62mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N40_EP3.52x2.62mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

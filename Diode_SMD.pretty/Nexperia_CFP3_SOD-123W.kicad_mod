@@ -51,7 +51,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 0f1d9b9f-3bf3-41be-8937-a18cc95fde55))
   (pad "1" smd rect (at -1.4 0) (size 1.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ce9054a2-fe12-48a1-8277-195ce9f4e0d1))
   (pad "2" smd rect (at 1.4 0) (size 1.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 52451b14-8bf6-4686-970b-6aa5cae2f7ab))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Nexperia_CFP3_SOD-123W.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Diode_SMD.3dshapes/Nexperia_CFP3_SOD-123W.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

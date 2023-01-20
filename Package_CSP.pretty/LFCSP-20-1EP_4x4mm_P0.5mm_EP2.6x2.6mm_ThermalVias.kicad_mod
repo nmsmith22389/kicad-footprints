@@ -82,7 +82,7 @@
   (pad "21" thru_hole circle (at 1 -1) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 27d4d20b-bd09-4ffe-97a2-6462e1dd0412))
   (pad "21" thru_hole circle (at 1 0) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp f5fba3d6-90bf-4bf0-8912-4b10c236a4ab))
   (pad "21" thru_hole circle (at 1 1) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp e7257a4e-fa99-448b-9505-a90cf63e462d))
-  (model "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

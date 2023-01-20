@@ -77,7 +77,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 62e2a5d4-53c2-46d9-94a3-ad8e077410c5))
   (pad "1" smd rect (at -1.45 3.45) (size 0.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 94995ac0-a135-47a5-8629-27c0e79423f2))
   (pad "2" smd rect (at 1.45 -3.45) (size 0.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0aee2715-76ea-4dfb-b20c-7b90ed097cc6))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_Air-Coil_SML_5turn_HDM0531A.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_Air-Coil_SML_5turn_HDM0531A.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

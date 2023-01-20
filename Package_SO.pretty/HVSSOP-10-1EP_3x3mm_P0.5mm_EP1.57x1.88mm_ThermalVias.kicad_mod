@@ -61,7 +61,7 @@
   (pad "11" smd rect (at 0 0) (size 1.57 1.88) (layers "B.Cu") (tstamp ecadf158-15be-47fc-9363-24b432d167a1))
   (pad "11" thru_hole circle (at 0.485 -0.64) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 3e3cc5c2-57cc-4e0c-bfdd-24b96c4d7be7))
   (pad "11" thru_hole circle (at 0.485 0.64) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 81203bdd-982a-4976-b243-e69daaaf1913))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_SO.3dshapes/HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

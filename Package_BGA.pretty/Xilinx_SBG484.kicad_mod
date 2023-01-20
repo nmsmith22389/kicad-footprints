@@ -526,7 +526,7 @@
   (pad "Y20" smd circle (at 6.8 6.8) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d5aae297-8501-4e8b-9d74-2e878e49365a))
   (pad "Y21" smd circle (at 7.6 6.8) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bff01640-d835-461a-9b95-efda06e37b4c))
   (pad "Y22" smd circle (at 8.4 6.8) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 577432a9-9293-4770-875e-9a7aa366fbd9))
-  (model "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_SBG484.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_SBG484.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

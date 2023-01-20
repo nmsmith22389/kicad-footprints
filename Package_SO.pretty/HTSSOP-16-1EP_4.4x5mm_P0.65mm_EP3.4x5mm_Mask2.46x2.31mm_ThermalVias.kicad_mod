@@ -68,7 +68,7 @@
   (pad "17" thru_hole circle (at 0.75 -1.5) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp a13fc97f-bc29-4434-8f60-2ab22aaceb36))
   (pad "17" thru_hole circle (at 0.75 0) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp eac4ad1c-4f23-41b8-bbfa-3f1df4d0f8e4))
   (pad "17" thru_hole circle (at 0.75 1.5) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp bb68fa1c-0102-44eb-b3a2-f26a696250d5))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

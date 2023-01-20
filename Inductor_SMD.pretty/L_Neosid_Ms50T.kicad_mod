@@ -49,7 +49,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp b7a96816-c4cb-4405-8c07-d4eb38263919))
   (pad "1" smd rect (at -2.4 0) (size 1.4 2.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d2a8e273-0698-4732-b3a2-1267ded02967))
   (pad "2" smd rect (at 2.4 0) (size 1.4 2.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6b555f35-22d3-412b-909d-e264d7565e52))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_Ms50T.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_Ms50T.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

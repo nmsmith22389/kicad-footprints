@@ -67,7 +67,7 @@
     (stroke (width 0.1) (type solid)) (fill none) (layer "F.Fab") (tstamp 8b749bf9-8679-4ee9-ba09-1397752e22f5))
   (pad "1" thru_hole rect (at 0 0) (size 2.1 2.1) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp b19c9398-9ddc-4651-af56-826563bf8f38))
   (pad "2" thru_hole circle (at 2.54 0) (size 2.1 2.1) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp d592bd2a-54ba-4cf8-a7b8-79957e881269))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_TE-Connectivity.3dshapes/TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/TerminalBlock_TE-Connectivity.3dshapes/TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

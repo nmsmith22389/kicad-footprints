@@ -51,7 +51,7 @@
   (pad "1" smd rect (at 2.575 -0.85 180) (size 1.45 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 20499ded-61e9-4192-a8ad-8c670773a2b9))
   (pad "2" smd rect (at -2.575 0.85 180) (size 1.45 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5796b327-a4ef-4bfc-9bac-09dd00e56552))
   (pad "2" smd rect (at 2.575 0.85 180) (size 1.45 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 086aa683-db96-4360-bdde-f507d1daac12))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/Panasonic_EVQPUK_EVQPUB.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/Panasonic_EVQPUK_EVQPUB.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

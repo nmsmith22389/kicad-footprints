@@ -61,7 +61,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp f4d9f8e2-1887-4610-a123-4e8e76b1459e))
   (pad "1" smd rect (at 0.975 -0.5) (size 1.95 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a522abe2-807b-4204-af1d-701692df51ab))
   (pad "2" smd rect (at -0.975 0.5) (size 1.95 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4e74833f-5ab0-4c99-9adf-d9d1de01b1b2))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_1.00mm.3dshapes/PinSocket_1x02_P1.00mm_Vertical_SMD_Pin1Right.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_PinSocket_1.00mm.3dshapes/PinSocket_1x02_P1.00mm_Vertical_SMD_Pin1Right.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

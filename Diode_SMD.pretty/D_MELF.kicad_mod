@@ -51,7 +51,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp bc344323-b910-46d8-b8c3-f6fbbe133af3))
   (pad "1" smd rect (at -2.4 0) (size 1.5 2.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 75b1f83f-76b4-463b-b06b-74088a22905f))
   (pad "2" smd rect (at 2.4 0) (size 1.5 2.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp beaf5ff5-299b-4d38-b901-109057737ff1))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MELF.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MELF.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -113,7 +113,7 @@
     (primitives
       (gr_circle (center -2.975 0) (end 0 0) (width 1.45) (fill none))
     ) (tstamp 3c305960-9604-49f5-9b9b-351f35338cc8))
-  (model "${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSR-M3_H3.6mm_ReverseMount_9775036360.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSR-M3_H3.6mm_ReverseMount_9775036360.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

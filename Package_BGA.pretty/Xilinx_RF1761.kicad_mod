@@ -1802,7 +1802,7 @@
   (pad "Y40" smd circle (at 18.5 -1.5) (size 0.53 0.53) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ecc8fae7-2dd9-456c-b6f0-837301d7cee4))
   (pad "Y41" smd circle (at 19.5 -1.5) (size 0.53 0.53) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b09cc759-ef2e-4ee9-a7a3-c9e85bf60167))
   (pad "Y42" smd circle (at 20.5 -1.5) (size 0.53 0.53) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5587fbd0-5baf-4e18-924c-d005f477084d))
-  (model "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_RF1761.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_RF1761.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

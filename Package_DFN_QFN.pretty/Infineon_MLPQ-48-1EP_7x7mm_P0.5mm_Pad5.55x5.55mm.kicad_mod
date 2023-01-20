@@ -164,7 +164,7 @@
   (pad "49" smd rect (at -2.407 -2.407 45) (size 0.52 0.52) (layers "F.Cu" "F.Mask") (tstamp 9381c3e7-c859-47bd-b0f5-2aa1beb26551))
   (pad "49" smd rect (at 0 0.184) (size 5.55 5.182) (layers "F.Cu" "F.Mask") (tstamp d4205071-72d9-4593-a8de-91d6066f9c1c))
   (pad "49" smd rect (at 0.184 -2.591) (size 5.182 0.368) (layers "F.Cu" "F.Mask") (tstamp 176e1828-43e3-4e2e-b019-5d431c831a01))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_Pad5.55x5.55mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_Pad5.55x5.55mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

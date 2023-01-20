@@ -57,7 +57,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp ab678680-6b44-419f-81bb-22b9f86439ac))
   (pad "1" smd rect (at -2.6 0) (size 2.8 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e6cbda4e-4afe-458c-9068-aee238713854))
   (pad "2" smd rect (at 2.6 0) (size 2.8 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4f62429d-f586-4fcd-a038-3963364c6249))
-  (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_7050-2Pin_7.0x5.0mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_7050-2Pin_7.0x5.0mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

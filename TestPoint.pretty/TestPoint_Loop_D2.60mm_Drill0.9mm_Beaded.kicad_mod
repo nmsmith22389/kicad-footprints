@@ -30,7 +30,7 @@
   (fp_circle (center 0 0) (end 1.5 0)
     (stroke (width 0.12) (type solid)) (fill none) (layer "F.Fab") (tstamp 12f57cee-b4be-4c17-b461-e9ccb9d4360a))
   (pad "1" thru_hole circle (at 0 0) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp e0085dec-18d7-43f8-8c47-55285a2f5c19))
-  (model "${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D2.60mm_Drill0.9mm_Beaded.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D2.60mm_Drill0.9mm_Beaded.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

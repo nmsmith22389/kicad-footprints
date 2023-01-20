@@ -101,7 +101,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp a1b0ebbb-487c-4ba9-b6ef-9c15e87b46d0))
   (pad "1" thru_hole roundrect (at 0 0) (size 1.2 1.8) (drill 0.8) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.208333) (tstamp e9d5b29f-9aef-4532-a54b-2609d41c674d))
   (pad "2" thru_hole oval (at 2 0) (size 1.2 1.8) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp dacd8dd9-6e5b-4b67-9754-4ac452d2eefe))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Latch_53254-0270_1x02_P2.00mm_Horizontal.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Latch_53254-0270_1x02_P2.00mm_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

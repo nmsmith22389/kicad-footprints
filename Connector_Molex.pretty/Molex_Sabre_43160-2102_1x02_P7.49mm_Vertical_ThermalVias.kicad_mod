@@ -101,7 +101,7 @@
   (pad "2" thru_hole circle (at 8.93 -1.59) (size 0.6 0.6) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 6cccf756-67f0-4943-8163-4052bd810bea))
   (pad "2" thru_hole circle (at 8.93 -0.1625) (size 0.6 0.6) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp f2a6dbec-9a56-463a-a0e2-09e63174d5af))
   (pad "2" thru_hole circle (at 8.93 1.265) (size 0.6 0.6) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 5bee04a8-738d-4440-85fd-ecb69c825975))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Sabre_43160-2102_1x02_P7.49mm_Vertical_ThermalVias.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Sabre_43160-2102_1x02_P7.49mm_Vertical_ThermalVias.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

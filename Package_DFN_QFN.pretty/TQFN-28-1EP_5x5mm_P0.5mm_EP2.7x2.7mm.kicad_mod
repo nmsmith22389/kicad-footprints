@@ -80,7 +80,7 @@
   (pad "27" smd roundrect (at -1 -2.3625) (size 0.25 0.975) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 80f33056-931b-4762-b90c-e46821bec8b5))
   (pad "28" smd roundrect (at -1.5 -2.3625) (size 0.25 0.975) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 906ba2a9-1f32-4eb7-b7c3-6f61592ff6ee))
   (pad "29" smd rect (at 0 0) (size 2.7 2.7) (layers "F.Cu" "F.Mask") (tstamp cf0f7fdd-5207-40e0-a744-41ad98aa8488))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TQFN-28-1EP_5x5mm_P0.5mm_EP2.7x2.7mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

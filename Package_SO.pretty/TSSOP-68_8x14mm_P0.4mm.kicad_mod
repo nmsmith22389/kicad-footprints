@@ -109,7 +109,7 @@
   (pad "66" smd roundrect (at 4.6625 -5.8) (size 1.475 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 2947dc24-4761-4a55-9a6d-30edbaa6bcf7))
   (pad "67" smd roundrect (at 4.6625 -6.2) (size 1.475 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 41a24c35-cc76-4939-95a7-0640230296c2))
   (pad "68" smd roundrect (at 4.6625 -6.6) (size 1.475 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 983e55ef-7f16-4ea2-bef2-2a0079a6ae2d))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-68_8x14mm_P0.4mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-68_8x14mm_P0.4mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -76,7 +76,7 @@
   (pad "2" thru_hole circle (at -2.54 2.54) (size 2.25 2.25) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 344b4af2-2aee-4686-bc1f-b7d44d7e7288))
   (pad "2" thru_hole circle (at 2.54 -2.54) (size 2.25 2.25) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 86846ca2-c1ee-4aea-ac73-ea324f372a7e))
   (pad "2" thru_hole circle (at 2.54 2.54 90) (size 2.25 2.25) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp ee719d8e-4d06-4552-aa0c-8742fe6d5326))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Molex_73251-2200_Horizontal.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Molex_73251-2200_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

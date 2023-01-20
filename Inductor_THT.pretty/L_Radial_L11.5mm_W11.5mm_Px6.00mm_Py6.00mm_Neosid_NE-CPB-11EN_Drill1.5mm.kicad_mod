@@ -41,7 +41,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp a763c639-d9ef-4b05-9820-c2d9e98a7e9f))
   (pad "1" thru_hole circle (at 0 0) (size 3 3) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 52dafad8-68a8-4963-b195-4cab0e1038ea))
   (pad "2" thru_hole circle (at 6 -6) (size 3 3) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp f674f93b-9bf4-43fd-9324-37b58cfb7d67))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.5mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -55,7 +55,7 @@
   (pad "11" smd rect (at -0.175 0) (size 0.5 2.56) (layers "B.Cu") (tstamp dc7ad77a-204f-4e61-8264-337a7acea7ec))
   (pad "11" smd rect (at -0.175 0) (size 0.7 2.9) (layers "F.Cu" "F.Mask") (tstamp c32ce022-39eb-43a1-85e8-932f79cf9721))
   (pad "11" thru_hole circle (at -0.175 1.03) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp bfb3c886-b195-48dd-a96d-60354f13a411))
-  (model "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_LGA.3dshapes/Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

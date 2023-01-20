@@ -209,7 +209,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 263da6a3-103b-499f-b9ed-3e405a3021ed))
   (fp_circle (center 0.09 0) (end 2.09 0.1)
     (stroke (width 0.1) (type solid)) (fill none) (layer "F.Fab") (tstamp f213c53c-5176-4944-b9db-f48af264caa7))
-  (model "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_AAVID_TV5G_TO220_Horizontal.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_AAVID_TV5G_TO220_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

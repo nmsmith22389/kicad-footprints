@@ -174,7 +174,7 @@
   (pad "3" thru_hole circle (at 6.2 18.05) (size 0.6 0.6) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 6170c7a6-a64c-43bd-8c61-2bacd54b2bac))
   (pad "3" thru_hole circle (at 6.2 20) (size 0.6 0.6) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 4bee604b-acf2-4f0e-8a63-45d0d75f0a6d))
   (pad "3" thru_hole circle (at 6.2 21.95) (size 0.6 0.6) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 97867624-d00a-4f7a-be60-7dc79af5a56f))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Mini-Fit_Sr_42819-32XX_1x03_P10.00mm_Vertical_ThermalVias.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Mini-Fit_Sr_42819-32XX_1x03_P10.00mm_Vertical_ThermalVias.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

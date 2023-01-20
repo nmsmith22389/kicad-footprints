@@ -179,7 +179,7 @@
         )
         (width 0.1) (fill yes))
     ) (tstamp 3c5a624d-a58d-4707-9d15-9919974b67a7))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/OnSemi_VCT-28_3.5x3.5mm_P0.4mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/OnSemi_VCT-28_3.5x3.5mm_P0.4mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

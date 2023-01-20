@@ -188,7 +188,7 @@
         (width 0.1) (fill yes))
     ) (tstamp 24da33bd-42d1-4a3b-9079-20069901b4d5))
   (pad "33" smd rect (at 0 0) (size 2.65 2.65) (layers "F.Cu" "F.Mask") (tstamp 0291e505-236b-4531-8168-3eb9d4c21f7b))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

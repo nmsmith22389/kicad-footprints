@@ -97,7 +97,7 @@
     (primitives
       (gr_circle (center -2.075 0) (end 0 0) (width 1.15) (fill none))
     ) (tstamp 0631ba40-0b0f-4903-9943-868a5a6e8723))
-  (model "${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMST-2.25mm_H2.5mm_9774025943.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMST-2.25mm_H2.5mm_9774025943.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -473,7 +473,7 @@
   (pad "145" thru_hole circle (at 3 0) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp 74ab53df-baf7-40e4-badb-7cd48c0f6818))
   (pad "145" thru_hole circle (at 3 1.2) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp 11d0e60d-d7a3-47a8-9ccd-bf858c300a81))
   (pad "145" thru_hole circle (at 3 2.4) (size 0.5 0.5) (drill 0.2) (layers "*.Cu") (tstamp c4df944d-3dd7-4ea2-a143-2d1ef5ea6b50))
-  (model "${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/EQFP-144-1EP_20x20mm_P0.5mm_EP7.2x6.35mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_QFP.3dshapes/EQFP-144-1EP_20x20mm_P0.5mm_EP7.2x6.35mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

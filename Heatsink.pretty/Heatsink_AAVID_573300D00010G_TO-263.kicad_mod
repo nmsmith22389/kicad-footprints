@@ -69,7 +69,7 @@
     (stroke (width 0.15) (type solid)) (layer "F.Fab") (tstamp bdd5a6bf-192b-49fb-893c-8702065580ac))
   (pad "1" smd rect (at -6.92 0) (size 1.85 13.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f8cd3d9d-4a73-4946-8179-5c9d156981bb))
   (pad "1" smd rect (at 6.92 0) (size 1.85 13.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0435fdb7-48dd-4a16-bb6e-ea34dfa9bd5a))
-  (model "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_AAVID_573300D00010G_TO-263.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_AAVID_573300D00010G_TO-263.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

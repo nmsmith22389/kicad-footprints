@@ -42,7 +42,7 @@
   (pad "3" smd rect (at -0.665 0.5 270) (size 0.3 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2e268a94-3e0a-44de-9ba7-ac058cfb84d6))
   (pad "4" smd rect (at 0.665 0.5 270) (size 0.3 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cde524c1-6c11-4b91-992d-c3bf8972d124))
   (pad "5" smd rect (at 0.665 -0.5 270) (size 0.3 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 39e33b61-4085-470d-9a2f-b5a17250afdb))
-  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Texas_R-PDSO-N5.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_SO.3dshapes/Texas_R-PDSO-N5.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

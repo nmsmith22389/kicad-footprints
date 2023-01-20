@@ -51,7 +51,7 @@
   (pad "9" smd roundrect (at 1.525 -0.6) (size 0.8 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 389bccd4-0f91-41dd-b3b5-3a74b1ef1a6b))
   (pad "10" smd roundrect (at 1.525 -1.2) (size 0.8 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 714fefc5-a7ef-4b6e-ad17-a101371e21f3))
   (pad "11" smd rect (at -0.175 0) (size 0.7 2.9) (layers "F.Cu" "F.Mask") (tstamp 8f6dbd0c-0907-4548-9799-d27852a249f4))
-  (model "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_LGA.3dshapes/Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

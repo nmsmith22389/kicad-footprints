@@ -71,7 +71,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 9031beb5-298a-416a-a9e6-b728f678be7a))
   (pad "1" smd roundrect (at -3.15 0) (size 1.5 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9a751f6c-910a-4303-9f82-f23fbe810ac3))
   (pad "2" smd roundrect (at 3.15 0) (size 1.5 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e97d12ac-ad8b-49fa-a88a-5e52ef3980c9))
-  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_SLF7055.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_SLF7055.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

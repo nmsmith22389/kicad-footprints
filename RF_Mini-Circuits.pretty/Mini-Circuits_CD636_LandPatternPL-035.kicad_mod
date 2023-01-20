@@ -73,7 +73,7 @@
     (zone_connect 2) (tstamp 463fbd8b-ea2b-4979-80b6-dee08352f3d4))
   (pad "6" smd rect (at 2.54 -2.54 270) (size 1.651 2.54) (layers "F.Cu" "F.Paste" "F.Mask")
     (zone_connect 2) (tstamp 26c08dd2-f962-4587-a4b3-41845425c7e6))
-  (model "${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_CD636.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_CD636.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

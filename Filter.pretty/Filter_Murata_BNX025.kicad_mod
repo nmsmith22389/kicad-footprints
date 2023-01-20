@@ -60,7 +60,7 @@
     (zone_connect 2) (tstamp 70f1e8e3-c7b7-4080-9f48-7557506ed804))
   (pad "4" smd rect (at 6.85 2.2) (size 3.8 2.5) (layers "F.Cu" "F.Paste" "F.Mask")
     (zone_connect 2) (tstamp 21d56c03-1470-4eae-809b-c3d3660fa979))
-  (model "${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Murata_BNX025.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Filter.3dshapes/Filter_Murata_BNX025.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

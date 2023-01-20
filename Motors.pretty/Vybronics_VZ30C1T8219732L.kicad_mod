@@ -111,7 +111,7 @@
   (pad "SH" smd rect (at 0 -3.85 270) (size 1.5 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 63d2c76d-ad00-4258-a136-53c539f8026c))
   (pad "SH" smd rect (at 0 -0.95 270) (size 4.3 3.4) (layers "F.Cu" "F.Mask") (tstamp 126c4099-7043-4815-8ed9-cbc5df18c091))
   (pad "SH" smd rect (at 0.8 1.525) (size 1 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 26eb802e-7e13-4625-b8b9-798e014382fa))
-  (model "${KICAD6_3DMODEL_DIR}/Motors.3dshapes/Vybronics_VZ30C1T8219732L.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Motors.3dshapes/Vybronics_VZ30C1T8219732L.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

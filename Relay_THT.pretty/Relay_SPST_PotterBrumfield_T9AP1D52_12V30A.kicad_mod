@@ -119,7 +119,7 @@
     (stroke (width 0.12) (type solid)) (layer "F.Fab") (tstamp 51c7ea76-25a1-4ef5-938b-c0f333b85f6a))
   (pad "" np_thru_hole circle (at 0 0) (size 3.50012 3.50012) (drill 3.50012) (layers "*.Cu" "*.Mask") (tstamp 1c7ba6ad-4d8b-47b4-ad2f-6fae91eb3874))
   (pad "" np_thru_hole circle (at 0 43.99788) (size 3.50012 3.50012) (drill 3.50012) (layers "*.Cu" "*.Mask") (tstamp a40c6180-f69f-45b6-b6c6-f92c9e4689bb))
-  (model "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -77,7 +77,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp c12847e0-21a9-4674-8eda-d9076f4cb91a))
   (pad "1" thru_hole rect (at 0 0) (size 3 3) (drill 1.75) (layers "*.Cu" "*.Mask") (tstamp 4e9be6ca-8fac-41e3-84c9-b4ff228e254e))
   (pad "2" thru_hole circle (at 3.88 0) (size 3 3) (drill 1.75) (layers "*.Cu" "*.Mask") (tstamp 796ddcd1-a4e2-433c-8a3c-a92d4fc0aa60))
-  (model "${KICAD6_3DMODEL_DIR}/Connector.3dshapes/JWT_A3963_1x02_P3.96mm_Vertical.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector.3dshapes/JWT_A3963_1x02_P3.96mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
