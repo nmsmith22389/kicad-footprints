@@ -65,7 +65,7 @@
   (pad "2" smd roundrect (at -1.5 1.7) (size 0.7 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 6bcc4743-837b-4f0d-89d2-42841ce9dce0))
   (pad "3" smd roundrect (at 1.5 -1.7) (size 0.7 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 2d83c13e-9338-4976-b9da-eb22cee45e27))
   (pad "4" smd roundrect (at 1.5 1.7) (size 0.7 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 8a6a2267-2318-41ba-ae9b-70a75fc58de9))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/Panasonic_ESE13V.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/Panasonic_ESE13V.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
