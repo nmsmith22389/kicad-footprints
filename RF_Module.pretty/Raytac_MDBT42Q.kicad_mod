@@ -7,7 +7,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a02149f7-2441-4600-a7c5-400d559ce7ef)
   )
-  (fp_text value "RAYTAC_MDBT42Q" (at -0.02 8.55) (layer "F.Fab")
+  (fp_text value "Raytac_MDBT42Q" (at -0.02 8.55) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 32dd3c88-eb8e-4d08-ae29-be75ec01b22a)
   )
