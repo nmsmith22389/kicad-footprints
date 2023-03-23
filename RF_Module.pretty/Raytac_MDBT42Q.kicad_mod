@@ -1,7 +1,7 @@
 (footprint "Raytac_MDBT42Q" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "Raytac’s MDBT42Q & MDBT42Q-P are modules based on the Nordic nRF52832 SoC. It offers Bluetooth LE support and a typical set of peripherals like GPIOs, UART, SPI, TWI, PDM, I2S, PWM, ADC and NFC-A.")
-  (tags "MDBT40  MDBT40-P")
+  (tags "wireless 2.4 GHz Bluetooth ble zigbee 802.15.4 thread nordic raytac nrf52832")
   (attr smd)
   (fp_text reference "REF**" (at 0 -10.4267) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
