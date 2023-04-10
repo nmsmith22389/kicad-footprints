@@ -1,4 +1,4 @@
-(footprint "Converter_DCDC_CUI_PDS1-Sx-Sx-S" (version 20221018) (generator pcbnew)
+(footprint "Converter_DCDC_CUI_PDS1-Sx-Sx-S_THT" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "Converter, DC/DC, CUI, https://www.cui.com/product/resource/pds1-s.pdf")
   (tags "converter dc/dc cui tht")
@@ -7,7 +7,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 8a391544-6aa0-4253-8b98-db5e1e220304)
   )
-  (fp_text value "Converter_DCDC_CUI_PDS1-Sx-Sx-S" (at 0 4.2 unlocked) (layer "F.Fab")
+  (fp_text value "Converter_DCDC_CUI_PDS1-Sx-Sx-S_THT" (at 0 4.2 unlocked) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 781fa667-40e2-41c8-9a7c-706fee5031b4)
   )
@@ -37,9 +37,9 @@
   (pad "2" thru_hole circle (at -1.27 2.1) (size 1.6 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp d5189948-3809-4ecd-9d79-967b5204555b))
   (pad "3" thru_hole circle (at 1.27 2.1) (size 1.6 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 1b57c224-e7eb-47e0-a502-8bcb35cd2261))
   (pad "4" thru_hole circle (at 3.81 2.1) (size 1.6 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 81cfcdfc-a0ce-43d6-87ae-01246ac2ccfb))
-  (model ":KICAD7_3DMODEL_DIR:Converter_DCDC.3dshapes/Converter_DC_DC_CUI_PDS1-Sx-Sx-S_THT.step"
-    (offset (xyz 0 3 0.5))
+  (model "${KICAD7_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_CUI_PDS1-Sx-Sx-S_THT.wrl"
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
+    (rotate (xyz 0 0 0))
   )
 )
