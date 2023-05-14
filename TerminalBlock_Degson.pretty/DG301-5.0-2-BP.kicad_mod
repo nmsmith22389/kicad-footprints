@@ -1,6 +1,6 @@
 (footprint "DG301-5.0-2-BP" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 643BF7AF)
+  (tedit 6460A7EF)
   (descr "Terminal block DEGSON 5mm")
   (tags "Terminal block")
   (attr through_hole)
@@ -26,8 +26,8 @@
   (fp_line (start -2.5 2.5) (end 7.5 2.5) (layer "F.Fab") (width 0.1) (tstamp cce1404b-fc30-47cc-b852-e0061990f2bb))
   (fp_line (start 2.5 -4.5) (end 2.5 3.1) (layer "F.Fab") (width 0.1) (tstamp d9ad01c4-9416-4b1f-8447-afc1d446fa8a))
   (fp_rect (start -2.5 -4.5) (end 7.5 3.1) (layer "F.Fab") (width 0.1) (fill none) (tstamp edb2db40-12f7-45b3-a514-2a1299ac0231))
-  (pad "1" thru_hole oval (at 0 0) (size 2.5 4) (drill 1.5) (layers *.Cu *.Mask) (tstamp a27fc40d-6d64-4596-b721-3d6eeec607c7))
-  (pad "2" thru_hole oval (at 5 0) (size 2.5 4) (drill 1.5) (layers *.Cu *.Mask) (tstamp 8acd20d7-bdde-45d3-9b0b-7892260f62f6))
+  (pad "1" thru_hole circle (at 0 0) (size 4 4) (drill 1.5) (layers *.Cu *.Mask) (tstamp a27fc40d-6d64-4596-b721-3d6eeec607c7))
+  (pad "2" thru_hole oval (at 5 0) (size 4 4) (drill 1.5) (layers *.Cu *.Mask) (tstamp 8acd20d7-bdde-45d3-9b0b-7892260f62f6))
   (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Degson.3dshapes/DG301-5.0-2.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
