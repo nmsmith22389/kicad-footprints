@@ -1,4 +1,4 @@
-(module Samtec_SS4-10-3.50-x-D-K-xR_2x10_P0.4mm_Socket (layer F.Cu) (tedit 64A811A1)
+(module Samtec_SS4-10-3.50-x-D-K-xR_2x10_P0.4mm_Socket (layer F.Cu) (tedit 64AFD2BF)
   (descr "Micro Blade & Beam Ultra Fine Pitch Socket, 0.40 mm pitch, 02x10 ways, 3.50 lead style (source: https://suddendocs.samtec.com/prints/ss4-xx-x.xx-x-d-x-xx-tr-footprint.pdf)")
   (tags "conn samtec board-to-board socket high-speed")
   (attr smd)
