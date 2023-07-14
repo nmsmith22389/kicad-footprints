@@ -1,6 +1,6 @@
 (footprint "QFN-16_3x3mm_P0.5mm" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "QFN, 16 Pin")
+  (descr "QFN, 16 Pin (https://www.st.com/resource/en/datasheet/stusb4710.pdf)")
   (attr smd)
   (fp_text reference "REF**" (at 0 -3.15) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
