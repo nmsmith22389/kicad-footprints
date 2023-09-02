@@ -1,4 +1,4 @@
-(footprint "SW_SPST_PTS526" (version 20221018) (generator pcbnew)
+(footprint "SW_SPST_PTS526Sx15" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "C&K Components SPST SMD PTS526 Series 5.2mm Tact Switch")
   (tags "SPST Button Switch")
