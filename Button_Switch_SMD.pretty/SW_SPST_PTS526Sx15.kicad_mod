@@ -7,7 +7,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 8f7fc4c8-3ead-4e7b-903e-333013476282)
   )
-  (fp_text value "SW_SPST_PTS526" (at 0 4.15) (layer "F.Fab")
+  (fp_text value "SW_SPST_PTS526Sx15" (at 0 4.15) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp be484de9-4fca-4ddd-a433-94aa82073565)
   )
@@ -41,7 +41,7 @@
   (pad "1" smd roundrect (at 3 -1.85) (size 1 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 5169a90d-f287-4bcf-9c7e-172780d9ec0b))
   (pad "2" smd roundrect (at -3 1.85) (size 1 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 004556c4-09a4-4100-ac9e-aee8c7e174d3))
   (pad "2" smd roundrect (at 3 1.85) (size 1 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 8b1a4e7c-2c57-45f5-a14c-d56aeb1bb5f3))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS526Sx15.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS526Sx15.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
