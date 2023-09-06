@@ -7,11 +7,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9c170fc9-c867-48a9-99f1-7582a9e366d9)
   )
-  (fp_text value "Wago_233-502_2x02_P2.54mm" (at 0.58 2.65) (layer "F.Fab")
+  (fp_text value "TerminalBlock_WAGO_233-502_2x02_P2.54mm" (at 0.64 11.09) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e483f5b1-fcc6-44e0-b818-c30cc7bc08c5)
   )
-  (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+  (fp_text user "${REFERENCE}" (at 0.9 2.61) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 21c16b5a-b3d0-49c1-856e-98ce7bc97640)
   )
@@ -49,7 +49,7 @@
   (pad "1" thru_hole roundrect (at 0 5) (size 1.8 3.2) (drill 1.1) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.1388888889) (tstamp e212f4f4-d114-4869-aa30-8c80a05ccba1))
   (pad "2" thru_hole oval (at 2.54 0) (size 1.8 3.2) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp cb8ab48f-8232-4cb0-ad96-df27fb1903f8))
   (pad "2" thru_hole oval (at 2.54 5) (size 1.8 3.2) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp 60b66bb1-001d-4df0-a0ec-e5f5a025fe29))
-  (model "${KICAD7_3DMODEL_DIR}/Connector_Wago.3dshapes/Wago_233-502_2x02_P2.54mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/TerminalBlock_WAGO.3dshapes/TerminalBlock_WAGO_233-502_2x02_P2.54mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
