@@ -3,11 +3,11 @@
   (descr "Shielded, 2 LED, 2 Ports, https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/rjhsex38x02.pdf")
   (tags "RJ45 8p8c dual ethernet cat5")
   (attr through_hole)
-  (fp_text reference "REF**" (at 11.6586 -9.2202) (layer "F.SilkS") hide
+  (fp_text reference "REF**" (at 11.6586 -9.2202) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 06d564cf-3095-4e92-8a90-085edcb2dbff)
   )
-  (fp_text value "RJ45_Amphenol_RJHSE538X-02" (at 11.4046 9.78) (layer "F.Fab") hide
+  (fp_text value "RJ45_Amphenol_RJHSE538X-02" (at 11.4046 9.78) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp d9ad2cc6-2e20-4785-83e9-4fae885dec94)
   )
@@ -84,7 +84,7 @@
   (pad "SH" thru_hole circle (at -4.572 0.889) (size 2.54 2.54) (drill 1.5748) (layers "*.Cu" "*.Mask") (tstamp 419b2175-212a-4c5f-865a-692cc4f41243))
   (pad "SH" thru_hole circle (at 27.432 0.889) (size 2.54 2.54) (drill 1.5748) (layers "*.Cu" "*.Mask") (tstamp 7f67c600-4904-4196-ae2f-63bbec4ff56b))
   (model "${KICAD7_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Amphenol_RJHSE538X-02.wrl"
-    (offset (xyz -6.35 -1.75 0))
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
