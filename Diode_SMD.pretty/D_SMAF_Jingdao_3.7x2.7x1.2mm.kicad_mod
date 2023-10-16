@@ -42,7 +42,7 @@
     (thermal_bridge_angle 45) (tstamp 702934f1-7228-479a-a04a-1e0da00a4a66))
   (pad "2" smd rect (at 1.9 0) (size 1.6 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp f5f6ce0b-2d64-4140-b251-51c1e521fca7))
-  (model "/home/deck/GIT/myKiCadLib/packages3D/Knochi_Packages.3dshapes/D_SMAF_Jingdao_3.7x2.7x1.2mm.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMAFJingdao_3.7x2.7x1.2mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
