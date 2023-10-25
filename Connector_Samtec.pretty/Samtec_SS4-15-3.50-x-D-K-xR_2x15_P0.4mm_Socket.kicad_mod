@@ -114,22 +114,6 @@
   (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (zone
-    (net 0)
-    (net_name "")
-    (layer F.Cu)
-    (name "Via keepout")
-    (hatch edge 0.5)
-    (connect_pads (clearance 0))
-    (filled_areas_thickness no)
-    (min_thickness 0.25)
-    (keepout (tracks not_allowed) (vias not_allowed) (copperpour not_allowed) (pads allowed) (footprints allowed))
-    (fill)
-    (polygon (pts
-       (xy -2.915 -1.87)
-       (xy 2.915 -1.87)
-       (xy 2.915 1.87)
-       (xy -2.915 1.87))))
   (model ${KICAD7_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_SS4-15-3.50-x-D-K-xR_2x15_P0.4mm_Socket.wrl
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
