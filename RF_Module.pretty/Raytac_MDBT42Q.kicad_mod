@@ -15,7 +15,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ed79d30d-6508-4281-b365-ac0a45756e85)
   )
-  (fp_text_box "KEEP-OUT AREA"
+  (fp_text_box "No Ground-Pad Area"
   (start -1.6 -4.2) (end 3.9 0.2) (layer "Dwgs.User") (tstamp 65d7ea82-231f-40bf-ab76-5f9b437adf4d)
       (effects (font (size 0.4 0.4) (thickness 0.1)) (justify top))
     (stroke (width 0.1) (type solid))  )
