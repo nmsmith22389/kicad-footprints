@@ -81,7 +81,11 @@
     (stroke (width 0.12) (type solid)) (layer F.SilkS))
   (fp_line (start -4.79 -2.285) (end -4.175 -2.285)
     (stroke (width 0.12) (type solid)) (layer F.SilkS))
-  (fp_line (start -4.05 3.075) (end -3.55 3.075)
+  (fp_line (start -3.8 3.075) (end -3.583494 3.45)
+    (stroke (width 0.12) (type solid)) (layer F.SilkS))
+  (fp_line (start -3.583494 3.45) (end -4.016506 3.45)
+    (stroke (width 0.12) (type solid)) (layer F.SilkS))
+  (fp_line (start -4.016506 3.45) (end -3.8 3.075)
     (stroke (width 0.12) (type solid)) (layer F.SilkS))
   (pad 1 smd roundrect (at -3.8 2.335) (size 0.23 0.93) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
   (pad 3 smd roundrect (at -3.4 2.335) (size 0.23 0.93) (layers F.Cu F.Mask F.Paste) (roundrect_rratio 0.25))
@@ -142,7 +146,7 @@
        (xy 3.915 -1.87)
        (xy 3.915 1.87)
        (xy -3.915 1.87))))
-  (model ${KICAD7_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_SS4-20-3.00-x-D-K-xR_2x20_P0.4mm_Socket.wrl
+  (model ${KICAD7_3DMODEL_DIR}/Connector_Samtec_Sx4.3dshapes/Samtec_SS4-20-3.00-x-D-K-xR_2x20_P0.4mm_Socket.wrl
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
