@@ -377,8 +377,6 @@
   (pad "F28" smd circle (at 8.775 -5.525) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4775d693-e47b-48c6-aa25-c3a13a3116e5))
   (pad "G1" smd circle (at -8.775 -4.875) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 938977df-89c1-4add-aae7-e472d9c8bdca))
   (pad "G2" smd circle (at -8.125 -4.875) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2e77fce9-26e7-41b4-beda-7a798bef0d0a))
-  (pad "G3" smd circle (at -7.475 -4.875) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 83b4f1b8-cb8b-402f-8570-da0474d17c62))
-  (pad "G4" smd circle (at -6.825 -4.875) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e4c42b25-5a89-4fc2-87fd-04ffb046821c))
   (pad "G5" smd circle (at -6.175 -4.875) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 84618fed-3295-4157-ba82-e405d8ac0477))
   (pad "G6" smd circle (at -5.525 -4.875) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 445f2bc5-9a10-4772-9aaa-80f9df9d19a5))
   (pad "G8" smd circle (at -4.225 -4.875) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 813e40e8-6abc-44ad-9e23-5abb14bdaa0a))
