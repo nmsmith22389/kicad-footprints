@@ -700,7 +700,7 @@
   (pad "Y26" smd circle (at 7.475 3.575) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 78fe2b17-69c5-47d2-a5fe-1ae893118f36))
   (pad "Y27" smd circle (at 8.125 3.575) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fe90359f-c5e2-46b9-952e-24645fdbcfc7))
   (pad "Y28" smd circle (at 8.775 3.575) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ea263978-60a6-41de-9a17-e920ac7d9e4d))
-  (model "Package_BGA.3dshapes/BGA-324_19.0x19.0mm_Layout18x18_P1.0mm_Ball0.5mm_Pad0.4mm_NSMD.wrl"
+  (model "Package_CSP.3dshapes/BGA-324_19.0x19.0mm_Layout18x18_P1.0mm_Ball0.5mm_Pad0.4mm_NSMD.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
