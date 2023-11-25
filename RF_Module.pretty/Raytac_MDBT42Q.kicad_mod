@@ -16,7 +16,7 @@
     (tstamp ed79d30d-6508-4281-b365-ac0a45756e85)
   )
   (fp_text_box "No Ground-Pad Area"
-  (start -1.6 -4.2) (end 3.9 0.2) (layer "Dwgs.User") (tstamp 65d7ea82-231f-40bf-ab76-5f9b437adf4d)
+  (start -0.5 -4.2) (end 3.9 -1.1) (layer "Dwgs.User") (tstamp 65d7ea82-231f-40bf-ab76-5f9b437adf4d)
       (effects (font (size 0.4 0.4) (thickness 0.1)) (justify top))
     (stroke (width 0.1) (type solid))  )
   (fp_text_box "KEEP-OUT AREA"
@@ -62,7 +62,7 @@
   (fp_line (start 5 -8) (end 5 8)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 6ec4d1d2-a127-49a6-8643-241d8fd8b38b))
   (pad "1" smd rect (at -4.6 -3.8) (size 1.4 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp aa1af59b-ea32-4c85-8506-9de6bf69d71a))
-  (pad "2" smd rect (at -4.6 -0.81204) (size 1.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b6942614-c90b-4d40-81f4-582cdcd863e8))
+  (pad "2" smd rect (at -4.6 -0.8) (size 1.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b6942614-c90b-4d40-81f4-582cdcd863e8))
   (pad "3" smd rect (at -4.6 -0.11204) (size 1.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 09f315da-5bad-4aae-9c13-44c67e75117f))
   (pad "4" smd rect (at -4.6 0.58796) (size 1.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 381e4c4e-4535-4692-ac26-f890ffd1fb28))
   (pad "5" smd rect (at -4.6 1.28796) (size 1.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 24c93f21-044e-452f-ae39-f827ed5b71b2))
@@ -123,9 +123,9 @@
     (fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
     (polygon
       (pts
-        (xy -1.6 -4.2)
-        (xy -1.6 0.2)
-        (xy 3.9 0.2)
+        (xy -0.5 -4.2)
+        (xy -0.5 -1.1)
+        (xy 3.9 -1.1)
         (xy 3.9 -4.2)
       )
     )
