@@ -3,7 +3,7 @@
   (descr "Potentiometer, vertical, Vishay, https://www.vishay.com/docs/51026/t93.pdf")
   (tags "Potentiometer vertical vishay")
   (attr through_hole)
-  (fp_text reference "REF**" (at 2.54 -3.81) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 2.54 -3.5) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5fa1a1ab-2f49-46c1-aad0-82585e5400c9)
   )
