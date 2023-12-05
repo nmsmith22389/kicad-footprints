@@ -3,11 +3,11 @@
   (descr "5-pin Capacitor SIP pack")
   (tags "C")
   (attr through_hole)
-  (fp_text reference "REF**" (at 6.35 -2.4 unlocked) (layer "F.SilkS") hide
+  (fp_text reference "REF**" (at 6.35 -2.4) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4bf48681-5300-44d7-9d7f-caef50dc6768)
   )
-  (fp_text value "C_Array_SIP5" (at 6.35 2.4 unlocked) (layer "F.Fab") hide
+  (fp_text value "C_Array_SIP5" (at 6.35 2.4 unlocked) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 3c2ed71f-8e10-4c35-9e54-65e999999ca7)
   )
@@ -48,7 +48,7 @@
   (pad "3" thru_hole oval (at 5.08 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 2053fa64-0cd8-4967-a1c3-952250920aec))
   (pad "4" thru_hole oval (at 7.62 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 088c7247-d315-4833-83f0-3a340f7cdafc))
   (pad "5" thru_hole oval (at 10.16 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp d323d1eb-4e13-4fce-9d7b-b1bc2cb561ff))
-  (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Array_SIP5.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Array_SIP5.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
