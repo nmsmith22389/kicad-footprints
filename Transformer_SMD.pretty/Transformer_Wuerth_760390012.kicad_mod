@@ -1,6 +1,6 @@
 (footprint "Transformer_Wuerth_760390012" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "Power Transformer, horizontal core with bobbin, 6 pin, 2.54mm pitch, 11.24mm row spacing, 12.6x8.3x4.1mm")
+  (descr "Power Transformer, horizontal core with bobbin, 6 pin, 2.54mm pitch, 9.14mm row spacing, 12.6x6.7x4.2mm")
   (tags "transformer push-pull")
   (attr smd)
   (fp_text reference "REF**" (at -3.3 -4.4) (layer "F.SilkS")
