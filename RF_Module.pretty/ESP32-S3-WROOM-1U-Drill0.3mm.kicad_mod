@@ -7,7 +7,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9538e4ed-27e6-4c37-b989-9859dc0d49e8)
   )
-  (fp_text value "ESP32-S3-WROOM-1U-Drill0.3mm'" (at 0 11.45 unlocked) (layer "F.Fab")
+  (fp_text value "ESP32-S3-WROOM-1U-Drill0.3mm" (at 0 11.45 unlocked) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e1105432-6a2f-45d9-8a08-47401d087cf4)
   )
