@@ -15,7 +15,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify bottom))
     (tstamp 94caed68-deea-4bce-8111-45d26a512c19)
   )
-  (fp_text user "${REFERENCE}" (at 0 4.3 unlocked) (layer "F.Fab")
+  (fp_text user "${REFERENCE}" (at 0 4.3) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 2f8edadb-804c-473f-bc41-234033d5b37e)
   )
@@ -51,9 +51,9 @@
   (pad "4" thru_hole circle (at -1.767767 -1.767767) (size 2 2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp e2c724fb-0695-4994-a293-41229c119781))
   (pad "5" thru_hole circle (at 0 0) (size 2 2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 798572e8-34a4-4ca8-b87d-3aece177eb4e))
   (pad "SHD" thru_hole circle (at 0 -4) (size 2.2 2.2) (drill 1.3) (layers "*.Cu" "*.Mask") (tstamp 24a0f60c-0f13-4c38-89fe-7994de383ea4))
-  (model "${KICAD7_3DMODEL_DIR}/Connector_Harting.3dshapes/Harting_M12_21033214501_1x05_Horizontal.stp"
-    (offset (xyz 0 28.5 8.5))
+  (model "${KICAD7_3DMODEL_DIR}/Connector_Harting.3dshapes/Harting_M12_21033214501_1x05_Horizontal.wrl"
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 -180))
+    (rotate (xyz 0 0 0))
   )
 )
