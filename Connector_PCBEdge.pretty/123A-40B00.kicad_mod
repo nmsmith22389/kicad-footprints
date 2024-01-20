@@ -124,8 +124,8 @@
   (pad "73" smd roundrect (at 8.75 -3.475) (size 0.3 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 857074f6-4373-4cf4-89e0-d679a3b3fc02))
   (pad "74" smd roundrect (at 9 4.075) (size 0.3 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp fd317d93-14d1-4b63-9051-fe1918263463))
   (pad "75" smd roundrect (at 9.25 -3.475) (size 0.3 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 423372ed-23df-4bd8-b1c7-f9b629da07a3))
-  (pad "S1" smd roundrect (at -10.35 -2.7) (size 1.2 2.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 2d775d3f-1ea6-4533-a9ba-28c831f061bd))
-  (pad "S2" smd roundrect (at 10.35 -2.7) (size 1.2 2.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp cb1b933a-d213-4c92-8bd6-f4b6126fd77e))
+  (pad "MP" smd roundrect (at -10.35 -2.7) (size 1.2 2.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 2d775d3f-1ea6-4533-a9ba-28c831f061bd))
+  (pad "MP" smd roundrect (at 10.35 -2.7) (size 1.2 2.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp cb1b933a-d213-4c92-8bd6-f4b6126fd77e))
   (model "${KICAD7_3DMODEL_DIR}/Connector_M.2.3dshapes/123A-40B00.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
