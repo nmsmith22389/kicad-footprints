@@ -1,6 +1,6 @@
 (footprint Samtec_LTMM-122-02-X-D-SM_2x22_P2.0mm_Header_Vertical (version 20221018) (generator kicad-footprint-generator)
   (layer F.Cu)
-  (descr "Samtec LTMM Shrouded Terminal Strip, 2.00 mm Pitch, Double Row (source: https://suddendocs.samtec.com/prints/ltmm-1xx-xx-xx-d-xx-xx-footprint.pdf)")
+  (descr "Samtec LTMM Shrouded Terminal Strip, 2.00 mm Pitch, Double Row, Surface Mount (source: https://suddendocs.samtec.com/prints/ltmm-1xx-xx-xx-d-xx-xx-footprint.pdf#page=3)")
   (tags "conn samtec terminal strip pin header")
   (attr smd)
   (fp_text reference REF** (at 0 -5.23) (layer F.SilkS)
