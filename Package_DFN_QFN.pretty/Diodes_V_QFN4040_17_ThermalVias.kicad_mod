@@ -74,7 +74,7 @@
   (pad "18" thru_hole circle (at 0.905 -0.13 90) (size 0.6 0.6) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 7c4c6a4e-f497-4907-a92f-d498a315b0d6))
   (pad "18" thru_hole circle (at 0.925 -1.29 90) (size 0.6 0.6) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp b8011325-493f-4bdb-a4e8-825face37d1d))
   (pad "18" thru_hole circle (at 0.945 0.93 90) (size 0.6 0.6) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 34b0c526-c2e7-4ab7-a022-817a6dd2fab9))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Diodes_V_QFN4040_17.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Diodes_V_QFN4040_17.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
