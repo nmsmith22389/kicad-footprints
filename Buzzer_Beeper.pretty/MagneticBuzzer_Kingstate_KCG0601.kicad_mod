@@ -1,7 +1,7 @@
 (footprint "MagneticBuzzer_Kingstate_KCG0601" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5A030281)
-  (descr "Buzzer, Elektromagnetic Beeper, Summer,")
+  (descr "Buzzer, Elektromagnetic Beeper, Summer,https://upload.chipdatas.com/KCG0601.pdf")
   (tags "Kingstate KCG0601 ")
   (attr through_hole)
   (fp_text reference "REF**" (at 1.6 -4.2) (layer "F.SilkS")
