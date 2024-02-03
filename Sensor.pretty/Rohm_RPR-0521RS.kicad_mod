@@ -29,10 +29,10 @@
     (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp faac2a00-78ea-458b-b366-82d57ee1a794))
   (fp_poly
     (pts
-      (xy -1.35 -1.45)
-      (xy -1.68 -1.21)
-      (xy -1.68 -1.69)
-      (xy -1.35 -1.45)
+      (xy -1.4 -1.45)
+      (xy -1.73 -1.21)
+      (xy -1.73 -1.69)
+      (xy -1.4 -1.45)
     )
 
     (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 91ac64d9-837b-42ef-992d-f4a5af0cd8fb))
