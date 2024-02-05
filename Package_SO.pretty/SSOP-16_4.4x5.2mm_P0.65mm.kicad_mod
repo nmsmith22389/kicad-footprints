@@ -2,7 +2,6 @@
   (layer "F.Cu")
   (descr "SSOP16: plastic shrink small outline package; 16 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot369-1_po.pdf)")
   (tags "SSOP 0.65")
-  (clearance 0.2)
   (attr smd)
   (fp_text reference "REF**" (at 0 -3.65) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
@@ -22,10 +21,10 @@
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp f2883756-08ce-40e6-be6b-8d4b2b8d85e9))
   (fp_poly
     (pts
-      (xy -3.65 -2.275)
-      (xy -3.98 -2.035)
-      (xy -3.98 -2.515)
-      (xy -3.65 -2.275)
+      (xy -2.9 -2.75)
+      (xy -3.14 -3.08)
+      (xy -2.66 -3.08)
+      (xy -2.9 -2.75)
     )
 
     (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 1134b914-d0ec-479e-aa58-683579e3fc8f))
