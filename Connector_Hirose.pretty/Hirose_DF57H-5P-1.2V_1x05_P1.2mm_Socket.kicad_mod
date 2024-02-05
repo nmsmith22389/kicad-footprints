@@ -1,4 +1,4 @@
-(footprint Hirose_DF57H-5-1.2V_1x05_P1.2mm_Socket (version 20221018) (generator kicad-footprint-generator)
+(footprint Hirose_DF57H-5P-1.2V_1x05_P1.2mm_Socket (version 20221018) (generator kicad-footprint-generator)
   (layer F.Cu)
   (descr "Low Profile Swing-Lock Wire-to-Board Connector for Power (source: https://www.hirose.com/en/product/document?clcode=&productname=&series=DF57&documenttype=Catalog&lang=en&documentid=en_DF57_CAT)")
   (tags "conn hirose socket low-profile power")
@@ -6,7 +6,7 @@
   (fp_text reference REF** (at 0 -3.52) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Hirose_DF57H-5-1.2V_1x05_P1.2mm_Socket (at 0 3.49) (layer F.Fab)
+  (fp_text value Hirose_DF57H-5P-1.2V_1x05_P1.2mm_Socket (at 0 3.49) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -3.85 -2.175) (end 3.85 -2.175)
@@ -81,7 +81,7 @@
        (xy 3.05 -1.4625)
        (xy 3.05 -0.2625)
        (xy -3.05 -0.2625))))
-  (model ${KICAD7_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF57H-5-1.2V_1x05_P1.2mm_Socket.wrl
+  (model ${KICAD7_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF57H-5P-1.2V_1x05_P1.2mm_Socket.wrl
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
