@@ -3,7 +3,7 @@
   (descr "https://toshiba.semicon-storage.com/ap-en/design-support/package/detail.5pin%20MFSOP6.html")
   (tags "MFSOP 4 pin SMD")
   (attr smd)
-  (fp_text reference "REF**" (at -2 -2.8) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 0 -2.8) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b90ff972-9042-44e6-a0ec-78e30713d55a)
   )
@@ -21,13 +21,13 @@
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp ff9abc32-cfe3-46cb-b49c-2124cae66896))
   (fp_poly
     (pts
-      (xy -3.125 -0.6)
-      (xy -2.885 -0.27)
-      (xy -3.365 -0.27)
-      (xy -3.125 -0.6)
+      (xy -3.125 -1.95)
+      (xy -3.365 -2.28)
+      (xy -2.885 -2.28)
+      (xy -3.125 -1.95)
     )
 
-    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 2ca5e2fc-e4ba-491f-a092-563d70badad1))
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 22ffa95c-f263-46d6-ba93-6ec6a4c11baf))
   (fp_line (start -4 -2.05) (end -4 2.05)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 52a57543-7c53-40b4-8a00-48a625fee958))
   (fp_line (start -4 -2.05) (end 4 -2.05)
