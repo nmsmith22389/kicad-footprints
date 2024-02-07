@@ -2,7 +2,6 @@
   (layer "F.Cu")
   (descr "8-Lead Plastic Small Outline (SM) - 5.28 mm Body [SOIC] (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf)")
   (tags "SOIC 1.27")
-  (clearance 0.2)
   (attr smd)
   (fp_text reference "REF**" (at 0 -3.68) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))

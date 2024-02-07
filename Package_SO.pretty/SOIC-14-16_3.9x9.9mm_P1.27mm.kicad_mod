@@ -2,7 +2,6 @@
   (layer "F.Cu")
   (descr "SOIC, 16 Pin package with pin 2 and 13 removed for voltage clearance  (UCC256301, https://www.ti.com/lit/ds/symlink/ucc256301.pdf)")
   (tags "SOIC SO")
-  (clearance 0.2)
   (attr smd)
   (fp_text reference "REF**" (at 0 -5.9) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
@@ -26,10 +25,10 @@
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 7b4da619-e2a4-4fad-98cb-89c31d63fa10))
   (fp_poly
     (pts
-      (xy -2.5 -3.875)
-      (xy -2.26 -3.545)
-      (xy -2.74 -3.545)
-      (xy -2.5 -3.875)
+      (xy -2.4 -5)
+      (xy -2.64 -5.33)
+      (xy -2.16 -5.33)
+      (xy -2.4 -5)
     )
 
     (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 9beae789-18d5-4a54-9774-fb8b38af68fc))
