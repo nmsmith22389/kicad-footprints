@@ -7,7 +7,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp bfe43fee-7875-46aa-807f-807c9a8d12e5)
   )
-  (fp_text value "Quectel_L70-R" (at 0 1.5) (layer "F.Fab")
+  (fp_text value "Quectel_L70-R" (at 0 6) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 80c21aff-06cb-413d-b3f3-9ec3c3f9eb62)
   )
