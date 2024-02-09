@@ -3,7 +3,7 @@
   (descr "Quectel L96 GPS GLONASS Galileo BeiDou Module, internal chip antenna, https://static6.arrow.com/aropdfconversion/50213b4bc5cb920911b62909a5ca765b1c5ab3d1/quectel_l96_hardware_design_v1.2.pdf")
   (tags "Quectel GPS GNSS")
   (attr smd)
-  (fp_text reference "REF**" (at -4.8 -7.65) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 4.99 -7.91) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a3b9e29c-c7ed-4fa0-90aa-030603532542)
   )
@@ -15,8 +15,6 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 151e3ec3-2d4d-40a9-95a7-563f2c6a714d)
   )
-  (fp_line (start -5.9 -6.82) (end -4.9 -6.82)
-    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp bf4f25e4-8446-4f48-bd20-06543b80f68f))
   (fp_line (start -4.9 -7.1) (end -2.62 -7.1)
     (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 61d40df4-9366-49a0-bf4d-1f3b87e340cb))
   (fp_line (start -4.9 -6.82) (end -4.9 -7.1)
@@ -31,6 +29,15 @@
     (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 562e1d40-e25d-48f9-ad8c-1e84475714e3))
   (fp_line (start 4.9 7.1) (end 4.9 6.57)
     (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp c5f8b785-fb32-4ee5-b2a9-9e9337cbb5bb))
+  (fp_poly
+    (pts
+      (xy -5.43 -6.81)
+      (xy -5.67 -7.14)
+      (xy -5.19 -7.14)
+      (xy -5.43 -6.81)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp a75c5ace-54bf-44f5-8c11-8d578b91cb89))
   (fp_line (start -6.88 -7.55) (end -6.88 7.3)
     (stroke (width 0.05) (type default)) (layer "F.CrtYd") (tstamp e133acf5-6a58-4022-b8dd-db376db036ff))
   (fp_line (start -6.88 7.3) (end -5.8 7.3)
