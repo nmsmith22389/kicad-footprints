@@ -1,6 +1,6 @@
 (footprint DFN-14_1.35x3.5mm_P0.5mm (version 20221018) (generator kicad-footprint-generator)
   (layer F.Cu)
-  (descr "DFN, 14 Pin (https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3012_datasheet.pdf.pdf#page=7), generated with kicad-footprint-generator ipc_noLead_generator.py")
+  (descr "DFN, 14 Pin (https://m.littelfuse.com/media?resourcetype=datasheets&itemid=9fbe09c9-efee-4022-a889-ca0005cd9b07&filename=littelfuse-tvs-diode-array-sp3012-datasheet#page=5), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "DFN NoLead")
   (attr smd)
   (fp_text reference REF** (at 0 -2.7) (layer F.SilkS)
