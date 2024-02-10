@@ -1,7 +1,7 @@
 (footprint "SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "Wuerth, WS-SLTV, 450301014042, https://www.we-online.com/components/products/datasheet/450301014042.pdf")
-  (tags "Wuerth, 450301014042, WS-SLTV, switch")
+  (tags "Wuerth  450301014042 WS-SLTV switch")
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -2.54 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
@@ -41,11 +41,6 @@
   (pad "2" thru_hole circle (at -2.54 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 009fb3af-d41e-46f4-bdd4-5c0efa4823c6))
   (pad "3" thru_hole circle (at 2.54 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 7b8be690-e896-4d08-9607-3e21c1a974a8))
   (model "${KICAD7_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "/home/frank/Downloads/KiCad_CAD_files/Würth_elektronik/Wuerth_450301014042_rev1.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
