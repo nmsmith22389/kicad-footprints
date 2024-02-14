@@ -2,6 +2,7 @@
   (layer "F.Cu")
   (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip")
   (tags "net tie solder jumper bridged")
+  (zone_connect 1)
   (attr exclude_from_pos_files exclude_from_bom)
   (net_tie_pad_groups "1, 2")
   (fp_text reference "REF**" (at 0 -1.8) (layer "F.SilkS")
