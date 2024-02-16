@@ -88,6 +88,7 @@
   (lib (name Package_DFN_QFN)(type KiCad)(uri ${KICAD7_FOOTPRINT_DIR}/Package_DFN_QFN.pretty)(options "")(descr "Surface mount IC packages, DFN / LGA / QFN"))
   (lib (name Package_DIP)(type KiCad)(uri ${KICAD7_FOOTPRINT_DIR}/Package_DIP.pretty)(options "")(descr "Through hole IC packages, DIP"))
   (lib (name Package_DirectFET)(type KiCad)(uri ${KICAD7_FOOTPRINT_DIR}/Package_DirectFET.pretty)(options "")(descr "DirectFET packages from International Rectifier"))
+  (lib (name Package_EpcFET)(type KiCad)(uri ${KICAD7_FOOTPRINT_DIR}/Package_EpcFET.pretty)(options "")(descr "Die Packages for EPC eGaN Power FET's"))
   (lib (name Package_LCC)(type KiCad)(uri ${KICAD7_FOOTPRINT_DIR}/Package_LCC.pretty)(options "")(descr "Leaded Chip Carriers (LCC)"))
   (lib (name Package_LGA)(type KiCad)(uri ${KICAD7_FOOTPRINT_DIR}/Package_LGA.pretty)(options "")(descr "Land Grid Array (LGA)"))
   (lib (name Package_QFP)(type KiCad)(uri ${KICAD7_FOOTPRINT_DIR}/Package_QFP.pretty)(options "")(descr "Quad Flat Package (QFP)"))
