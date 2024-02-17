@@ -22,12 +22,12 @@
   (fp_poly
     (pts
       (xy -0.62 -1.41)
-      (xy -1.1 -1.41)
-      (xy -0.62 -1.89)
+      (xy -0.9 -1.41)
+      (xy -0.62 -1.69)
       (xy -0.62 -1.41)
     )
 
-    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 738a2aa9-6b1d-47a8-8292-cb7340e383f5))
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 31566dcc-530d-4fff-9001-289247f7bb8d))
   (fp_line (start -0.91 -1.5) (end 0.91 -1.5)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp e1badb2e-9e88-4837-91b3-467f6d470bf2))
   (fp_line (start -0.91 1.5) (end -0.91 -1.5)
