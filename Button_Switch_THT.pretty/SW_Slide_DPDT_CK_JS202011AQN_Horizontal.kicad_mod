@@ -1,4 +1,4 @@
-(footprint "SW_CK_JS202011AQN_DPDT_Angled" (version 20221018) (generator pcbnew)
+(footprint "SW_Slide_DPDT_CK_JS202011AQN_Horizontal" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "C&K sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf")
   (tags "switch DPDT")
@@ -7,7 +7,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 36db9302-86f5-4a52-a00c-0f4ffea6985e)
   )
-  (fp_text value "SW_CK_JS202011AQN_DPDT_Angled" (at 2.25 6.75) (layer "F.Fab")
+  (fp_text value "SW_Slide_DPDT_CK_JS202011AQN_Horizontal" (at 2.25 6.75) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 723e400d-bdb3-4ffd-8a72-2eb6d10dc325)
   )
@@ -74,7 +74,7 @@
   (pad "4" thru_hole circle (at 5 3.3) (size 1.4 1.4) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp b5f96e1d-b583-4145-849f-d3ffa7f22da1))
   (pad "5" thru_hole circle (at 2.5 3.3) (size 1.4 1.4) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 7091daab-facd-49ed-b803-deabcfe587db))
   (pad "6" thru_hole circle (at 0 3.3) (size 1.4 1.4) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 639ff584-bdd4-467d-b8ff-9e1d8808a0a9))
-  (model "${KICAD7_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_CK_JS202011AQN_DPDT_Angled.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Slide_DPDT_CK_JS202011AQN_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
