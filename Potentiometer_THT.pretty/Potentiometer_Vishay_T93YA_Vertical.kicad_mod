@@ -16,15 +16,15 @@
     (tstamp d75d0466-4d46-4f2c-a63d-7e87f47c709c)
   )
   (fp_line (start -2.42 -2.61) (end -2.42 2.61)
-    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp c97de5dd-390e-4609-b27b-c7e73bbc0dbc))
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp c97de5dd-390e-4609-b27b-c7e73bbc0dbc))
   (fp_line (start -2.42 -2.61) (end -0.3 -2.61)
-    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 718c3964-deed-40e7-bc22-269d9fa01a69))
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 718c3964-deed-40e7-bc22-269d9fa01a69))
   (fp_line (start -2.42 2.61) (end 7.5 2.61)
-    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 35cb4dd5-de3c-46c1-8d17-42d1aded2218))
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 35cb4dd5-de3c-46c1-8d17-42d1aded2218))
   (fp_line (start 0.4 -2.61) (end 7.5 -2.61)
-    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 21fc00e7-4030-4083-a53f-50edbf502b10))
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 21fc00e7-4030-4083-a53f-50edbf502b10))
   (fp_line (start 7.5 -2.61) (end 7.5 2.61)
-    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp d540fe00-a995-46a6-b2f2-911ef015eef6))
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp d540fe00-a995-46a6-b2f2-911ef015eef6))
   (fp_poly
     (pts
       (xy 0 -2.61)
@@ -53,7 +53,7 @@
   (pad "1" thru_hole roundrect (at 0 0) (size 1.65 1.65) (drill 0.85) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25) (tstamp 926624ff-e4de-4621-83e6-8a3323ba9c4b))
   (pad "2" thru_hole circle (at 2.54 0) (size 1.65 1.65) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp ddeaf489-f483-473e-b429-603195d81dad))
   (pad "3" thru_hole circle (at 5.08 0) (size 1.65 1.65) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp 3f69bd43-fa5f-446e-b368-66466a088202))
-  (model "${KICAD7_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Vishay_T93YA_Vertical.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Vishay_T93YA_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -69,7 +69,7 @@
   (pad "1" thru_hole roundrect (at 0 0) (size 1.65 1.65) (drill 0.85) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25) (tstamp fff8826e-d005-4a5b-8a76-c058995ba1e6))
   (pad "2" thru_hole circle (at 2.54 0) (size 1.65 1.65) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp 644619ff-9707-45e0-a3b2-35eb10caa363))
   (pad "3" thru_hole circle (at 5.08 0) (size 1.65 1.65) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp 98abf4c1-4f5c-4d4b-b47e-f6776f66d236))
-  (model "${KICAD7_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Vishay_T93XA_Horizontal.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Vishay_T93XA_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
