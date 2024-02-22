@@ -84,9 +84,11 @@ visual_diff:
     - sudo apt install curl python3 python3-pip -qqy --no-install-recommends
     - python3 -V
     - pip install --break-system-packages pygments wsdiff jinja2
-    - $CI_BUILDS_DIR/kicad-library-utils/tools/gitlabci/visual_diff.sh
     - mkdir diffs
-    - mv *.diff diffs/
+    - $CI_BUILDS_DIR/kicad-library-utils/tools/gitlabci/visual_diff.sh diffs
+    # Move diffs, if there are any
+    # Remove this line when visual_diff puts files in the fight place on its own
+    - ls *.diff > /dev/null || mv *.diff diffs/
   artifacts:
     expose_as: "Visual Diff"
     paths:
