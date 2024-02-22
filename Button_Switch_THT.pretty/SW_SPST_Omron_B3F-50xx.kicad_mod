@@ -1,6 +1,7 @@
 (footprint "SW_SPST_Omron_B3F-50xx" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "SW_THT_Tactile_Omron_B3F-50xx, 12x12x7,3 mm, Through hole switch from the B3F Family manufactured by Omron,  https://www.omron.com/ecb/products/pdf/en-b3f.pdf")
+  (tags "tactile omron switch tht ")
   (attr through_hole)
   (fp_text reference "REF**" (at 6.25 -5.8) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
