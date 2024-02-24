@@ -72,7 +72,7 @@
        (xy 1.25 -1.4625)
        (xy 1.25 -0.2625)
        (xy -1.25 -0.2625))))
-  (model ${KICAD7_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF57H-2P-1.2V_1x02_P1.2mm_Socket.wrl
+  (model ${KICAD8_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF57H-2P-1.2V_1x02_P1.2mm_Socket.wrl
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
