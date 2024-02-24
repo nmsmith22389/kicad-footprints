@@ -23,8 +23,6 @@
     (stroke (width 0.1) (type solid)) (layer F.Fab))
   (fp_line (start -9 -3) (end -8.5 -3.8)
     (stroke (width 0.1) (type solid)) (layer F.Fab))
-  (fp_line (start -8.5 -3.8) (end -9.5 -3.8)
-    (stroke (width 0.1) (type solid)) (layer F.Fab))
   (fp_line (start -14.58 -4.3) (end -14.58 4.3)
     (stroke (width 0.05) (type solid)) (layer F.CrtYd))
   (fp_line (start -14.58 4.3) (end 14.58 4.3)
