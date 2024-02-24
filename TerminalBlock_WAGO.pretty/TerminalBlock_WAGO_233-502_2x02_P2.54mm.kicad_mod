@@ -1,9 +1,9 @@
 (footprint "TerminalBlock_WAGO_233-502_2x02_P2.54mm" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "Terminal Block Wago 233-502, 2 pins, pitch 2.54 mm,  https://www.wago.com/de/leiterplattenanschluss/klemmenleiste-fuer-leiterplatten/p/233-502")
-  (tags "THT Terminal Block Wago 233-502")
+  (tags "THT")
   (attr through_hole)
-  (fp_text reference "REF**" (at -0.74 2.62) (layer "F.SilkS")
+  (fp_text reference "REF**" (at -1.27 -3.81) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9c170fc9-c867-48a9-99f1-7582a9e366d9)
   )
@@ -57,7 +57,7 @@
   (pad "1" thru_hole roundrect (at 0 5) (size 1.8 3.2) (drill 1.1) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.1388888889) (tstamp e212f4f4-d114-4869-aa30-8c80a05ccba1))
   (pad "2" thru_hole oval (at 2.54 0) (size 1.8 3.2) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp cb8ab48f-8232-4cb0-ad96-df27fb1903f8))
   (pad "2" thru_hole oval (at 2.54 5) (size 1.8 3.2) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp 60b66bb1-001d-4df0-a0ec-e5f5a025fe29))
-  (model "${KICAD7_3DMODEL_DIR}/TerminalBlock_WAGO.3dshapes/TerminalBlock_WAGO_233-502_2x02_P2.54mm.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/TerminalBlock_WAGO.3dshapes/TerminalBlock_WAGO_233-502_2x02_P2.54mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
