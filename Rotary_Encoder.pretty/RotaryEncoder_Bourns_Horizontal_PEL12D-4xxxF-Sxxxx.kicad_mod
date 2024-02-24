@@ -1,6 +1,6 @@
 (footprint "RotaryEncoder_Bourns_Horizontal_PEL12D-4xxxF-Sxxxx" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "Rotary encoder with switch and illuminated 4,6,8,13,18mm shaft, https://www.bourns.com/docs/product-datasheets/PEL12D.pdf")
+  (descr "Rotary encoder with switch and illuminated 4,6,8,13,18mm shaft, dual-led, https://www.bourns.com/docs/product-datasheets/PEL12D.pdf")
   (tags "rotary encoder illuminated switch horizontal")
   (attr through_hole)
   (fp_text reference "REF**" (at -3 -2) (layer "F.SilkS")
