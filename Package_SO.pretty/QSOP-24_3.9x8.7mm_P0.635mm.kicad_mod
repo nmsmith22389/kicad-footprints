@@ -1,6 +1,6 @@
 (footprint QSOP-24_3.9x8.7mm_P0.635mm (version 20221018) (generator kicad-footprint-generator)
   (layer F.Cu)
-  (descr "QSOP, 24 Pin (https://static6.arrow.com/aropdfconversion/64a7539fb700a4b103fd590de1ba7a1030cb73df/4177971122880118cd0000.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+  (descr "QSOP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/hittite-legacy-packages/HRQ-24-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "QSOP SO")
   (attr smd)
   (fp_text reference REF** (at 0 -5.3) (layer F.SilkS)
