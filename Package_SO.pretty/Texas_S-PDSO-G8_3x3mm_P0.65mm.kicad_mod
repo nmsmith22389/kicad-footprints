@@ -261,7 +261,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "5c98af05-76b1-4298-8df4-b124487c2755")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Texas_S-PDSO-G8_3x3mm_P0.65mm.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/Texas_S-PDSO-G8_3x3mm_P0.65mm.wrl"
 		(hide yes)
 		(offset
 			(xyz 0 0 0)
