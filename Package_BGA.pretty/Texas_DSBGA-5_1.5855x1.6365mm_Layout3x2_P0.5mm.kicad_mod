@@ -63,7 +63,6 @@
 			)
 		)
 	)
-	(solder_mask_margin 0.05)
 	(attr smd)
 	(fp_line
 		(start -1.14275 -1.16825)
@@ -126,8 +125,8 @@
 		(uuid "3e41a5ae-7830-419f-b29d-7888694e7303")
 	)
 	(fp_line
-		(start -1.79275 -1.81825)
-		(end -1.79275 1.81825)
+		(start -1.79 -1.82)
+		(end -1.79 1.82)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -136,8 +135,8 @@
 		(uuid "43910d6e-5e58-4686-8636-df1588cf63c8")
 	)
 	(fp_line
-		(start -1.79275 1.81825)
-		(end 1.79275 1.81825)
+		(start -1.79 1.82)
+		(end 1.79 1.82)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -146,8 +145,8 @@
 		(uuid "ae0a7818-8ebe-4814-aca2-4489fd94a0f1")
 	)
 	(fp_line
-		(start 1.79275 -1.81825)
-		(end -1.79275 -1.81825)
+		(start 1.79 -1.82)
+		(end -1.79 -1.82)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -156,8 +155,8 @@
 		(uuid "7a0a36c2-eb4a-4bce-8bd2-a7041c52e469")
 	)
 	(fp_line
-		(start 1.79275 1.81825)
-		(end 1.79275 -1.81825)
+		(start 1.79 1.82)
+		(end 1.79 -1.82)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -221,7 +220,7 @@
 		(uuid "1f4f965d-0803-4c8f-8cc2-1e3ea0b5fc09")
 		(effects
 			(font
-				(size 0.32 0.32)
+				(size 0.5 0.5)
 				(thickness 0.048)
 			)
 		)
@@ -256,7 +255,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "5b297bd2-5224-4cec-ab98-b42a0f9c2e52")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-5_1.5855x1.6365mm_Layout3x2_P0.5mm.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-5_1.5855x1.6365mm_Layout3x2_P0.5mm.wrl"
 		(hide yes)
 		(offset
 			(xyz 0 0 0)
