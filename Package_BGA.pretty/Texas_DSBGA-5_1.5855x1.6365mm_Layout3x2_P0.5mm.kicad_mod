@@ -6,7 +6,7 @@
 	(descr "Texas Instruments, DSBGA, area grid, YTA0005 pad definition, 1.5855x1.6365mm, 5 Ball, 3x2 Layout, 0.5mm Pitch, https://www.ti.com/lit/ml/mxbg263/mxbg263.pdf, https://www.ti.com/lit/ds/symlink/lm74.pdf#page=24")
 	(tags "BGA 5 0.5 YTA")
 	(property "Reference" "REF**"
-		(at 0 -1.8 0)
+		(at -0.01 -2.15 0)
 		(layer "F.SilkS")
 		(uuid "1f713447-a9a7-483a-8cdf-e88276d9e267")
 		(effects
@@ -65,27 +65,7 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -1.14275 -1.16825)
-		(end -1.14275 -0.92825)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "b38ec532-67f4-440d-9ad9-0476f57e24c8")
-	)
-	(fp_line
-		(start -0.90275 -1.16825)
-		(end -1.14275 -1.16825)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "e3f5ce73-4cd2-4ea3-ae2c-932ddbbd24cb")
-	)
-	(fp_line
-		(start -0.90275 -0.92825)
+		(start -0.90275 -0.57175)
 		(end -0.90275 0.92825)
 		(stroke
 			(width 0.12)
@@ -106,7 +86,7 @@
 	)
 	(fp_line
 		(start 0.875 -0.92825)
-		(end -0.90275 -0.92825)
+		(end -0.525 -0.92825)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -123,6 +103,18 @@
 		)
 		(layer "F.SilkS")
 		(uuid "3e41a5ae-7830-419f-b29d-7888694e7303")
+	)
+	(fp_poly
+		(pts
+			(xy -0.9 -0.93) (xy -1.4 -0.93) (xy -0.9 -1.43) (xy -0.9 -0.93)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "7e302e00-b661-4880-be36-c3a8c237509c")
 	)
 	(fp_line
 		(start -1.79 -1.82)
