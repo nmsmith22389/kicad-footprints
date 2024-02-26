@@ -1,9 +1,9 @@
-(footprint "TerminalBlock_WAGO_233-504_2x04_P2.54mm"
+(footprint "TerminalBlock_WAGO_233-508_2x08_P2.54mm"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "Terminal Block Wago 233-504, 4 pins, pitch 2.54 mm, https://www.wago.com/de/leiterplattenanschluss/klemmenleiste-fuer-leiterplatten/p/233-504")
+	(descr "Terminal Block Wago 233-508, 8 pins, pitch 2.54 mm, https://www.wago.com/de/leiterplattenanschluss/klemmenleiste-fuer-leiterplatten/p/233-508")
 	(tags "THT")
 	(property "Reference" "REF**"
 		(at -1.27 -3.81 0)
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "TerminalBlock_WAGO_233-504_2x04_P2.54mm"
+	(property "Value" "TerminalBlock_WAGO_233-508_2x08_P2.54mm"
 		(at 4.18 11.09 0)
 		(layer "F.Fab")
 		(uuid "409b6363-5d8f-48f7-a770-2f8c241df588")
@@ -86,7 +86,7 @@
 	)
 	(fp_line
 		(start -2.8 -2.6)
-		(end 9.86 -2.6)
+		(end 20.02 -2.6)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -105,8 +105,8 @@
 		(uuid "2a7c6a5b-0965-40f4-a4b7-b0889a6a289c")
 	)
 	(fp_line
-		(start 9.86 -2.6)
-		(end 9.86 9.9)
+		(start 20.02 -2.6)
+		(end 20.02 9.9)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -115,7 +115,7 @@
 		(uuid "1398b3a4-a8d9-4e36-a78e-96c4087f4c5d")
 	)
 	(fp_line
-		(start 9.86 9.9)
+		(start 20.02 9.9)
 		(end -2.8 9.9)
 		(stroke
 			(width 0.12)
@@ -158,8 +158,8 @@
 		(uuid "df88cb8f-3499-47f0-93f0-d4107d8e6d57")
 	)
 	(fp_rect
-		(start 6.92 -3.098738)
-		(end 8.32 -2.598738)
+		(start 6.92 -3.1)
+		(end 8.32 -2.6)
 		(stroke
 			(width 0.12)
 			(type default)
@@ -168,9 +168,53 @@
 		(layer "F.SilkS")
 		(uuid "854de97b-a129-4bf7-8876-7745699182e5")
 	)
+	(fp_rect
+		(start 9.46 -3.100919)
+		(end 10.86 -2.600919)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "de03ce15-4ce5-4336-811e-e13f40869204")
+	)
+	(fp_rect
+		(start 12 -3.100564)
+		(end 13.4 -2.600564)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "6259cda2-7ae0-4eee-b563-f38f8b03ba90")
+	)
+	(fp_rect
+		(start 14.54 -3.1)
+		(end 15.94 -2.6)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "88da78e6-3b54-41f1-bd87-96f27d58292f")
+	)
+	(fp_rect
+		(start 17.08 -3.1)
+		(end 18.48 -2.6)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "e304751b-6015-45cf-8fc3-2d9318647636")
+	)
 	(fp_line
 		(start -3.2 -3)
-		(end 10.26 -3)
+		(end 20.42 -3)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -189,8 +233,8 @@
 		(uuid "5bf62e6c-78e5-4eea-a749-5930decd815d")
 	)
 	(fp_line
-		(start 10.26 -3)
-		(end 10.26 10.3)
+		(start 20.42 -3)
+		(end 20.42 10.3)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -199,7 +243,7 @@
 		(uuid "80af4cd8-bb45-46ba-b01c-8da8f921d049")
 	)
 	(fp_line
-		(start 10.26 10.3)
+		(start 20.42 10.3)
 		(end -3.2 10.3)
 		(stroke
 			(width 0.05)
@@ -210,7 +254,7 @@
 	)
 	(fp_line
 		(start -2.7 -2.5)
-		(end 9.76 -2.5)
+		(end 19.92 -2.5)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -260,7 +304,7 @@
 	)
 	(fp_line
 		(start 0.5 9.8)
-		(end 9.76 9.8)
+		(end 19.92 9.8)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -269,8 +313,8 @@
 		(uuid "f00c4bd8-e519-4f2e-ad65-a6ba15567e43")
 	)
 	(fp_line
-		(start 9.76 -2.5)
-		(end 9.76 9.8)
+		(start 19.92 -2.5)
+		(end 19.92 9.8)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -355,7 +399,71 @@
 		(remove_unused_layers no)
 		(uuid "909395b7-8849-4c5e-890c-24c063ff0c4f")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/TerminalBlock_WAGO.3dshapes/TerminalBlock_WAGO_233-504_2x04_P2.54mm.wrl"
+	(pad "5" thru_hole oval
+		(at 10.16 0)
+		(size 1.8 3.2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b2c9909f-bc3a-42a2-8afe-b4b8dc46e914")
+	)
+	(pad "5" thru_hole oval
+		(at 10.16 5)
+		(size 1.8 3.2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5ac0b700-7435-4954-8dd5-0f56e5b743df")
+	)
+	(pad "6" thru_hole oval
+		(at 12.7 0)
+		(size 1.8 3.2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8c045f34-16c9-4948-91a0-56becc64a7c0")
+	)
+	(pad "6" thru_hole oval
+		(at 12.7 5)
+		(size 1.8 3.2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6325bb9b-99a8-4a1d-abca-635095e77515")
+	)
+	(pad "7" thru_hole oval
+		(at 15.24 0)
+		(size 1.8 3.2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5cdafc11-44d3-4890-b95f-00a603c9df65")
+	)
+	(pad "7" thru_hole oval
+		(at 15.24 5)
+		(size 1.8 3.2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5a72e6fd-ae89-475b-84f6-6ca48d3e5c0d")
+	)
+	(pad "8" thru_hole oval
+		(at 17.78 0)
+		(size 1.8 3.2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "65efa41e-f0eb-4785-b08a-a4b6f54db0d5")
+	)
+	(pad "8" thru_hole oval
+		(at 17.78 5)
+		(size 1.8 3.2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ae3ecfe2-bc8d-4282-bd74-4dac1836ccdd")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/TerminalBlock_WAGO.3dshapes/TerminalBlock_WAGO_233-508_2x08_P2.54mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
