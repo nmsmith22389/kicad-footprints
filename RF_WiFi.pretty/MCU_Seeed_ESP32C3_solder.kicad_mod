@@ -1,4 +1,4 @@
-(footprint "MCU_Seeed_ESP32C3"
+(footprint "MCU_Seeed_ESP32C3_reflow"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "MCU_Seeed_ESP32C3"
+	(property "Value" "MCU_Seeed_ESP32C3_reflow"
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -106,6 +106,17 @@
 		)
 		(layer "F.SilkS")
 		(uuid "156fb12b-a83b-42f3-b2c9-418235712a28")
+	)
+	(fp_rect
+		(start -4 -12)
+		(end 4 -5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "5b3c8843-f2db-41a9-b743-f4aef369e19e")
 	)
 	(fp_arc
 		(start -8.9 -8.4)
@@ -220,7 +231,7 @@
 		(uuid "420c4a4b-02dc-4dd6-b1da-cd3b4c6fc4fb")
 	)
 	(pad "8" smd roundrect
-		(at 8.91 7.7)
+		(at 9 7.62)
 		(size 2 1.7)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
@@ -228,7 +239,7 @@
 		(uuid "76ceb618-a344-4374-b824-62ffc247d253")
 	)
 	(pad "9" smd roundrect
-		(at 8.91 5.16)
+		(at 9 5.08)
 		(size 2 1.7)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
@@ -236,7 +247,7 @@
 		(uuid "45d54af2-75fb-4798-8631-42d5b21898b0")
 	)
 	(pad "10" smd roundrect
-		(at 8.91 2.62)
+		(at 9 2.54)
 		(size 2 1.7)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
@@ -244,7 +255,7 @@
 		(uuid "69f27214-d267-47dd-863b-1b618971f81f")
 	)
 	(pad "11" smd roundrect
-		(at 8.91 0.08)
+		(at 9 0)
 		(size 2 1.7)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
@@ -252,7 +263,7 @@
 		(uuid "2bc46d32-f848-480a-b12b-354e19b054ff")
 	)
 	(pad "12" smd roundrect
-		(at 8.91 -2.46)
+		(at 9 -2.54)
 		(size 2 1.7)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
@@ -260,7 +271,7 @@
 		(uuid "84261c5f-8c52-484c-a997-528c752e7726")
 	)
 	(pad "13" smd roundrect
-		(at 8.91 -5)
+		(at 9 -5.08)
 		(size 2 1.7)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
@@ -268,7 +279,7 @@
 		(uuid "10541b9d-800a-4ec5-a696-e7b5847cea97")
 	)
 	(pad "14" smd roundrect
-		(at 8.91 -7.54)
+		(at 9 -7.62)
 		(size 2 1.7)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
