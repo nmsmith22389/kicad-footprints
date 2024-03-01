@@ -284,7 +284,7 @@
 	(pad "" smd rect
 		(at 0.2 5.16)
 		(size 0.001 0.001)
-		(layers "F.Paste" "F.Mask" "Dwgs.User")
+		(layers "F.Paste" "F.Mask")
 		(uuid "154d4e31-ba80-4a9b-8dac-e1f77c3ca02f")
 	)
 	(pad "" smd rect
@@ -303,26 +303,8 @@
 		)
 		(primitives
 			(gr_rect
-				(start 1.0105 -0.485)
-				(end 1.2805 0.02)
-				(width 0)
-				(fill yes)
-			)
-			(gr_rect
-				(start 0.5105 -0.485)
-				(end 0.7805 0.02)
-				(width 0)
-				(fill yes)
-			)
-			(gr_rect
-				(start 0.0105 -0.485)
-				(end 0.2805 0.02)
-				(width 0)
-				(fill yes)
-			)
-			(gr_rect
-				(start -0.4895 -0.485)
-				(end -0.2195 0.02)
+				(start -1.4895 -0.485)
+				(end -1.2195 0.02)
 				(width 0)
 				(fill yes)
 			)
@@ -333,8 +315,26 @@
 				(fill yes)
 			)
 			(gr_rect
-				(start -1.4895 -0.485)
-				(end -1.2195 0.02)
+				(start -0.4895 -0.485)
+				(end -0.2195 0.02)
+				(width 0)
+				(fill yes)
+			)
+			(gr_rect
+				(start 0.0105 -0.485)
+				(end 0.2805 0.02)
+				(width 0)
+				(fill yes)
+			)
+			(gr_rect
+				(start 0.5105 -0.485)
+				(end 0.7805 0.02)
+				(width 0)
+				(fill yes)
+			)
+			(gr_rect
+				(start 1.0105 -0.485)
+				(end 1.2805 0.02)
 				(width 0)
 				(fill yes)
 			)
@@ -351,26 +351,8 @@
 		)
 		(primitives
 			(gr_rect
-				(start 1.2195 -0.485)
-				(end 1.4895 0.02)
-				(width 0)
-				(fill yes)
-			)
-			(gr_rect
-				(start 0.7195 -0.485)
-				(end 0.9895 0.02)
-				(width 0)
-				(fill yes)
-			)
-			(gr_rect
-				(start 0.2195 -0.485)
-				(end 0.4895 0.02)
-				(width 0)
-				(fill yes)
-			)
-			(gr_rect
-				(start -0.2805 -0.485)
-				(end -0.0105 0.02)
+				(start -1.2805 -0.485)
+				(end -1.0105 0.02)
 				(width 0)
 				(fill yes)
 			)
@@ -381,8 +363,26 @@
 				(fill yes)
 			)
 			(gr_rect
-				(start -1.2805 -0.485)
-				(end -1.0105 0.02)
+				(start -0.2805 -0.485)
+				(end -0.0105 0.02)
+				(width 0)
+				(fill yes)
+			)
+			(gr_rect
+				(start 0.2195 -0.485)
+				(end 0.4895 0.02)
+				(width 0)
+				(fill yes)
+			)
+			(gr_rect
+				(start 0.7195 -0.485)
+				(end 0.9895 0.02)
+				(width 0)
+				(fill yes)
+			)
+			(gr_rect
+				(start 1.2195 -0.485)
+				(end 1.4895 0.02)
 				(width 0)
 				(fill yes)
 			)
