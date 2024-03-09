@@ -1,10 +1,10 @@
-(footprint "MCU_Seeed_ESP32C3"
+(footprint "MCU_Seeed_ESP32C3_reflow"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -0.5 0)
+		(at 0 4 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "a8e21823-3c8e-48f6-ad05-5bb8ce7c0fa7")
