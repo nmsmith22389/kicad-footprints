@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(descr "Molex KK-254 Interconnect System, old/engineering part number: AE-6410-03A example for new part number: 22-27-2031, 3 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator")
-	(tags "connector Molex KK-254 vertical")
+	(tags "connector Molex KK-254 vertical fork KF2510")
 	(property "Reference" "REF**"
 		(at 2.54 -4.12 0)
 		(layer "F.SilkS")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "MolexFork_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical"
+	(property "Value" "MolexFork_KF2510_1x03_P2.54mm_Vertical"
 		(at 2.54 4.08 0)
 		(layer "F.Fab")
 		(uuid "03cc1e34-7f16-4f9e-a751-ab5999502be8")
