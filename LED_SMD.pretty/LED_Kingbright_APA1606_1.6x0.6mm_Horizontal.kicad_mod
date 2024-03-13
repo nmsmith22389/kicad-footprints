@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(descr "Right angled LED, 1.6x1.2 mm, H0.6 mm")
-	(tags "LED chip rigth angled vertical")
+	(tags "LED chip right angled vertical")
 	(property "Reference" "REF**"
 		(at 0 -1.9 0)
 		(layer "F.SilkS")
