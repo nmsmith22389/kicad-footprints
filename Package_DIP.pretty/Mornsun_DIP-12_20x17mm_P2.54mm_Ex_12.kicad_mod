@@ -1,9 +1,9 @@
-(footprint "Mornsun_DIP-12_20x17mm_P2.54mm"
+(footprint "Mornsun_DIP-12_20x17mm_P2.54mm_Ex_12"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "12-lead though-hole mounted DIP package, row spacing 12.7 mm, body W20xL17xH7 mm")
+	(descr "11-lead though-hole mounted DIP package, row spacing 12.7 mm, body W20xL17xH7 mm")
 	(tags "DIP-12 2.54mm 500mil Mornsun")
 	(property "Reference" "REF**"
 		(at 0 -10.900002 0)
@@ -17,7 +17,7 @@
 			)
 		)
 	)
-	(property "Value" "Mornsun_DIP-12_20x17mm_P2.54mm"
+	(property "Value" "Mornsun_DIP-12_20x17mm_P2.54mm_Ex_12"
 		(at 0 11 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -219,7 +219,7 @@
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "d799936b-d535-453b-bf20-c0ce7b726b62")
+		(uuid "94cf064d-dbb7-400d-902f-de379a43eded")
 		(effects
 			(font
 				(size 1 1)
@@ -316,15 +316,7 @@
 		(remove_unused_layers no)
 		(uuid "f1e623bb-c5f0-4f80-b3c8-25889bac5410")
 	)
-	(pad "12" thru_hole circle
-		(at 6.35 -6.35 270)
-		(size 1.6 1.6)
-		(drill 1)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "b2157fb1-9a48-435f-8214-74aabffc7453")
-	)
-	(model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/Mornsun_DIP-12_20x17mm_P2.54mm.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/Mornsun_DIP-12_20x17mm_P2.54mm_Ex_12.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
