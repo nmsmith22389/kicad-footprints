@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "Through hole angled pin header, 1x02, 1.27mm pitch, 4.0mm pin length, single row")
+	(descr "Through hole angled pin header, 1x02, 1.27mm pitch, 4.0mm pin length, single row, 3d test")
 	(tags "Through hole angled pin header THT 1x02 1.27mm single row")
 	(property "Reference" "REF**"
 		(at 2.4325 -1.635 0)
