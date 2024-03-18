@@ -3,6 +3,8 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
+	(descr "ESP32C3 Seeed Xiao RF Wifi Shield")
+	(tags "wifi bluetooth microcontroller")
 	(property "Reference" "REF**"
 		(at 0 4 0)
 		(unlocked yes)
@@ -482,5 +484,17 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "64c0ea6c-355b-46c0-ad44-bda43ea9037a")
+	)
+	(model "RF_WiFi.3dshapes/MCU_Seeed_ESP32C3_handsolder.wrl"
+		(hide yes)
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
 	)
 )
