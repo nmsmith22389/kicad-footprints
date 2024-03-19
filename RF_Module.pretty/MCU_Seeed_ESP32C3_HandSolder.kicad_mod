@@ -42,7 +42,7 @@
 			)
 		)
 	)
-	(property "Datasheet" "(https://www.seeedstudio.com/blog/wp-content/uploads/2022/08/Seeed-Studio-XIAO-Series-Package-and-PCB-Design.pdf)"
+	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -55,7 +55,7 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "(https://www.seeedstudio.com/blog/wp-content/uploads/2022/08/Seeed-Studio-XIAO-Series-Package-and-PCB-Design.pdf)"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
