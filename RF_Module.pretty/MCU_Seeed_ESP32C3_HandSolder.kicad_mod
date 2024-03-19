@@ -1,4 +1,4 @@
-(footprint "MCU_Seeed_ESP32C3_handsolder"
+(footprint "MCU_Seeed_ESP32C3_HandSolder"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -17,7 +17,7 @@
 			)
 		)
 	)
-	(property "Value" "MCU_Seeed_ESP32C3_handsolder"
+	(property "Value" "MCU_Seeed_ESP32C3_HandSolder"
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -485,7 +485,7 @@
 		(remove_unused_layers no)
 		(uuid "64c0ea6c-355b-46c0-ad44-bda43ea9037a")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/RF_WiFi.3dshapes/MCU_Seeed_ESP32C3_handsolder.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/RF_Module.3dshapes/MCU_Seeed_ESP32C3.wrl"
 		(hide yes)
 		(offset
 			(xyz 0 0 0)
