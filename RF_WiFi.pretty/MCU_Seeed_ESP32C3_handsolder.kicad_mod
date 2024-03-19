@@ -485,7 +485,7 @@
 		(remove_unused_layers no)
 		(uuid "64c0ea6c-355b-46c0-ad44-bda43ea9037a")
 	)
-	(model "RF_WiFi.3dshapes/MCU_Seeed_ESP32C3_handsolder.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/RF_WiFi.3dshapes/MCU_Seeed_ESP32C3_handsolder.wrl"
 		(hide yes)
 		(offset
 			(xyz 0 0 0)
