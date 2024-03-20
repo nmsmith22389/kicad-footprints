@@ -6,7 +6,7 @@
 	(descr "ESP32C3 Seeed Xiao RF Wifi Shield for hand soldering (https://www.seeedstudio.com/blog/wp-content/uploads/2022/08/Seeed-Studio-XIAO-Series-Package-and-PCB-Design.pdf)")
 	(tags "wifi bluetooth microcontroller")
 	(property "Reference" "REF**"
-		(at 0 4 0)
+		(at 7 -11.8 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "a8e21823-3c8e-48f6-ad05-5bb8ce7c0fa7")
@@ -69,17 +69,6 @@
 		)
 	)
 	(attr smd)
-	(fp_arc
-		(start -8.9 -8.7)
-		(mid -8.077573 -10.018566)
-		(end -6.6 -10.5)
-		(stroke
-			(width 0.12)
-			(type default)
-		)
-		(layer "B.SilkS")
-		(uuid "ca8ad1fd-1dcd-479c-919f-ea4c840974d5")
-	)
 	(fp_line
 		(start -6.7 10.5)
 		(end 6.7 10.5)
@@ -89,6 +78,16 @@
 		)
 		(layer "F.SilkS")
 		(uuid "57cb13ed-b265-4e69-bec1-e9cb74ac83cf")
+	)
+	(fp_line
+		(start -4 -11.7)
+		(end 4 -11.7)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "88033d54-2b2d-432b-ba26-66e95608be8a")
 	)
 	(fp_line
 		(start -4 -10.5)
@@ -101,6 +100,26 @@
 		(uuid "68e6ef53-74ad-4b47-af7c-7ab659a8d582")
 	)
 	(fp_line
+		(start -4 -10.5)
+		(end -4 -11.7)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d5ac5344-613f-434c-9846-de6eb09b1d6f")
+	)
+	(fp_line
+		(start 4 -11.7)
+		(end 4 -10.5)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4d968a15-3133-4dec-959e-bc57ea7aa45f")
+	)
+	(fp_line
 		(start 6.6 -10.5)
 		(end 4 -10.5)
 		(stroke
@@ -110,16 +129,16 @@
 		(layer "F.SilkS")
 		(uuid "1e319bd6-f564-48f2-99dc-a4e7a210a4b6")
 	)
-	(fp_rect
-		(start -4 -11.7)
-		(end 4 -4.7)
+	(fp_arc
+		(start -8.812892 -9.00468)
+		(mid -7.949609 -10.111769)
+		(end -6.600468 -10.499999)
 		(stroke
 			(width 0.12)
 			(type default)
 		)
-		(fill none)
 		(layer "F.SilkS")
-		(uuid "5b3c8843-f2db-41a9-b743-f4aef369e19e")
+		(uuid "88ad1473-3c8a-4921-b1f2-65b292d18b63")
 	)
 	(fp_arc
 		(start -6.7 10.5)
@@ -133,15 +152,15 @@
 		(uuid "786bf94c-c506-4f41-b73d-fe9b485153ef")
 	)
 	(fp_arc
-		(start 6.6 -10.5)
-		(mid 8.077573 -10.018565)
-		(end 8.9 -8.7)
+		(start 6.6 -10.499999)
+		(mid 7.944325 -10.107116)
+		(end 8.804034 -9.001464)
 		(stroke
 			(width 0.12)
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "56c010da-926b-4ad5-9c39-f1f6e50cad2c")
+		(uuid "16bf72cd-abf8-4416-9a3b-cafd44072ac3")
 	)
 	(fp_arc
 		(start 8.8 9)
@@ -422,17 +441,17 @@
 		(uuid "3cdb50c1-8da1-4f6f-bf80-9dc206e19192")
 	)
 	(pad "16" thru_hole circle
-		(at -3.5 -0.4)
-		(size 2 2)
-		(drill 1)
+		(at -4.5 -0.4)
+		(size 1 1)
+		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "3c4c1218-2ddd-4296-92c5-874378e2ad97")
 	)
 	(pad "17" thru_hole circle
-		(at -5.5 -2.3)
-		(size 2 2)
-		(drill 1)
+		(at -4.5 -2.3)
+		(size 1 1)
+		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "745855af-6ca2-4f79-a306-65a699b10904")

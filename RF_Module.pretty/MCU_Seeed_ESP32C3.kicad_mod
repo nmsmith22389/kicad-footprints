@@ -6,7 +6,7 @@
 	(descr "ESP32C3 Seeed Xiao RF Wifi Shield (https://www.seeedstudio.com/blog/wp-content/uploads/2022/08/Seeed-Studio-XIAO-Series-Package-and-PCB-Design.pdf)")
 	(tags "wifi bluetooth microcontroller")
 	(property "Reference" "REF**"
-		(at 0 4 0)
+		(at 7 -12 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "a8e21823-3c8e-48f6-ad05-5bb8ce7c0fa7")
@@ -69,17 +69,6 @@
 		)
 	)
 	(attr smd)
-	(fp_arc
-		(start -8.9 -8.7)
-		(mid -8.077573 -10.018566)
-		(end -6.6 -10.5)
-		(stroke
-			(width 0.12)
-			(type default)
-		)
-		(layer "B.SilkS")
-		(uuid "ca8ad1fd-1dcd-479c-919f-ea4c840974d5")
-	)
 	(fp_line
 		(start -6.7 10.5)
 		(end 6.7 10.5)
@@ -89,6 +78,16 @@
 		)
 		(layer "F.SilkS")
 		(uuid "57cb13ed-b265-4e69-bec1-e9cb74ac83cf")
+	)
+	(fp_line
+		(start -4 -11.7)
+		(end 4 -11.7)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "94ed1cec-c817-4c35-9532-8b71e76e1367")
 	)
 	(fp_line
 		(start -4 -10.5)
@@ -101,6 +100,26 @@
 		(uuid "68e6ef53-74ad-4b47-af7c-7ab659a8d582")
 	)
 	(fp_line
+		(start -4 -10.5)
+		(end -4 -11.7)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6151f19d-7c9b-40f5-b11b-1c18cd78d139")
+	)
+	(fp_line
+		(start 4 -11.7)
+		(end 4 -10.5)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b0de48a2-bba1-47ce-abe6-c7ede05bca37")
+	)
+	(fp_line
 		(start 6.6 -10.5)
 		(end 4 -10.5)
 		(stroke
@@ -110,16 +129,16 @@
 		(layer "F.SilkS")
 		(uuid "1e319bd6-f564-48f2-99dc-a4e7a210a4b6")
 	)
-	(fp_rect
-		(start -4 -11.7)
-		(end 4 -4.7)
+	(fp_arc
+		(start -8.812892 -9.00468)
+		(mid -7.949609 -10.111769)
+		(end -6.600468 -10.499999)
 		(stroke
 			(width 0.12)
 			(type default)
 		)
-		(fill none)
 		(layer "F.SilkS")
-		(uuid "5b3c8843-f2db-41a9-b743-f4aef369e19e")
+		(uuid "ca8ad1fd-1dcd-479c-919f-ea4c840974d5")
 	)
 	(fp_arc
 		(start -6.7 10.5)
@@ -133,15 +152,15 @@
 		(uuid "786bf94c-c506-4f41-b73d-fe9b485153ef")
 	)
 	(fp_arc
-		(start 6.6 -10.5)
-		(mid 8.077573 -10.018565)
-		(end 8.9 -8.7)
+		(start 6.6 -10.499999)
+		(mid 7.944325 -10.107116)
+		(end 8.804034 -9.001464)
 		(stroke
 			(width 0.12)
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "56c010da-926b-4ad5-9c39-f1f6e50cad2c")
+		(uuid "c4952b09-9c41-47f9-80fd-806f807010f2")
 	)
 	(fp_arc
 		(start 8.8 9)
@@ -416,6 +435,7 @@
 	(pad "15" smd roundrect
 		(at 2.1 0.6)
 		(size 3.5 3.5)
+		(property pad_prop_heatsink)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.07142857143)
 		(uuid "3cdb50c1-8da1-4f6f-bf80-9dc206e19192")
