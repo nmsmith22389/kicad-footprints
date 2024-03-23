@@ -1,4 +1,4 @@
-(footprint "ST_LPS_CCLGA-7L"
+(footprint "ST_LPS28DFW"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -17,7 +17,7 @@
 			)
 		)
 	)
-	(property "Value" "ST_LPS_CCLGA-7L"
+	(property "Value" "ST_LPS28DFW"
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
