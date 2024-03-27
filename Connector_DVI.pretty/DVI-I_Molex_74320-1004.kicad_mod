@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(descr "DVI connector, Molex P/N 74320-1004")
-	(property "Reference" "**REF"
+	(property "Reference" "REF**"
 		(at 0 -7 0)
 		(layer "F.SilkS")
 		(uuid "90c62ef0-a0d6-4543-a6d4-57c46b774ca6")
