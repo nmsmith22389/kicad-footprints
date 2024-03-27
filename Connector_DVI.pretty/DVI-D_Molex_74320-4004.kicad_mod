@@ -560,7 +560,7 @@
 	)
 	(pad "SH" thru_hole circle
 		(at -15.367 0)
-		(size 3.500001 3.500001)
+		(size 3.5 3.5)
 		(drill 2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -568,7 +568,7 @@
 	)
 	(pad "SH" thru_hole circle
 		(at 15.367 0)
-		(size 3.500001 3.500001)
+		(size 3.5 3.5)
 		(drill 2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
