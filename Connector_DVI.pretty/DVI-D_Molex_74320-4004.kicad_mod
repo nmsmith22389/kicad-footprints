@@ -575,7 +575,7 @@
 		(remove_unused_layers no)
 		(uuid "abf3ff28-62b2-414a-9e8a-e314584e39e4")
 	)
-	(model "${KIPRJMOD}/footprints.3dshapes/DVI-D_Molex_74320-4004.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Connector_DVI.3dshapes/DVI-D_Molex_74320-4004.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
