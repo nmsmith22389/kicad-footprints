@@ -3,7 +3,8 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "DVI connector, Molex P/N 74320-1004")
+	(descr "DVI-I Dual Link connector, 29 pins, Molex P/N 74320-1004")
+	(tags "dvi right angle")
 	(property "Reference" "REF**"
 		(at 0 -7 0)
 		(layer "F.SilkS")
