@@ -1,14 +1,14 @@
 (footprint "LFCSP-8_2x2mm_P0.5mm"
-	(version 20240108)
+	(version 20240225)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "8.99")
 	(layer "F.Cu")
 	(descr "LFCSP 8pin Pitch 0.5mm, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_8_6.pdf")
 	(tags "LFCSP 8pin 2x2mm Pitch 0.5mm")
 	(property "Reference" "REF**"
 		(at 0 -2 0)
 		(layer "F.SilkS")
-		(uuid "4496db49-f8e6-448e-9da2-ac0d553968bf")
+		(uuid "fd0c6a91-0163-424f-afa1-2b200b8177a8")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 	(property "Value" "LFCSP-8_2x2mm_P0.5mm"
 		(at 0 2 0)
 		(layer "F.Fab")
-		(uuid "0af9b3a0-c11a-4c2e-8e73-26607080ab2e")
+		(uuid "c8554910-239a-4da5-bda0-b7c09e7847e9")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "60729176-8483-4dba-9ffa-04eb2b34573d")
+		(uuid "f29ff3e0-46cc-433d-96c8-664c825d84e3")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "728e12a6-9814-4aa2-96a7-8497ce56992e")
+		(uuid "7670016e-dabd-4e57-8f24-a8fae319ccf3")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -56,7 +56,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "13b6268a-b909-429a-acb6-79059835524d")
+		(uuid "505d9f10-ebb1-4054-819a-cf8617a5f0a1")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -72,7 +72,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "22d2709e-b7be-40d3-979f-0cd4a98457ed")
+		(uuid "6e29399e-d998-473d-aac5-539f9c6e6005")
 	)
 	(fp_line
 		(start 1 1.06)
@@ -82,7 +82,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "0bf481bb-c07e-488e-85d8-cb8b512403bf")
+		(uuid "d7cc4393-fa7f-4333-af11-f3065796a0f1")
 	)
 	(fp_poly
 		(pts
@@ -94,7 +94,7 @@
 		)
 		(fill solid)
 		(layer "F.SilkS")
-		(uuid "53a44480-52b1-4cd2-b64a-ffd2d4527863")
+		(uuid "6788989b-b898-4bca-b79e-e1ccf72ce40d")
 	)
 	(fp_line
 		(start -1.4 -1.3)
@@ -104,7 +104,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "fd013972-9dd2-4880-8926-efb57b624048")
+		(uuid "1653d15f-b77d-4402-b97a-f46badfe804a")
 	)
 	(fp_line
 		(start -1.4 1.3)
@@ -114,7 +114,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "7cfa5246-0886-451c-a9b7-bd2ae7794873")
+		(uuid "f7bcaf04-cbaf-4b88-a530-b4114546114d")
 	)
 	(fp_line
 		(start 1.4 -1.3)
@@ -124,7 +124,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "ad35a80a-e3c0-44c1-a598-d63170b84b9e")
+		(uuid "c1d44fa1-13f4-47bc-badb-f59c7058827c")
 	)
 	(fp_line
 		(start 1.4 1.3)
@@ -134,7 +134,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "72ab62d5-cc37-4dcd-8c36-e001c36e4e02")
+		(uuid "ba2f8072-77c6-4c98-9eb4-97c0c5fb8f3b")
 	)
 	(fp_line
 		(start -1 -0.5)
@@ -144,7 +144,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "36d9b68d-0ad4-4efc-bdcf-5317dc0ac4d6")
+		(uuid "9bfd4463-28b4-4d80-94ab-bbb489e28a68")
 	)
 	(fp_line
 		(start -0.5 -1)
@@ -154,7 +154,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "6ecae61e-e3c6-4fde-84d8-3815b2dbaa85")
+		(uuid "e4dc0d8d-1785-4c91-917d-b713cb067382")
 	)
 	(fp_line
 		(start -0.5 -1)
@@ -164,7 +164,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "6d3a6297-7b6d-4067-a743-b68588d29447")
+		(uuid "da26ddff-ab89-4680-a77a-64c3b0763f46")
 	)
 	(fp_line
 		(start 1 1)
@@ -174,7 +174,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "eb916337-aa43-4f3e-b307-f9a823b76e6a")
+		(uuid "45e511fc-d517-4f62-b9c3-cfaba0baf879")
 	)
 	(fp_line
 		(start 1 1)
@@ -184,12 +184,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "b7dfb9f3-2956-40e4-bc08-10c67d9d4985")
+		(uuid "7b14587a-a83d-4e89-a2f0-6c163d5fac85")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 180)
 		(layer "F.Fab")
-		(uuid "a0acc8ab-811c-4ee3-8f80-d1fb3ea0cffd")
+		(uuid "d42fe51f-d477-4ae6-9c4c-f123fd674382")
 		(effects
 			(font
 				(size 1 1)
@@ -201,49 +201,49 @@
 		(at -0.725 -0.75)
 		(size 0.75 0.28)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "dcc583ae-1ecc-41c4-ba49-fc8628adea73")
+		(uuid "63bfd02d-bea2-43ad-954e-c3bda703e6b8")
 	)
 	(pad "2" smd rect
 		(at -0.725 -0.25)
 		(size 0.75 0.28)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "aa2e9f23-43af-4ffb-aac4-42fa5ca77e5b")
+		(uuid "62ef73ee-7e8d-4f71-a16a-b4401efedbc7")
 	)
 	(pad "3" smd rect
 		(at -0.725 0.25)
 		(size 0.75 0.28)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "796e4eed-033a-4f90-abf7-9b3c0419f2b7")
+		(uuid "515edfed-a6ca-4694-9e6f-039d02376cab")
 	)
 	(pad "4" smd rect
 		(at -0.725 0.75)
 		(size 0.75 0.28)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "89ba0046-f893-466b-a5f3-65c1b4010da6")
+		(uuid "87759fed-f06a-4ad9-a83e-b0d831fa10c6")
 	)
 	(pad "5" smd rect
 		(at 0.725 0.75)
 		(size 0.75 0.28)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "8ece5dfa-f635-4b4b-bfb7-0b9fd0bec55d")
+		(uuid "4a508a8b-e3e0-441b-9ee9-3b7a2a7b3961")
 	)
 	(pad "6" smd rect
 		(at 0.725 0.25)
 		(size 0.75 0.28)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "6f5f9eb2-0528-4901-9c2d-190750c6ccd0")
+		(uuid "0d99a9bd-729b-44a5-a99c-6a767fbc8ef0")
 	)
 	(pad "7" smd rect
 		(at 0.725 -0.25)
 		(size 0.75 0.28)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "c34df658-a697-4327-b228-99e9a88e7ce6")
+		(uuid "5498b814-5e9a-4f7b-9e1d-af7ef32ab1f1")
 	)
 	(pad "8" smd rect
 		(at 0.725 -0.75)
 		(size 0.75 0.28)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "f6950441-aa93-4d2d-acc2-cef080133e98")
+		(uuid "863fdf7e-1cfd-4386-9aa6-18d3b7a1fa0d")
 	)
 	(model "${KICAD8_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-8_2x2mm_P0.5mm.wrl"
 		(offset

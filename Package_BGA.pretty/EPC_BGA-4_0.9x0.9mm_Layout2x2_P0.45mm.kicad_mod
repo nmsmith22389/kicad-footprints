@@ -1,14 +1,14 @@
 (footprint "EPC_BGA-4_0.9x0.9mm_Layout2x2_P0.45mm"
-	(version 20240108)
+	(version 20240225)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "8.99")
 	(layer "F.Cu")
 	(descr "EPC BGA-4, 0.9x09mm, Pitch 0.4mm, https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2035_datasheet.pdf")
 	(tags "EPC BGA-4")
 	(property "Reference" "REF**"
 		(at 0 -2.075 0)
 		(layer "F.SilkS")
-		(uuid "b70c4dc4-100c-47e1-9f87-09f32b0862a4")
+		(uuid "2c9242d9-8d62-4389-93b1-dc601015b744")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +20,7 @@
 		(at 0 1.3 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "cb172096-8c82-4162-8b12-9fc1c7f749ee")
+		(uuid "92d78663-4aea-4381-b233-d87a9f65a191")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "aead5c0f-1df4-419f-ad60-c003080c3c3a")
+		(uuid "610aab10-29dd-4416-a71b-326af2f50f28")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "5767261c-2687-4817-b1f0-a209478f086c")
+		(uuid "4eba84b9-c473-431c-8f15-143e643a51c2")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -57,7 +57,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "26739e4d-929e-4cd5-92bf-2ca5a803ca6d")
+		(uuid "e3641e1a-e857-40d1-b208-2635bba292d2")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -73,7 +73,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "3d21b3e6-e29d-4d47-8ee5-4bc9d3f71371")
+		(uuid "d2eb5bf2-171e-495c-9f89-bfd5ea9310f0")
 	)
 	(fp_line
 		(start -0.28 -0.59)
@@ -83,7 +83,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "1f46f205-43bd-4a3a-8f2a-c9f432195eea")
+		(uuid "ee60243b-01b8-4d71-a621-17762ef41dca")
 	)
 	(fp_line
 		(start 0.59 -0.59)
@@ -93,7 +93,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "dd2a5e11-e2b0-4b17-b30a-c2dae1eb0d2e")
+		(uuid "e5ffd143-d116-44dc-b0a2-da4f001038b1")
 	)
 	(fp_line
 		(start 0.59 0.59)
@@ -103,7 +103,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "b98771a4-44fb-4c9c-afa6-1f4ac3a897d8")
+		(uuid "59d27936-7a22-4a69-acf8-b284a169a70e")
 	)
 	(fp_poly
 		(pts
@@ -115,7 +115,7 @@
 		)
 		(fill solid)
 		(layer "F.SilkS")
-		(uuid "7876bc2f-58cc-4aee-a7ff-97d3c67a5794")
+		(uuid "739e5812-f338-4004-b616-5e56297d2038")
 	)
 	(fp_line
 		(start -0.58 -0.58)
@@ -125,7 +125,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "22d8e620-b3e3-4ef3-a91c-605d6da66d13")
+		(uuid "2c999423-587e-4394-a08c-97ea8eac9a1a")
 	)
 	(fp_line
 		(start -0.58 0.58)
@@ -135,7 +135,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "455d36ce-7420-4344-8d5c-a420777e57a0")
+		(uuid "91dc3d2a-a134-49d1-b23b-373aa0bb2108")
 	)
 	(fp_line
 		(start -0.58 0.58)
@@ -145,7 +145,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "e0393ecf-0b7a-4756-b006-dfb69fe25f3a")
+		(uuid "e375c6ff-d286-4a9f-bb53-c83d7e604d84")
 	)
 	(fp_line
 		(start 0.58 -0.58)
@@ -155,7 +155,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "ae40c37d-14dc-46ca-9bb5-38abba783cf6")
+		(uuid "f99f07bf-7ec6-4e59-b892-7e278b3cd43c")
 	)
 	(fp_line
 		(start -0.45 0.45)
@@ -165,7 +165,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "928cc257-c06f-4a38-ba82-1c3fe4ed15fd")
+		(uuid "d5716f76-0493-4913-9d49-8eb07f16e661")
 	)
 	(fp_line
 		(start -0.3 -0.45)
@@ -175,7 +175,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "038abbb8-98c6-46cd-8057-debed341b86d")
+		(uuid "91ae3619-0ce3-4d17-8615-2c2c08d1d737")
 	)
 	(fp_line
 		(start -0.3 -0.45)
@@ -185,7 +185,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "ee1d9146-4a1c-4cc2-80f4-e5cd55c2d7cc")
+		(uuid "ae029ca1-4be7-4524-a00b-8417847909e2")
 	)
 	(fp_line
 		(start 0.45 -0.45)
@@ -195,7 +195,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "25c717de-b1db-4fb8-aae8-931b60a51091")
+		(uuid "9eb6d137-3f6f-422e-9aa5-1f03d0720a54")
 	)
 	(fp_line
 		(start 0.45 0.45)
@@ -205,13 +205,13 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "7ed9ae1b-6f90-4323-b016-4464c54160d3")
+		(uuid "ed468d5d-42ea-4797-9a8d-84529e2424ab")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 -1 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "cb3671b5-2982-421d-946c-ee16793776f9")
+		(uuid "69a37a3c-f9fe-4761-97a1-9eadf8ad7831")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -224,28 +224,28 @@
 		(size 0.25 0.25)
 		(layers "F.Paste")
 		(roundrect_rratio 0.2884615385)
-		(uuid "a5b5ccdf-031e-4e97-8dda-c2cd6ba949c4")
+		(uuid "f062ce33-29b1-4546-9ff0-65603a62e950")
 	)
 	(pad "" smd roundrect
 		(at -0.225 0.225)
 		(size 0.25 0.25)
 		(layers "F.Paste")
 		(roundrect_rratio 0.2884615385)
-		(uuid "5fa46e4b-f7db-4775-8f0e-94aa9d6a3aa8")
+		(uuid "97973081-742f-4e9c-b87c-b28d30df21a3")
 	)
 	(pad "" smd roundrect
 		(at 0.225 -0.225)
 		(size 0.25 0.25)
 		(layers "F.Paste")
 		(roundrect_rratio 0.2884615385)
-		(uuid "f4f6a5ac-acb6-47de-bb17-d80ef9b3783f")
+		(uuid "1e7ea211-caed-41f5-bbe6-d330d81c283a")
 	)
 	(pad "" smd roundrect
 		(at 0.225 0.225)
 		(size 0.25 0.25)
 		(layers "F.Paste")
 		(roundrect_rratio 0.2884615385)
-		(uuid "e2b8251c-8550-4476-8c0b-5b9b84fef660")
+		(uuid "e19a4366-2e4a-4d71-8f76-18e561cba11b")
 	)
 	(pad "1" smd circle
 		(at -0.225 -0.225)
@@ -253,7 +253,7 @@
 		(property pad_prop_bga)
 		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin -0.01)
-		(uuid "d256b1c3-d16b-4826-bd27-2ec3cbb685dd")
+		(uuid "26172d6c-88ec-4faf-bd1c-e7d587d8deb9")
 	)
 	(pad "2" smd circle
 		(at -0.225 0.225)
@@ -261,7 +261,7 @@
 		(property pad_prop_bga)
 		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin -0.01)
-		(uuid "f8209d12-0028-4436-86c5-615805bfeb82")
+		(uuid "5bb490ab-093b-4406-b0f4-4c3b534268d4")
 	)
 	(pad "3" smd circle
 		(at 0.225 0.225)
@@ -269,7 +269,7 @@
 		(property pad_prop_bga)
 		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin -0.01)
-		(uuid "d31c5b46-206b-494c-8e9b-785a6c7d1d18")
+		(uuid "21b8f93f-4ebc-4d89-822a-b061b8bb656b")
 	)
 	(pad "4" smd circle
 		(at 0.225 -0.225)
@@ -277,7 +277,7 @@
 		(property pad_prop_bga)
 		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin -0.01)
-		(uuid "bbecd3ee-36d7-43d3-805d-20cbf144ee51")
+		(uuid "dd1d60c6-7d41-4b66-826d-7c53441a985c")
 	)
 	(model "${KICAD8_3DMODEL_DIR}/Package_BGA.3dshapes/EPC_BGA-4_0.9x0.9mm_Layout2x2_P0.45mm.wrl"
 		(offset

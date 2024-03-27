@@ -1,14 +1,14 @@
 (footprint "WLCSP-8_1.551x2.284mm_P0.5mm"
-	(version 20240108)
+	(version 20240225)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "8.99")
 	(layer "F.Cu")
 	(descr "WLCSP-8, 1.551x2.284mm, 8 Ball, 2x4 Layout, 0.5mm Pitch, https://www.adestotech.com/wp-content/uploads/AT25SL321_112.pdf#page=75")
 	(tags "CSP 8 0.5")
 	(property "Reference" "REF**"
-		(at 0 -2.45 0)
+		(at 0 -2.142 0)
 		(layer "F.SilkS")
-		(uuid "c5fed1c8-960d-4d6e-82bc-0e996b7da097")
+		(uuid "57eb9a97-17e8-485b-a4b0-a022c8da8e51")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 	(property "Value" "WLCSP-8_1.551x2.284mm_P0.5mm"
 		(at 0 2.142 0)
 		(layer "F.Fab")
-		(uuid "14c03872-ca49-4da5-8c2a-c90cea0a4bb6")
+		(uuid "cee5c14e-2cb0-411c-a1f0-a3e364a83209")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "9c2beb00-ba06-4a11-9649-dfcfc57a6256")
+		(uuid "818e5da9-538c-4ba3-9307-51b73dbf4a25")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ab6f3c22-eba3-46f6-a129-3998e1f73a2e")
+		(uuid "af3e9685-774e-4daf-8913-027d495e5c1b")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -56,7 +56,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "21fbb2a3-372a-43a4-a2ae-8556d785299a")
+		(uuid "157271e0-c5a9-4cd9-876b-8d3d6b5863ec")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -72,7 +72,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "f1918961-f191-44f9-8575-e0c3b64f25f1")
+		(uuid "7baf378d-de3a-4cb9-a238-1cc0cb80fc9a")
 	)
 	(fp_line
 		(start -0.49775 -1.252)
@@ -82,7 +82,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "d93d92aa-b11b-4ae6-8abd-5e8f82d3c0fb")
+		(uuid "e8437625-4bc5-440b-8c9e-6327aa2e533b")
 	)
 	(fp_line
 		(start 0.8855 -1.252)
@@ -92,7 +92,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "4c38a8f6-58c5-4271-b3e2-4ea7c25e6f3d")
+		(uuid "a43380f4-fb1e-4e88-a15d-d540ed083db0")
 	)
 	(fp_line
 		(start 0.8855 1.252)
@@ -102,7 +102,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "40582c6a-73bd-4f20-b31e-fba69b59e83d")
+		(uuid "67b83ae4-45b2-421a-86b7-857113f3ec31")
 	)
 	(fp_poly
 		(pts
@@ -114,7 +114,7 @@
 		)
 		(fill solid)
 		(layer "F.SilkS")
-		(uuid "7a7b19af-07d3-487c-906d-f8d24f87445a")
+		(uuid "3d043ad9-3161-47e1-9354-e60a323f8490")
 	)
 	(fp_line
 		(start -1.78 -2.15)
@@ -124,7 +124,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "2a6f9a64-6d9b-4e65-8492-195f27246f1e")
+		(uuid "bf114ac7-ffa0-4381-86ed-94dd6e51d6f0")
 	)
 	(fp_line
 		(start -1.78 2.15)
@@ -134,7 +134,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "2e54fe27-cfb8-42e4-919f-37ee7e2441c3")
+		(uuid "6a5926e2-0b95-4351-ada1-f68ec8653db1")
 	)
 	(fp_line
 		(start 1.78 -2.15)
@@ -144,7 +144,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "7f812c3b-0abf-45df-903a-bf6915c44d5f")
+		(uuid "05ff68b9-8f86-4313-8a61-cbe723bb1206")
 	)
 	(fp_line
 		(start 1.78 2.15)
@@ -154,7 +154,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "f4ff79a3-e5fb-4cb2-ae6f-450a36edb81c")
+		(uuid "57765884-e62f-418b-922a-03cc7f80bbec")
 	)
 	(fp_line
 		(start -0.7755 -0.75425)
@@ -164,7 +164,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "5ad6c229-46b7-46e2-b02b-6b35a04efcea")
+		(uuid "dbb2aba3-d13c-4044-a421-41830ddd8c7a")
 	)
 	(fp_line
 		(start -0.7755 1.142)
@@ -174,7 +174,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "1724302e-e1ef-4c38-a959-4710b16e26cd")
+		(uuid "3576a1a1-4595-4c63-8cc8-075615d168c5")
 	)
 	(fp_line
 		(start -0.38775 -1.142)
@@ -184,7 +184,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "06547310-9507-4e99-a939-ce20f4f4fa99")
+		(uuid "557d7242-307c-442d-b173-e23fe03df47e")
 	)
 	(fp_line
 		(start 0.7755 -1.142)
@@ -194,7 +194,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "5ae80d47-0070-4f81-b82b-197f168705b3")
+		(uuid "21ea3e1b-dc90-4b37-a6e8-db332949bae4")
 	)
 	(fp_line
 		(start 0.7755 1.142)
@@ -204,12 +204,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "2c5b660e-ae02-44ac-b55b-aea92cca8f77")
+		(uuid "63dab4ac-9e70-4cdb-be00-496f8bd7e3e1")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 -90)
 		(layer "F.Fab")
-		(uuid "34bee2b9-539b-47a3-bee4-e33d44e2850b")
+		(uuid "8d415157-5779-4c07-a99b-87fd1deaf043")
 		(effects
 			(font
 				(size 0.53 0.53)
@@ -222,56 +222,56 @@
 		(size 0.2 0.2)
 		(property pad_prop_bga)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "f126c674-0ce2-49d9-8167-ea697f9bdf67")
+		(uuid "cf9dc4a7-2c4a-4ac6-abab-eed3b84d6bf1")
 	)
 	(pad "A2" smd circle
 		(at 0.25 -0.75)
 		(size 0.2 0.2)
 		(property pad_prop_bga)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "9a42e4e4-dcfc-4274-b9b6-988868fd038b")
+		(uuid "4e72088d-7a65-46d9-944b-589e0880cc69")
 	)
 	(pad "B1" smd circle
 		(at -0.25 -0.25)
 		(size 0.2 0.2)
 		(property pad_prop_bga)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "aea92775-0aee-4a54-a35f-8a1d97155914")
+		(uuid "15e2e5ff-3fa6-4087-a61e-461c858e497c")
 	)
 	(pad "B2" smd circle
 		(at 0.25 -0.25)
 		(size 0.2 0.2)
 		(property pad_prop_bga)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "bc0616c2-8b33-4e6e-a513-547f76bbba3c")
+		(uuid "aa399a6e-3cdc-40f8-a3b4-fe63d812890a")
 	)
 	(pad "C1" smd circle
 		(at -0.25 0.25)
 		(size 0.2 0.2)
 		(property pad_prop_bga)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "d28a6805-1d5f-4b62-8e09-33343ab956d6")
+		(uuid "b5e9d67e-0309-4c8e-b298-fc3b655d944a")
 	)
 	(pad "C2" smd circle
 		(at 0.25 0.25)
 		(size 0.2 0.2)
 		(property pad_prop_bga)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "254527f2-8107-4b2e-8c81-a0b4ae1b113f")
+		(uuid "3163c71b-89c9-4565-90eb-c9573727437e")
 	)
 	(pad "D1" smd circle
 		(at -0.25 0.75)
 		(size 0.2 0.2)
 		(property pad_prop_bga)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "c4371aec-9835-4070-a964-70b754cae9fd")
+		(uuid "a7f54f2a-ce8f-41c1-849a-b1bdb3b252f6")
 	)
 	(pad "D2" smd circle
 		(at 0.25 0.75)
 		(size 0.2 0.2)
 		(property pad_prop_bga)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "670c187e-4b14-4929-8725-e60b13051c3f")
+		(uuid "53e00301-75d8-4aa3-b2b5-aa899ed58b4c")
 	)
 	(model "${KICAD8_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-8_1.551x2.284mm_P0.5mm.wrl"
 		(offset
