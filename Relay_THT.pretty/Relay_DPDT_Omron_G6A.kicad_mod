@@ -517,7 +517,7 @@
 		(uuid "16a4a3ce-6a5e-4574-bc37-80ab56e5234d")
 	)
 	(fp_line
-		(start -1.24 -0.19)
+		(start -1.24 -0.2)
 		(end -1.24 18.98)
 		(stroke
 			(width 0.1)
@@ -527,8 +527,8 @@
 		(uuid "1b7936ad-8a59-4e20-9056-e241202725b2")
 	)
 	(fp_line
-		(start -1.24 -0.19)
-		(end -0.33 -1.2)
+		(start -1.24 -0.2)
+		(end -0.24 -1.2)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -548,7 +548,7 @@
 	)
 	(fp_line
 		(start 8.86 -1.2)
-		(end -0.33 -1.2)
+		(end -0.24 -1.2)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -643,7 +643,7 @@
 	)
 	(model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Omron_G6A.wrl"
 		(offset
-			(xyz 0.0000000000000007 0 0)
+			(xyz 0.0000000000000002 0 0)
 		)
 		(scale
 			(xyz 1 1 1)
