@@ -6,7 +6,7 @@
 	(descr "Relay Omron G6RL-1A, see https://www.mouser.com/datasheet/2/307/en_g6rl-1221008.pdf")
 	(tags "Relay Omron G6RL-1A")
 	(property "Reference" "REF**"
-		(at -4 -15.5 0)
+		(at -0.19 -4.15 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "788cfd89-d66e-4eac-9100-b0826be2a82a")
@@ -18,10 +18,9 @@
 		)
 	)
 	(property "Value" "Relay_SPST_Omron_G6RL-1A"
-		(at 0 16.5 0)
+		(at 3.81 27.85 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(hide yes)
 		(uuid "202b5319-0621-4a61-94a1-528a9294e04d")
 		(effects
 			(font
@@ -31,7 +30,7 @@
 		)
 	)
 	(property "Footprint" ""
-		(at 5 -14.25 -90)
+		(at 8.81 -2.9 -90)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -43,7 +42,7 @@
 		)
 	)
 	(property "Datasheet" "https://www.mouser.com/datasheet/2/307/en_g6rl-1221008.pdf"
-		(at 1 1 0)
+		(at 4.81 12.35 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -55,7 +54,7 @@
 		)
 	)
 	(property "Description" ""
-		(at 5 -14.25 -90)
+		(at 8.81 -2.9 -90)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -68,8 +67,8 @@
 	)
 	(attr through_hole)
 	(fp_rect
-		(start -5 -14.25)
-		(end 5 14.25)
+		(start -1.19 -2.9)
+		(end 8.81 25.6)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -79,8 +78,8 @@
 		(uuid "577663fe-5430-4155-80b8-49d8e5521e9b")
 	)
 	(fp_rect
-		(start -1.4 -11.75)
-		(end 1.4 -10.35)
+		(start 2.41 -0.4)
+		(end 5.21 1)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -90,8 +89,8 @@
 		(uuid "3eed3a3d-f998-484e-912b-0091ad2479d4")
 	)
 	(fp_rect
-		(start -5.5 -14.75)
-		(end 5.5 14.75)
+		(start -1.69 -3.4)
+		(end 9.31 26.1)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -101,8 +100,8 @@
 		(uuid "421bcb99-7f1c-4621-8795-6a928334e900")
 	)
 	(fp_line
-		(start -1.5 -12)
-		(end 1.5 -12)
+		(start 2.31 -0.65)
+		(end 5.31 -0.65)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -111,8 +110,8 @@
 		(uuid "f13e9ac4-3d07-421c-8cab-37caad5ddc1c")
 	)
 	(fp_rect
-		(start -5 -14.25)
-		(end 5 14.25)
+		(start -1.19 -2.9)
+		(end 8.81 25.6)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -122,7 +121,7 @@
 		(uuid "bbe1f2bd-e6f2-409e-9df6-033ed9e69d0b")
 	)
 	(fp_text user "${REFERENCE}"
-		(at -5 0.5 0)
+		(at -1.19 11.85 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "324af0a9-8679-40e0-a682-9eb3247238c6")
@@ -134,8 +133,8 @@
 			(justify left bottom)
 		)
 	)
-	(pad "1" thru_hole circle
-		(at -3.81 -11.35 90)
+	(pad "1" thru_hole rect
+		(at 0 0 90)
 		(size 2 2)
 		(drill 1.3)
 		(layers "*.Cu" "*.Mask")
@@ -143,7 +142,7 @@
 		(uuid "74a3f0ee-70ab-445a-bd1b-72a6bf479634")
 	)
 	(pad "2" thru_hole circle
-		(at -3.81 7.55 90)
+		(at 0 18.9 90)
 		(size 2 2)
 		(drill 1.3)
 		(layers "*.Cu" "*.Mask")
@@ -151,7 +150,7 @@
 		(uuid "7b778a6b-61d9-4b29-abd9-e57375287092")
 	)
 	(pad "3" thru_hole circle
-		(at 3.81 12.55 90)
+		(at 7.62 23.9 90)
 		(size 2 2)
 		(drill 1.3)
 		(layers "*.Cu" "*.Mask")
@@ -159,14 +158,14 @@
 		(uuid "b842562c-0742-4ee0-bffd-19c6ea87167d")
 	)
 	(pad "5" thru_hole circle
-		(at 3.81 -11.35 90)
+		(at 7.62 0 90)
 		(size 2 2)
 		(drill 1.3)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "87593b5f-fc09-40fc-8ee0-96694c2708a0")
 	)
-	(model "${KICAD6_3RD_PARTY}/G6RL-1.step"
+	(model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_Omron_G6RL-1A.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
