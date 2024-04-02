@@ -1,0 +1,178 @@
+(footprint "Relay_DPDT_Kemet_UB2-NE"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Kemet Miniature Signal Relays, DPDT, see https://www.mouser.com/datasheet/2/447/KEM_R7004_UA2_UB2-3316711.pdf")
+	(tags "Kemet Miniature Signal Relays, DPDT, ")
+	(property "Reference" "REF**"
+		(at -3.5 -6.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "97abec48-7d21-4120-98c4-a3c2f60ec75a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Relay_DPDT_Kemet_UB2-NE"
+		(at 0 1.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "0fd527f6-076d-4594-b609-92d783c7479e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at -39 7 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f1fe1ac1-c75d-4672-b8f0-b04344ae7932")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_R7004_UA2_UB2-3316711.pdf"
+		(at 0 6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5200cb28-9ee9-4e33-aba5-04029924368e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -39 7 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "36211d5f-a561-49be-a66f-80ce5dd42a3b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -1.25 -6)
+		(end 1.25 -5.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "7f07c4f9-f71e-449a-86af-904e5c1be81b")
+	)
+	(fp_rect
+		(start -4.5 -5.5)
+		(end 4.5 5.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "b49b5b90-871c-4979-a824-faf530d0875e")
+	)
+	(fp_rect
+		(start -2.85 -5.3)
+		(end 2.85 5.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "b7a1f0c1-3616-47e5-97b5-70a3671fd5d2")
+	)
+	(fp_text user "+"
+		(at 2 -7 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1e2293cf-584c-4271-b7c2-bfbe6e21d15c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b28c9f56-a6c1-48a3-adcd-869be7a7efe7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.65 -3.8 270)
+		(size 1.11 3.1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "652821e3-a636-438e-81b5-6f382677ee2e")
+	)
+	(pad "2" smd rect
+		(at -2.65 -0.6 270)
+		(size 1.11 3.1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "3fbec1ae-bb5b-473f-80fe-ff6783131c1e")
+	)
+	(pad "3" smd rect
+		(at -2.65 1.6 270)
+		(size 1.11 3.1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "3ce0ceec-85c5-4a30-867c-e0cc6010b6be")
+	)
+	(pad "4" smd rect
+		(at -2.65 3.8 270)
+		(size 1.11 3.1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "35a357ab-835d-4b04-8d4c-7bf953c81bc1")
+	)
+	(pad "5" smd rect
+		(at 2.65 3.8 270)
+		(size 1.11 3.1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d7935229-9afc-449f-acf7-4c33578b8d63")
+	)
+	(pad "6" smd rect
+		(at 2.65 1.6 270)
+		(size 1.11 3.1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f7f79936-2eac-4dca-b532-b1a6837e29e7")
+	)
+	(pad "7" smd rect
+		(at 2.65 -0.6 270)
+		(size 1.11 3.1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "fad08874-ed4b-4f20-91a6-74ad77a317db")
+	)
+	(pad "8" smd rect
+		(at 2.65 -3.8 270)
+		(size 1.11 3.1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d3d8b9b2-1e49-45aa-9f75-80e676dbc867")
+	)
+)
