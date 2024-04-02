@@ -1,0 +1,205 @@
+(footprint "Relay_DPDT_Kemet_UA2-NU"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Kemet Miniature Signal Relays, DPDT, see https://www.mouser.com/datasheet/2/447/KEM_R7004_UA2_UB2-3316711.pdf")
+	(tags "Kemet Miniature Signal Relays")
+	(property "Reference" "REF**"
+		(at 1.6 -3.8 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "3255a996-d8b1-4e06-a319-cda5449a192d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Relay_DPDT_Kemet_UA2-NU"
+		(at 1.346 11.928 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1fe4b65c-7fe3-4f36-96cb-87fcd0529749")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 1.6 3.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "426877dc-7711-437d-88af-c3ec42c0ea81")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_R7004_UA2_UB2-3316711.pdf"
+		(at 1.6 3.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3a04d96d-cee8-497f-988a-8f0f3d82cc83")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 1.6 3.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "96e1d5f0-7b99-41a0-bb84-88e78381ce31")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start 0.6 -2.4)
+		(end 2.6 -1.9)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "90335991-1c2d-4406-b328-f035c4bda6db")
+	)
+	(fp_rect
+		(start -1.35 -1.6)
+		(end 4.55 9.2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "5b5d53c1-4424-4156-b0c8-14eaf86323f7")
+	)
+	(fp_rect
+		(start -1.25 -1.5)
+		(end 4.45 9.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "2ad99489-58e4-4d01-b325-a7b50812ad02")
+	)
+	(fp_text user "+"
+		(at -1.3 -1.6 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c0dbadc8-ae50-4f61-8b5f-64a6ca92f581")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.12)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.584 13.452 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "18f873ab-5995-4462-917c-53eff5cb5172")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.2 1.2)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "77846b29-5ca0-4c4e-88cc-2d0b15ef3607")
+	)
+	(pad "2" thru_hole circle
+		(at 0 3.2)
+		(size 1.2 1.2)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1ae96899-8dfb-4b39-8b3b-66f344baf9ff")
+	)
+	(pad "3" thru_hole circle
+		(at 0 5.4)
+		(size 1.2 1.2)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2214ac74-4989-437d-b33b-a1501c6b244e")
+	)
+	(pad "4" thru_hole circle
+		(at 0 7.6)
+		(size 1.2 1.2)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e4e45c3e-efb7-42d5-b4f2-86e673f7e57f")
+	)
+	(pad "5" thru_hole circle
+		(at 3.2 7.6)
+		(size 1.2 1.2)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6d423cd6-45a7-475c-8b57-99b4f12f607b")
+	)
+	(pad "6" thru_hole circle
+		(at 3.2 5.4)
+		(size 1.2 1.2)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2d0405d8-bb76-4a75-9993-8d5068b1ef30")
+	)
+	(pad "7" thru_hole circle
+		(at 3.2 3.2)
+		(size 1.2 1.2)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "48928a2f-4ab6-4dd2-83d2-817eebfa4823")
+	)
+	(pad "8" thru_hole circle
+		(at 3.2 0)
+		(size 1.2 1.2)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8cf5f3b8-7033-4f68-866f-f872e6ff75d3")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Kemet_UA2-NU.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
