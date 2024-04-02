@@ -1,4 +1,4 @@
-(footprint "Relay_DPDT_Omron_G6RL-1A"
+(footprint "Relay_SPST_Omron_G6RL-1A"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -17,7 +17,7 @@
 			)
 		)
 	)
-	(property "Value" "Relay_DPDT_Omron_G6RL-1A"
+	(property "Value" "Relay_SPST_Omron_G6RL-1A"
 		(at 0 16.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
