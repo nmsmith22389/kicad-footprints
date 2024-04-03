@@ -65,7 +65,7 @@
 			)
 		)
 	)
-	(attr exclude_from_pos_files exclude_from_bom)
+	(attr board_only exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 	(fp_poly
 		(pts
 			(xy 14.036842 0.401052) (xy 10.026316 0.401052) (xy 10.026316 -0.401053) (xy 14.036842 -0.401053)
