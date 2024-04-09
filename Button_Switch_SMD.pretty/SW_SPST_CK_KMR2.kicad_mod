@@ -442,7 +442,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "e3fa31ac-3390-4776-bbae-fe698f4b6bc1")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/SW_SPST_CK_KMR2.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_CK_KMR2.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
