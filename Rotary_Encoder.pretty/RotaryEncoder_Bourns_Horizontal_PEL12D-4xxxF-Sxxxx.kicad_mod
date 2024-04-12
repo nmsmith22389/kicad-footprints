@@ -472,7 +472,7 @@
 		(remove_unused_layers no)
 		(uuid "3bb41fdc-6ad1-4dec-85fb-269465782bbc")
 	)
-	(model "${KICAD7_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Bourns_Horizontal_PEL12D-4xxxF-Sxxxx.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Bourns_Horizontal_PEL12D-4xxxF-Sxxxx.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
