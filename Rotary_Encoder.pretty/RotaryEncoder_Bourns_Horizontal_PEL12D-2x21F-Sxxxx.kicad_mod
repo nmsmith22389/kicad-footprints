@@ -1,10 +1,10 @@
-(footprint "RotaryEncoder_Bourns_Vertical_PEL12D-2x16F-Sxxxx"
+(footprint "RotaryEncoder_Bourns_Horizontal_PEL12D-2x21F-Sxxxx"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "Rotary encoder with switch and illuminated 4mm shaft, dual-led, https://www.bourns.com/docs/product-datasheets/PEL12D.pdf")
-	(tags "rotary encoder illuminated switch vertical")
+	(descr "Rotary encoder with switch and illuminated 8mm shaft, dual-led, https://www.bourns.com/docs/product-datasheets/PEL12D.pdf")
+	(tags "rotary encoder illuminated switch horizontal")
 	(property "Reference" "REF**"
 		(at 2.8 -11.2 0)
 		(layer "F.SilkS")
@@ -16,8 +16,8 @@
 			)
 		)
 	)
-	(property "Value" "RotaryEncoder_Bourns_Vertical_PEL12D-2x16F-Sxxxx"
-		(at 0 5.8 0)
+	(property "Value" "RotaryEncoder_Bourns_Horizontal_PEL12D-2x21F-Sxxxx"
+		(at 0 5.7 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "14572bba-9850-4016-9af0-a2bfc522a21d")
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "9cc226e3-acdf-4179-886b-cdb6849795bc")
+		(uuid "25e0b65b-d467-43e6-9f29-be6423f7c4ec")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "d3cf1258-30cf-481d-bd1b-927cd47e3574")
+		(uuid "01022c79-a93b-43b3-a36c-3ec68303abbc")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -57,7 +57,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "832088e4-96d3-47f4-88ff-d2fa276cd2a9")
+		(uuid "1ee33cea-7510-4735-a10c-1e8a947ff901")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -123,7 +123,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "56078251-e0fe-4c43-8213-58a30ef0979a")
+		(uuid "ac47621e-6b90-4d31-a97b-197f61199fe2")
 	)
 	(fp_line
 		(start -4.15 -9.45)
@@ -207,7 +207,7 @@
 	)
 	(fp_line
 		(start 0.5 3.45)
-		(end 6.7 3.45)
+		(end 6.65 3.45)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -226,7 +226,7 @@
 		(uuid "abf9a2d7-4583-4799-9592-61538b9c657e")
 	)
 	(fp_line
-		(start 6.7 -9.45)
+		(start 6.65 -9.45)
 		(end 0.5 -9.45)
 		(stroke
 			(width 0.05)
@@ -236,8 +236,8 @@
 		(uuid "14deef27-29b1-4869-8cc8-2c4dabbd876b")
 	)
 	(fp_line
-		(start 6.7 -6.65)
-		(end 6.7 -9.45)
+		(start 6.65 -6.65)
+		(end 6.65 -9.45)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -246,8 +246,8 @@
 		(uuid "fe817fb3-bc1e-406c-bb5a-1bb0f930ca9c")
 	)
 	(fp_line
-		(start 6.7 0.65)
-		(end 6.7 3.45)
+		(start 6.65 0.65)
+		(end 6.65 3.45)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -256,8 +256,8 @@
 		(uuid "baf4edce-23e1-4b77-87cb-cec2c8d883a8")
 	)
 	(fp_line
-		(start 10.9 -6.65)
-		(end 6.7 -6.65)
+		(start 10.85 -6.65)
+		(end 6.65 -6.65)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -266,8 +266,8 @@
 		(uuid "57ad9fe5-8aff-4487-a4f3-63e1b293308e")
 	)
 	(fp_line
-		(start 10.9 -6.25)
-		(end 10.9 -6.65)
+		(start 10.85 -6.25)
+		(end 10.85 -6.65)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -276,8 +276,8 @@
 		(uuid "056d352b-b1d7-4c8f-ba2d-19ac6198f043")
 	)
 	(fp_line
-		(start 10.9 0.25)
-		(end 13.2 0.25)
+		(start 10.85 0.25)
+		(end 17.15 0.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -286,8 +286,8 @@
 		(uuid "c2e842bb-e927-4fdd-b507-e3c4355143c3")
 	)
 	(fp_line
-		(start 10.9 0.65)
-		(end 6.7 0.65)
+		(start 10.85 0.65)
+		(end 6.65 0.65)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -296,8 +296,8 @@
 		(uuid "8e13ffe4-ac99-4acf-86c0-44b64914b187")
 	)
 	(fp_line
-		(start 10.9 0.65)
-		(end 10.9 0.25)
+		(start 10.85 0.65)
+		(end 10.85 0.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -306,8 +306,8 @@
 		(uuid "8c29e53a-c46e-440d-806d-cbfbc1942d66")
 	)
 	(fp_line
-		(start 13.2 -6.25)
-		(end 10.9 -6.25)
+		(start 17.15 -6.25)
+		(end 10.85 -6.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -316,8 +316,8 @@
 		(uuid "de4064a4-9d4b-4446-8d05-72c409bd1a70")
 	)
 	(fp_line
-		(start 13.2 -6.25)
-		(end 14.9 -5.25)
+		(start 17.15 -6.25)
+		(end 18.85 -5.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -326,8 +326,8 @@
 		(uuid "5773aee9-c623-4ee5-a5a0-d6feca566245")
 	)
 	(fp_line
-		(start 13.2 0.25)
-		(end 14.9 -0.75)
+		(start 17.15 0.25)
+		(end 18.85 -0.75)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -336,8 +336,8 @@
 		(uuid "615af048-703b-42ca-9229-ca4e7a8be660")
 	)
 	(fp_line
-		(start 14.9 -0.75)
-		(end 14.9 -5.25)
+		(start 18.85 -0.75)
+		(end 18.85 -5.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -353,11 +353,11 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "c90f8933-e389-4625-8ef4-ac9f433de8f5")
+		(uuid "70c57ea9-9867-4711-9616-094dff852501")
 	)
 	(fp_line
-		(start 5.65 -7.6)
-		(end 6.45 -7.6)
+		(start 5.6 -7.6)
+		(end 6.4 -7.6)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -366,8 +366,8 @@
 		(uuid "1b9f451b-8a6a-40c7-9a00-df19f2451736")
 	)
 	(fp_line
-		(start 5.65 -6.4)
-		(end 10.65 -6.4)
+		(start 5.6 -6.4)
+		(end 10.6 -6.4)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -376,8 +376,8 @@
 		(uuid "13f5820b-c38d-4ee7-a7a7-560f375f3ebc")
 	)
 	(fp_line
-		(start 5.65 1.6)
-		(end 6.45 1.6)
+		(start 5.6 1.6)
+		(end 6.4 1.6)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -386,8 +386,8 @@
 		(uuid "ca69fcdc-f555-4339-8ab4-909a44eb3c74")
 	)
 	(fp_line
-		(start 6.45 -7.6)
-		(end 6.45 -6.6)
+		(start 6.4 -7.6)
+		(end 6.4 -6.6)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -396,8 +396,8 @@
 		(uuid "f68cb4b1-bf2d-4176-81e4-03dee8f552e4")
 	)
 	(fp_line
-		(start 6.45 -6.6)
-		(end 5.65 -6.6)
+		(start 6.4 -6.6)
+		(end 5.6 -6.6)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -406,8 +406,8 @@
 		(uuid "59037341-3127-4d91-8ffd-4ec4f052dcc3")
 	)
 	(fp_line
-		(start 6.45 0.6)
-		(end 5.65 0.6)
+		(start 6.4 0.6)
+		(end 5.6 0.6)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -416,8 +416,8 @@
 		(uuid "bc87f410-aebe-4932-a50a-890f41155c24")
 	)
 	(fp_line
-		(start 6.45 1.6)
-		(end 6.45 0.6)
+		(start 6.4 1.6)
+		(end 6.4 0.6)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -426,8 +426,8 @@
 		(uuid "d7672fdd-feac-4c90-adb5-00ade5d8ab48")
 	)
 	(fp_line
-		(start 10.65 -6.4)
-		(end 10.65 0.4)
+		(start 10.6 -6.4)
+		(end 10.6 0.4)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -436,8 +436,8 @@
 		(uuid "1de00fc2-0f76-463a-a2ce-e09b29450a3a")
 	)
 	(fp_line
-		(start 10.65 -6)
-		(end 13.15 -6)
+		(start 10.6 -6)
+		(end 17.1 -6)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -446,8 +446,8 @@
 		(uuid "01fee3f0-f39f-4237-9271-d32e9ba423f3")
 	)
 	(fp_line
-		(start 10.65 0.4)
-		(end 5.65 0.4)
+		(start 10.6 0.4)
+		(end 5.6 0.4)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -456,8 +456,8 @@
 		(uuid "07b7e60f-a4cd-4894-8fbc-7def3aa8eb3f")
 	)
 	(fp_line
-		(start 11.65 -6)
-		(end 11.65 0)
+		(start 11.6 -6)
+		(end 11.6 0)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -466,8 +466,8 @@
 		(uuid "14fe3a41-0d52-41e4-b941-27f1305c68c8")
 	)
 	(fp_line
-		(start 13.15 -6)
-		(end 13.15 0)
+		(start 17.1 -6)
+		(end 17.1 0)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -476,8 +476,8 @@
 		(uuid "5eb36e0c-f798-4bd4-b613-76011d1f51fe")
 	)
 	(fp_line
-		(start 13.15 -6)
-		(end 14.65 -5.1)
+		(start 17.1 -6)
+		(end 18.6 -5.1)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -486,8 +486,8 @@
 		(uuid "d0052baf-8a66-46c7-8398-2046f67b579f")
 	)
 	(fp_line
-		(start 13.15 0)
-		(end 10.65 0)
+		(start 17.1 0)
+		(end 10.6 0)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -496,8 +496,8 @@
 		(uuid "f0ae7f74-6d30-433b-9bfb-f1a657f335f1")
 	)
 	(fp_line
-		(start 13.15 0)
-		(end 14.65 -0.9)
+		(start 17.1 0)
+		(end 18.6 -0.9)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -506,8 +506,8 @@
 		(uuid "627e491b-9a17-4d1b-92d2-57271347afdf")
 	)
 	(fp_line
-		(start 14.65 -0.9)
-		(end 14.65 -5.1)
+		(start 18.6 -0.9)
+		(end 18.6 -5.1)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -670,7 +670,7 @@
 		(net 0)
 		(net_name "")
 		(layers "F.Cu" "F.Fab")
-		(uuid "a2e23b5c-dff3-4bd5-9c65-3b326adc1bac")
+		(uuid "86242900-2910-4872-a991-286ce6643052")
 		(hatch edge 0.5)
 		(connect_pads
 			(clearance 0)
@@ -698,7 +698,7 @@
 		(net 0)
 		(net_name "")
 		(layers "F.Cu" "F.Fab")
-		(uuid "a9c5e82d-6532-4a26-81dc-1a1fb5c531f5")
+		(uuid "6d8f1046-8c5b-41b4-9a4f-752eadde354f")
 		(hatch edge 0.5)
 		(connect_pads
 			(clearance 0)
@@ -722,7 +722,7 @@
 			)
 		)
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Bourns_Vertical_PEL12D-2x16F-Sxxxx.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Bourns_Horizontal_PEL12D-2x21F-Sxxxx.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
