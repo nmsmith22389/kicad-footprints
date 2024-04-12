@@ -1,10 +1,10 @@
-(footprint "RotaryEncoder_Bourns_Vertical_PEL12D-2x25S-Sxxxx"
+(footprint "RotaryEncoder_Bourns_Horizontal_PEL12D-2x25S-Sxxxx"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(descr "Rotary encoder with switch and illuminated shaft, dual-led, https://www.bourns.com/docs/product-datasheets/PEL12D.pdf")
-	(tags "rotary encoder illuminated switch vertical")
+	(tags "rotary encoder illuminated switch horizontal")
 	(property "Reference" "REF**"
 		(at 2.8 -11.2 0)
 		(layer "F.SilkS")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "RotaryEncoder_Bourns_Vertical_PEL12D-2x25S-Sxxxx"
+	(property "Value" "RotaryEncoder_Bourns_Horizontal_PEL12D-2x25S-Sxxxx"
 		(at 0 5.7 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -792,7 +792,7 @@
 			)
 		)
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Bourns_Vertical_PEL12D-2x25S-Sxxxx.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Bourns_Horizontal_PEL12D-2x25S-Sxxxx.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1,10 +1,10 @@
-(footprint "RotaryEncoder_Bourns_Vertical_PEL12D-2x26F-Sxxxx"
+(footprint "RotaryEncoder_Bourns_Horizontal_PEL12D-2x18F-Sxxxx"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "Rotary encoder with switch and illuminated 13mm shaft, dual-led, https://www.bourns.com/docs/product-datasheets/PEL12D.pdf")
-	(tags "rotary encoder illuminated switch vertical")
+	(descr "Rotary encoder with switch and illuminated 6mm shaft, dual-led, https://www.bourns.com/docs/product-datasheets/PEL12D.pdf")
+	(tags "rotary encoder illuminated switch horizontal")
 	(property "Reference" "REF**"
 		(at 2.8 -11.2 0)
 		(layer "F.SilkS")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "RotaryEncoder_Bourns_Vertical_PEL12D-2x26F-Sxxxx"
+	(property "Value" "RotaryEncoder_Bourns_Horizontal_PEL12D-2x18F-Sxxxx"
 		(at 0 5.7 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "f2396c60-16bb-4ab5-98e1-9cac1bc27af6")
+		(uuid "c78f549d-989c-4650-9d4b-090998ff1c1d")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "67dab5f0-ceca-4a72-9b1d-6b48c3288786")
+		(uuid "f30b384a-8f28-4a44-abee-bd9976fe150c")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -57,7 +57,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "49bc8464-6aaa-4e48-bd21-ff7d2f51de24")
+		(uuid "e78a5e67-9b5c-4d42-afca-e73a5660141f")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -123,7 +123,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "9ad50c7c-8860-4623-93be-a6bf81c37863")
+		(uuid "46b41fdd-6dd8-4c79-a407-d2dc483d78a4")
 	)
 	(fp_line
 		(start -4.15 -9.45)
@@ -277,7 +277,7 @@
 	)
 	(fp_line
 		(start 10.85 0.25)
-		(end 22.15 0.25)
+		(end 15.15 0.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -306,7 +306,7 @@
 		(uuid "8c29e53a-c46e-440d-806d-cbfbc1942d66")
 	)
 	(fp_line
-		(start 22.15 -6.25)
+		(start 15.15 -6.25)
 		(end 10.85 -6.25)
 		(stroke
 			(width 0.05)
@@ -316,8 +316,8 @@
 		(uuid "de4064a4-9d4b-4446-8d05-72c409bd1a70")
 	)
 	(fp_line
-		(start 22.15 -6.25)
-		(end 23.85 -5.25)
+		(start 15.15 -6.25)
+		(end 16.85 -5.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -326,8 +326,8 @@
 		(uuid "5773aee9-c623-4ee5-a5a0-d6feca566245")
 	)
 	(fp_line
-		(start 22.15 0.25)
-		(end 23.85 -0.75)
+		(start 15.15 0.25)
+		(end 16.85 -0.75)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -336,8 +336,8 @@
 		(uuid "615af048-703b-42ca-9229-ca4e7a8be660")
 	)
 	(fp_line
-		(start 23.85 -0.75)
-		(end 23.85 -5.25)
+		(start 16.85 -0.75)
+		(end 16.85 -5.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -353,7 +353,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "5aaffdfb-327d-4e9d-943b-905e1e10f856")
+		(uuid "256296d3-975f-4340-b02b-fc400272abbf")
 	)
 	(fp_line
 		(start 5.6 -7.6)
@@ -437,7 +437,7 @@
 	)
 	(fp_line
 		(start 10.6 -6)
-		(end 22.1 -6)
+		(end 15.1 -6)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -466,8 +466,8 @@
 		(uuid "14fe3a41-0d52-41e4-b941-27f1305c68c8")
 	)
 	(fp_line
-		(start 22.1 -6)
-		(end 22.1 0)
+		(start 15.1 -6)
+		(end 15.1 0)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -476,8 +476,8 @@
 		(uuid "5eb36e0c-f798-4bd4-b613-76011d1f51fe")
 	)
 	(fp_line
-		(start 22.1 -6)
-		(end 23.6 -5.1)
+		(start 15.1 -6)
+		(end 16.6 -5.1)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -486,7 +486,7 @@
 		(uuid "d0052baf-8a66-46c7-8398-2046f67b579f")
 	)
 	(fp_line
-		(start 22.1 0)
+		(start 15.1 0)
 		(end 10.6 0)
 		(stroke
 			(width 0.1)
@@ -496,8 +496,8 @@
 		(uuid "f0ae7f74-6d30-433b-9bfb-f1a657f335f1")
 	)
 	(fp_line
-		(start 22.1 0)
-		(end 23.6 -0.9)
+		(start 15.1 0)
+		(end 16.6 -0.9)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -506,8 +506,8 @@
 		(uuid "627e491b-9a17-4d1b-92d2-57271347afdf")
 	)
 	(fp_line
-		(start 23.6 -0.9)
-		(end 23.6 -5.1)
+		(start 16.6 -0.9)
+		(end 16.6 -5.1)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -670,7 +670,35 @@
 		(net 0)
 		(net_name "")
 		(layers "F.Cu" "F.Fab")
-		(uuid "2fb51120-bb6c-4e9d-8e54-ffc60404a4b8")
+		(uuid "ff284656-3b01-477d-bb19-1eafe1c2e770")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour allowed)
+			(footprints allowed)
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 4.9 -9.45) (xy 3.6 -9.45) (xy 3.6 -8.7) (xy 4.9 -8.7)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F.Cu" "F.Fab")
+		(uuid "ac8e0adf-df46-4ffd-83fe-428240e69ced")
 		(hatch edge 0.5)
 		(connect_pads
 			(clearance 0)
@@ -694,35 +722,7 @@
 			)
 		)
 	)
-	(zone
-		(net 0)
-		(net_name "")
-		(layers "F.Cu" "F.Fab")
-		(uuid "e4e2b1c8-d274-407d-93f3-e9881e9b5038")
-		(hatch edge 0.5)
-		(connect_pads
-			(clearance 0)
-		)
-		(min_thickness 0.25)
-		(filled_areas_thickness no)
-		(keepout
-			(tracks not_allowed)
-			(vias not_allowed)
-			(pads not_allowed)
-			(copperpour allowed)
-			(footprints allowed)
-		)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-		)
-		(polygon
-			(pts
-				(xy 4.95 -9.45) (xy 3.65 -9.45) (xy 3.65 -8.7) (xy 4.95 -8.7)
-			)
-		)
-	)
-	(model "${KICAD8_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Bourns_Vertical_PEL12D-2x26F-Sxxxx.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Bourns_Horizontal_PEL12D-2x18F-Sxxxx.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

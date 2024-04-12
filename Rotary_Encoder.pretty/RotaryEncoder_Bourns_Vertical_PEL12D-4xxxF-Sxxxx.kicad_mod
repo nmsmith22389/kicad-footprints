@@ -1,10 +1,10 @@
-(footprint "RotaryEncoder_Bourns_Horizontal_PEL12D-4x25S-Sxxxx"
+(footprint "RotaryEncoder_Bourns_Vertical_PEL12D-4xxxF-Sxxxx"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "Rotary encoder with switch and illuminated 13mm shaft, dual-led, https://www.bourns.com/docs/product-datasheets/PEL12D.pdf")
-	(tags "rotary encoder illuminated switch horizontal")
+	(descr "Rotary encoder with switch and illuminated 4,6,8,13,18mm shaft, dual-led, https://www.bourns.com/docs/product-datasheets/PEL12D.pdf")
+	(tags "rotary encoder illuminated switch vertical")
 	(property "Reference" "REF**"
 		(at -3 -2 0)
 		(layer "F.SilkS")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "RotaryEncoder_Bourns_Horizontal_PEL12D-4x25S-Sxxxx"
+	(property "Value" "RotaryEncoder_Bourns_Vertical_PEL12D-4xxxF-Sxxxx"
 		(at -3 16.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "61813be9-7afd-42f3-b238-d84ab0d5ab39")
+		(uuid "0a556ed0-de84-48a2-89cb-66382faf9b0f")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "4e1e6acb-c9f4-4800-aac3-e82099147ea3")
+		(uuid "ed0cfdb6-8b63-40b9-af5e-8254d95d6f21")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -57,7 +57,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "adb7b2f1-68da-464a-ad59-26a12a026b6a")
+		(uuid "c9f679e6-e167-4fbe-9988-977edfe5f877")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -345,6 +345,16 @@
 		(layer "F.CrtYd")
 		(uuid "953d6f90-da19-43c9-9a99-8e2a225f83ac")
 	)
+	(fp_line
+		(start -5.6 5.5)
+		(end -0.4 5.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "630989db-9f6c-4bfb-8d00-6ab842664258")
+	)
 	(fp_rect
 		(start -9.2 0.4)
 		(end 3.2 13.6)
@@ -462,7 +472,7 @@
 		(remove_unused_layers no)
 		(uuid "3bb41fdc-6ad1-4dec-85fb-269465782bbc")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Bourns_Horizontal_PEL12D-4x25S-Sxxxx.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Bourns_Vertical_PEL12D-4xxxF-Sxxxx.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
