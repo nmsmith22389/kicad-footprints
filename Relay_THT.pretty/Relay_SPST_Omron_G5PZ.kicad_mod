@@ -313,7 +313,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill solid)
 		(layer "F.SilkS")
 		(uuid "77be5254-20c2-43a1-a0bf-f0f6aad0bd3c")
 	)
