@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(descr "PCB mounted switching power module, AC input voltage range: 90VAC-264VAC, Class Ⅱ Construction")
-	(tags "PCB switching power module")
+	(tags "ACDC-Converter 3W ZETTLER ZPI")
 	(property "Reference" "REF**"
 		(at 7.5 7.24 0)
 		(unlocked yes)
