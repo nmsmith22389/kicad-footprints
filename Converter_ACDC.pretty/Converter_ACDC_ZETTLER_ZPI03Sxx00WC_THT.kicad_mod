@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "PCB mounted switching power module, AC input voltage range: 90VAC-264VAC, Class Ⅱ Construction")
+	(descr "PCB mounted switching power module, AC input voltage range: 90VAC-264VAC, Class II Construction, https://www.zettlermagnetics.com/pdfs/ZPI03SXX00WC.pdf")
 	(tags "ACDC-Converter 3W ZETTLER ZPI")
 	(property "Reference" "REF**"
 		(at 7.5 7.24 0)
@@ -42,7 +42,7 @@
 			)
 		)
 	)
-	(property "Datasheet" "https://www.tme.com/Document/df62dbd68f629714beab395e9d75a85c/ZPI03SXX00WC.pdf"
+	(property "Datasheet" ""
 		(at 7.5 7.74 0)
 		(unlocked yes)
 		(layer "F.Fab")
