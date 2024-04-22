@@ -53,6 +53,7 @@
   (lib (name Connector_Stocko)(type KiCad)(uri ${KICAD8_FOOTPRINT_DIR}/Connector_Stocko.pretty)(options "")(descr "Stocko connector footprints"))
   (lib (name Connector_TE-Connectivity)(type KiCad)(uri ${KICAD8_FOOTPRINT_DIR}/Connector_TE-Connectivity.pretty)(options "")(descr "Footprints for connectors by TE Connectivity"))
   (lib (name Connector_USB)(type KiCad)(uri ${KICAD8_FOOTPRINT_DIR}/Connector_USB.pretty)(options "")(descr "USB connector footprints"))
+  (lib (name Connector_Video)(type KiCad)(uri ${KICAD8_FOOTPRINT_DIR}/Connector_Video.pretty)(options "")(descr "Video connector footprints like DVI and HDMI"))
   (lib (name Connector_Wago)(type KiCad)(uri ${KICAD8_FOOTPRINT_DIR}/Connector_Wago.pretty)(options "")(descr "Wago connector footprints"))
   (lib (name Connector_Wire)(type KiCad)(uri ${KICAD8_FOOTPRINT_DIR}/Connector_Wire.pretty)(options "")(descr "Footprints for solder wire pads"))
   (lib (name Connector_Wuerth)(type KiCad)(uri ${KICAD8_FOOTPRINT_DIR}/Connector_Wuerth.pretty)(options "")(descr "Wuerth connector footprints"))
