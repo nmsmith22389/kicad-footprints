@@ -623,7 +623,7 @@
 		(remove_unused_layers no)
 		(uuid "abf3ff28-62b2-414a-9e8a-e314584e39e4")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_Video.3dshapes/DVI-I_Molex_74320-1004.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Connector_Video.3dshapes/DVI-I_Molex_74320-1004_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
