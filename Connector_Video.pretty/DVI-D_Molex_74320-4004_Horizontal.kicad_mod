@@ -65,8 +65,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -9.15 0.3366)
-		(end -9.15 8.4866)
+		(start -9.15 0.3302)
+		(end -9.15 8.4824)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -75,8 +75,18 @@
 		(uuid "73ed9a5c-2d7e-4568-9712-2c9f8cbff4b6")
 	)
 	(fp_line
-		(start -6.65 -2.1634)
-		(end -3.048 -2.1634)
+		(start -9.15 5.82)
+		(end 28.2 5.82)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "0b48cac8-d70d-4379-bb08-e7178f738eb6")
+	)
+	(fp_line
+		(start -6.6548 -2.165)
+		(end -3.048 -2.165)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -86,7 +96,7 @@
 	)
 	(fp_line
 		(start -3.048 -2.1634)
-		(end -3.048 8.4866)
+		(end -3.048 5.82)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -106,7 +116,7 @@
 	)
 	(fp_line
 		(start 22.098 -2.1634)
-		(end 22.098 8.4866)
+		(end 22.098 5.82)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -116,7 +126,7 @@
 	)
 	(fp_line
 		(start 22.098 -2.1634)
-		(end 25.7 -2.1634)
+		(end 25.7048 -2.165)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -125,8 +135,8 @@
 		(uuid "093ba1db-d463-48f9-b93f-d5e3e909a83e")
 	)
 	(fp_line
-		(start 28.2 0.3366)
-		(end 28.2 8.4866)
+		(start 28.2 0.3302)
+		(end 28.2 8.4824)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -135,9 +145,9 @@
 		(uuid "91927850-5974-4111-b55a-32f5995cc0a4")
 	)
 	(fp_arc
-		(start -9.15 0.3366)
-		(mid -8.417767 -1.431167)
-		(end -6.65 -2.1634)
+		(start -9.15 0.3302)
+		(mid -8.419173 -1.434173)
+		(end -6.6548 -2.165)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -146,9 +156,9 @@
 		(uuid "43905264-26a1-496f-8339-bd6f854e077c")
 	)
 	(fp_arc
-		(start 25.7 -2.1634)
-		(mid 27.467767 -1.431167)
-		(end 28.2 0.3366)
+		(start 25.7048 -2.165)
+		(mid 27.469173 -1.434173)
+		(end 28.2 0.3302)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -577,7 +587,7 @@
 	)
 	(model "${KICAD8_3DMODEL_DIR}/Connector_Video.3dshapes/DVI-D_Molex_74320-4004_Horizontal.wrl"
 		(offset
-			(xyz 0 0.0000000000000007 0)
+			(xyz 0 0 0)
 		)
 		(scale
 			(xyz 1 1 1)
