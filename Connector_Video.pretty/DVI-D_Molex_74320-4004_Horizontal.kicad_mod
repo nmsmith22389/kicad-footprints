@@ -157,8 +157,8 @@
 		(uuid "54789f48-0391-453e-84ff-40faeec4d5e7")
 	)
 	(fp_line
-		(start -8.89 9.0466)
-		(end 27.94 9.0466)
+		(start -8.89 9.0424)
+		(end 27.94 9.0424)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -167,8 +167,8 @@
 		(uuid "e3068ddf-3709-42dd-ac3f-4cd6b7b1c475")
 	)
 	(fp_line
-		(start 24.525 9.71)
-		(end 24.925 9.21)
+		(start 24.492 9.898)
+		(end 24.892 9.398)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -177,8 +177,8 @@
 		(uuid "f1029793-9026-4c29-8b99-83e62f59def1")
 	)
 	(fp_line
-		(start 24.925 9.21)
-		(end 24.925 11.71)
+		(start 24.892 9.398)
+		(end 24.892 11.938)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -187,8 +187,8 @@
 		(uuid "6291d675-4f75-4db7-90f0-a6ec1d4274a6")
 	)
 	(fp_line
-		(start 24.925 9.21)
-		(end 25.325 9.71)
+		(start 24.892 9.398)
+		(end 25.292 9.898)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -329,7 +329,7 @@
 		(uuid "c9af7f2d-654e-45a0-80e3-741d391fa153")
 	)
 	(fp_text user "PCB Edge"
-		(at 24.925 12.61 0)
+		(at 24.892 12.446 0)
 		(unlocked yes)
 		(layer "Cmts.User")
 		(uuid "e78d06bf-298d-4c88-b733-ce7b1c6cc299")
@@ -339,7 +339,6 @@
 				(thickness 0.1)
 				(bold yes)
 			)
-			(justify bottom)
 		)
 	)
 	(fp_text user "${REFERENCE}"
@@ -578,7 +577,7 @@
 	)
 	(model "${KICAD8_3DMODEL_DIR}/Connector_Video.3dshapes/DVI-D_Molex_74320-4004.wrl"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 0.0000000000000007 0)
 		)
 		(scale
 			(xyz 1 1 1)
