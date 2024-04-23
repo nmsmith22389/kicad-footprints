@@ -106,13 +106,23 @@
 	)
 	(fp_line
 		(start -3.048 -2.1634)
+		(end -0.508 -2.1634)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c3b5f18b-27fb-4dac-963c-c952981dc9b4")
+	)
+	(fp_line
+		(start 0.508 -2.1634)
 		(end 22.098 -2.1634)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "5347e802-7d2d-4340-b36e-d6d44f107cf2")
+		(uuid "82a76dfe-454f-4ba2-9051-390f107cc4b5")
 	)
 	(fp_line
 		(start 22.098 -2.1634)
@@ -165,6 +175,18 @@
 		)
 		(layer "F.SilkS")
 		(uuid "32f03ee2-5b3e-4bdc-855f-69d1c8b6432f")
+	)
+	(fp_poly
+		(pts
+			(xy 0 -2.16444) (xy -0.2 -2.503851) (xy 0.2 -2.503851) (xy 0 -2.16444)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "7e6786ff-2dc2-494a-8004-71416f3ac772")
 	)
 	(fp_line
 		(start -8.89 9.0424)
@@ -297,6 +319,26 @@
 		(uuid "c76a3b3b-521c-4468-9393-193a24bfd113")
 	)
 	(fp_line
+		(start 0 -1)
+		(end -0.9 -1.9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "d49eb17d-e8e3-41a1-ae83-5cdd7de998ac")
+	)
+	(fp_line
+		(start 0.9 -1.9)
+		(end 0 -1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "e992ca41-d0c1-4976-a7df-e7194e48c762")
+	)
+	(fp_line
 		(start 21.5392 16.129)
 		(end 21.5392 9.6266)
 		(stroke
@@ -383,7 +425,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.1923076923)
-		(uuid "fffe21ae-cf46-45b7-ade8-45ce6c54075b")
+		(uuid "7e7b7175-6593-49d6-9b9e-79279166101b")
 	)
 	(pad "2" thru_hole circle
 		(at 1.905 0)
