@@ -4,6 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(descr "Isolated audio transformer, ED8, 4-lead, body 10.5x8mm body, pitch 5mm, height 5mm, https://gitlab.com/kicad/libraries/kicad-footprints/-/merge_requests/3626")
+	(tags "permalloy core ")
 	(property "Reference" "REF**"
 		(at -5 1.5 90)
 		(layer "F.SilkS")
@@ -66,7 +67,7 @@
 	(attr smd)
 	(fp_line
 		(start -4.11 -5.36)
-		(end -3.25 -5.36)
+		(end -3.41 -5.36)
 		(stroke
 			(width 0.12)
 			(type default)
@@ -85,7 +86,7 @@
 		(uuid "d53a2128-cfd2-4084-8d43-977d34979d88")
 	)
 	(fp_line
-		(start -3.25 5.36)
+		(start -3.41 5.36)
 		(end -4.11 5.36)
 		(stroke
 			(width 0.12)
@@ -155,8 +156,8 @@
 		(uuid "d7db655b-5752-4d63-98d1-2c91f1847588")
 	)
 	(fp_line
-		(start 1.75 -5.36)
-		(end -1.75 -5.36)
+		(start 1.59 -5.36)
+		(end -1.59 -5.36)
 		(stroke
 			(width 0.12)
 			(type default)
@@ -165,8 +166,8 @@
 		(uuid "1cd21f48-49d0-4ee3-ac27-a5cf31cc7ad5")
 	)
 	(fp_line
-		(start 1.75 5.36)
-		(end -1.75 5.36)
+		(start 1.59 5.36)
+		(end -1.59 5.36)
 		(stroke
 			(width 0.12)
 			(type default)
@@ -175,7 +176,7 @@
 		(uuid "c64c1556-2ac3-4873-bee4-ea65c545bd57")
 	)
 	(fp_line
-		(start 3.25 5.36)
+		(start 3.41 5.36)
 		(end 4.11 5.36)
 		(stroke
 			(width 0.12)
@@ -186,7 +187,7 @@
 	)
 	(fp_line
 		(start 4.11 -5.36)
-		(end 3.25 -5.36)
+		(end 3.41 -5.36)
 		(stroke
 			(width 0.12)
 			(type default)
@@ -206,7 +207,7 @@
 	)
 	(fp_poly
 		(pts
-			(xy -3.2514 -6.3246) (xy -3.5814 -6.0846) (xy -3.5814 -6.5646) (xy -3.2514 -6.3246)
+			(xy -3.41 -6.3246) (xy -3.74 -6.0846) (xy -3.74 -6.5646) (xy -3.41 -6.3246)
 		)
 		(stroke
 			(width 0.12)
@@ -437,16 +438,6 @@
 		(uuid "d03184f9-ced8-4675-bc5f-8fea95440d07")
 	)
 	(fp_line
-		(start -3.25 5.25)
-		(end -4 5.25)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "F.Fab")
-		(uuid "7a4c654f-3243-4e79-a985-4b653a64e54e")
-	)
-	(fp_line
 		(start -2.286 -3.55)
 		(end -2.286 5.25)
 		(stroke
@@ -478,16 +469,6 @@
 	)
 	(fp_line
 		(start 2.286 -3.55)
-		(end -2.286 -3.55)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "F.Fab")
-		(uuid "77296ac7-443e-46d4-be6f-327d4a74faab")
-	)
-	(fp_line
-		(start 2.286 -3.55)
 		(end 2.286 5.25)
 		(stroke
 			(width 0.1)
@@ -507,26 +488,6 @@
 		(uuid "ead7f10c-e823-4180-a192-2ed8c2cf73c7")
 	)
 	(fp_line
-		(start 3.25 5.25)
-		(end -3.25 5.25)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "F.Fab")
-		(uuid "c7caee95-ffc7-4a97-a5c6-e6ff57572736")
-	)
-	(fp_line
-		(start 3.25 5.25)
-		(end 4 5.25)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "F.Fab")
-		(uuid "0e7c4fbd-dce1-4144-b156-05a1d14e756e")
-	)
-	(fp_line
 		(start 4 -5.25)
 		(end 3.25 -5.25)
 		(stroke
@@ -535,6 +496,16 @@
 		)
 		(layer "F.Fab")
 		(uuid "b4e72d24-1f5e-4c49-b468-00826d1c0718")
+	)
+	(fp_line
+		(start 4 5.25)
+		(end -4 5.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "c7caee95-ffc7-4a97-a5c6-e6ff57572736")
 	)
 	(fp_line
 		(start 4 5.25)
@@ -607,5 +578,16 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.25)
 		(uuid "093ceaec-33f4-4507-8213-4e8c7cb93abe")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_ED8_4-Lead_10.5x8mm_P5mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
 	)
 )
