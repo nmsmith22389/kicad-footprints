@@ -579,7 +579,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "093ceaec-33f4-4507-8213-4e8c7cb93abe")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_ED8_4-Lead_10.5x8mm_P5mm.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_ED8_4-Lead_10.5x8mm_P5mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
