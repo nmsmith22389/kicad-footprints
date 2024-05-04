@@ -1,14 +1,12 @@
 (footprint "L_Changjiang_FXL1365"
 	(version 20240108)
-	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Inductor, Changjiang, FXL1365, 13.45x12.6x6.5mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2303201000_cjiang--Changjiang-Microelectronics-Tech-FXL1365-330-M_C5359277.pdf")
+	(descr "Inductor, Changjiang, FXL1365, 12.85x12.6x6.5mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2303201000_cjiang--Changjiang-Microelectronics-Tech-FXL1365-330-M_C5359277.pdf")
 	(tags "Inductor power shielded cjiang fxl")
 	(property "Reference" "REF**"
 		(at 0 -7.3 0)
 		(layer "F.SilkS")
-		(uuid "42ed3724-615e-4823-b115-111fc0e728c9")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +17,6 @@
 	(property "Value" "L_Changjiang_FXL1365"
 		(at 0 7.3 0)
 		(layer "F.Fab")
-		(uuid "86aa1c1c-6316-419a-811b-21934554794e")
 		(effects
 			(font
 				(size 1 1)
@@ -27,102 +24,42 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "91dde3de-c0e5-4a5e-a133-8e4e7b832888")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-	(property "Datasheet" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "331a6ec2-8f7a-40aa-8c30-0ec1f75d9ba3")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-	(property "Description" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "2ea7e576-5442-4363-b4d7-e6e9cd796bbe")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(attr smd)
 	(fp_line
-		(start -6.985 -6.56)
-		(end -6.985 -3.01)
+		(start -6.425 -6.3)
+		(end -6.425 6.3)
 		(stroke
-			(width 0.12)
+			(width 0.1)
 			(type solid)
 		)
-		(layer "F.SilkS")
-		(uuid "e652fbab-f1d1-45f5-9ca4-dc7c69b8ce3b")
+		(layer "F.Fab")
 	)
 	(fp_line
-		(start -6.985 -6.56)
-		(end 6.985 -6.56)
+		(start -6.425 6.3)
+		(end 6.425 6.3)
 		(stroke
-			(width 0.12)
+			(width 0.1)
 			(type solid)
 		)
-		(layer "F.SilkS")
-		(uuid "581b58b1-4ed3-4bd9-9c0a-35cf54600afb")
+		(layer "F.Fab")
 	)
 	(fp_line
-		(start -6.985 6.56)
-		(end -6.985 3.01)
+		(start 6.425 6.3)
+		(end 6.425 -6.3)
 		(stroke
-			(width 0.12)
+			(width 0.1)
 			(type solid)
 		)
-		(layer "F.SilkS")
-		(uuid "fc225fdc-a7d6-4426-bc95-696f4f5d39e7")
+		(layer "F.Fab")
 	)
 	(fp_line
-		(start -6.985 6.56)
-		(end 6.985 6.56)
+		(start 6.425 -6.3)
+		(end -6.425 -6.3)
 		(stroke
-			(width 0.12)
+			(width 0.1)
 			(type solid)
 		)
-		(layer "F.SilkS")
-		(uuid "3aef39ea-89a8-45f8-a8ba-12adbc323cd5")
-	)
-	(fp_line
-		(start 6.985 -6.56)
-		(end 6.985 -3.01)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "45bdd337-0882-4f6a-a3e9-bfbe5a39b9f7")
-	)
-	(fp_line
-		(start 6.985 6.56)
-		(end 6.985 3.01)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "85c25400-ba7d-408b-9ba1-bade79e4ebca")
+		(layer "F.Fab")
 	)
 	(fp_line
 		(start -7.5 -6.55)
@@ -132,7 +69,6 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "e9d50483-860b-4ac5-96e6-10d94d2ecc33")
 	)
 	(fp_line
 		(start -7.5 6.55)
@@ -142,17 +78,6 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "8a88b875-d12c-4430-b4e3-fbdb7cb017c1")
-	)
-	(fp_line
-		(start 7.5 -6.55)
-		(end -7.5 -6.55)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "caa1d958-ff72-4fae-9de4-7d23ae3f42d0")
 	)
 	(fp_line
 		(start 7.5 6.55)
@@ -162,70 +87,89 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "298350be-4e60-4caa-85e5-82fef7142ded")
 	)
 	(fp_line
-		(start -6.725 -6.3)
-		(end -6.725 6.3)
+		(start 7.5 -6.55)
+		(end -7.5 -6.55)
 		(stroke
-			(width 0.1)
+			(width 0.05)
 			(type solid)
 		)
-		(layer "F.Fab")
-		(uuid "da395e0e-8b96-4fd0-86bd-36aa5278bac5")
+		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -6.725 6.3)
-		(end 6.725 6.3)
+		(start -6.685 -6.56)
+		(end 6.685 -6.56)
 		(stroke
-			(width 0.1)
+			(width 0.12)
 			(type solid)
 		)
-		(layer "F.Fab")
-		(uuid "63a76887-e46e-49c9-8961-65af38a9575a")
+		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 6.725 -6.3)
-		(end -6.725 -6.3)
+		(start -6.685 6.56)
+		(end 6.685 6.56)
 		(stroke
-			(width 0.1)
+			(width 0.12)
 			(type solid)
 		)
-		(layer "F.Fab")
-		(uuid "5fc18588-1a55-4ddf-a489-57f96b74c94e")
+		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 6.725 6.3)
-		(end 6.725 -6.3)
+		(start -6.685 -6.56)
+		(end -6.685 -3.01)
 		(stroke
-			(width 0.1)
+			(width 0.12)
 			(type solid)
 		)
-		(layer "F.Fab")
-		(uuid "6c6033a9-476a-4254-9d4c-663bc645a499")
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 6.685 -6.56)
+		(end 6.685 -3.01)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start -6.685 6.56)
+		(end -6.685 3.01)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 6.685 6.56)
+		(end 6.685 3.01)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(pad "1" smd rect
+		(at -5.625 0)
+		(size 3.25 5.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+	)
+	(pad "2" smd rect
+		(at 5.625 0)
+		(size 3.25 5.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "9df40e96-9c62-4925-b86d-bd522faa3ace")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.15)
 			)
 		)
-	)
-	(pad "1" smd rect
-		(at -5.625 0)
-		(size 3.25 5.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "86b98058-3f0e-4316-9e48-772b99ce67bf")
-	)
-	(pad "2" smd rect
-		(at 5.625 0)
-		(size 3.25 5.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "b93354b7-edd4-4458-af3e-1161e7309434")
 	)
 	(model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Changjiang_FXL1365.wrl"
 		(offset
