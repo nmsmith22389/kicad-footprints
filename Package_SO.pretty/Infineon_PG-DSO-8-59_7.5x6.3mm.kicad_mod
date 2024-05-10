@@ -1,11 +1,11 @@
-(footprint "SOIC-16W_5.3x10.2mm_P1.27mm"
+(footprint "Infineon_PG-DSO-8-59_7.5x6.3mm"
 	(version 20240108)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "SOIC, 16 Pin (http://www.ti.com/lit/ml/msop002a/msop002a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
-	(tags "SOIC SO")
+	(descr "Infineon  PG-DSO, 8 Pin (https://www.infineon.com/dgdl/Infineon-1EDCxxI12AH-DS-v02_00-EN.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+	(tags "Infineon PG-DSO SO")
 	(property "Reference" "REF**"
-		(at 0 -6.05 0)
+		(at 0 -4.1 0)
 		(layer "F.SilkS")
 		(effects
 			(font
@@ -14,8 +14,8 @@
 			)
 		)
 	)
-	(property "Value" "SOIC-16W_5.3x10.2mm_P1.27mm"
-		(at 0 6.05 0)
+	(property "Value" "Infineon_PG-DSO-8-59_7.5x6.3mm"
+		(at 0 4.1 0)
 		(layer "F.Fab")
 		(effects
 			(font
@@ -26,8 +26,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -4.7 -5.35)
-		(end -4.7 5.35)
+		(start -5.9 -3.4)
+		(end -5.9 3.4)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -35,8 +35,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -4.7 5.35)
-		(end 4.7 5.35)
+		(start -5.9 3.4)
+		(end 5.9 3.4)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -44,8 +44,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 4.7 5.35)
-		(end 4.7 -5.35)
+		(start 5.9 3.4)
+		(end 5.9 -3.4)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -53,8 +53,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 4.7 -5.35)
-		(end -4.7 -5.35)
+		(start 5.9 -3.4)
+		(end -5.9 -3.4)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -62,8 +62,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 0 5.21)
-		(end 2.76 5.21)
+		(start 0 3.26)
+		(end 3.86 3.26)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -71,8 +71,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 2.76 5.21)
-		(end 2.76 5.005)
+		(start 3.86 3.26)
+		(end 3.86 2.465)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -80,8 +80,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 0 5.21)
-		(end -2.76 5.21)
+		(start 0 3.26)
+		(end -3.86 3.26)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -89,8 +89,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -2.76 5.21)
-		(end -2.76 5.005)
+		(start -3.86 3.26)
+		(end -3.86 2.465)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -98,8 +98,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 0 -5.21)
-		(end 2.76 -5.21)
+		(start 0 -3.26)
+		(end 3.86 -3.26)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -107,8 +107,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 2.76 -5.21)
-		(end 2.76 -5.005)
+		(start 3.86 -3.26)
+		(end 3.86 -2.465)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -116,8 +116,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 0 -5.21)
-		(end -2.76 -5.21)
+		(start 0 -3.26)
+		(end -3.86 -3.26)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -125,8 +125,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -2.76 -5.21)
-		(end -2.76 -5.005)
+		(start -3.86 -3.26)
+		(end -3.86 -2.465)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -134,8 +134,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -1.65 -5.1)
-		(end 2.65 -5.1)
+		(start -2.75 -3.15)
+		(end 3.75 -3.15)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -143,8 +143,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 2.65 -5.1)
-		(end 2.65 5.1)
+		(start 3.75 -3.15)
+		(end 3.75 3.15)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -152,8 +152,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 2.65 5.1)
-		(end -2.65 5.1)
+		(start 3.75 3.15)
+		(end -3.75 3.15)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -161,8 +161,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start -2.65 5.1)
-		(end -2.65 -4.1)
+		(start -3.75 3.15)
+		(end -3.75 -2.15)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -170,8 +170,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start -2.65 -4.1)
-		(end -1.65 -5.1)
+		(start -3.75 -2.15)
+		(end -2.75 -3.15)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -179,107 +179,59 @@
 		(layer "F.Fab")
 	)
 	(pad "1" smd roundrect
-		(at -3.25 -4.445)
-		(size 2.4 0.6)
+		(at -4.775 -1.905)
+		(size 1.75 0.6)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "2" smd roundrect
-		(at -3.25 -3.175)
-		(size 2.4 0.6)
+		(at -4.775 -0.635)
+		(size 1.75 0.6)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "3" smd roundrect
-		(at -3.25 -1.905)
-		(size 2.4 0.6)
+		(at -4.775 0.635)
+		(size 1.75 0.6)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "4" smd roundrect
-		(at -3.25 -0.635)
-		(size 2.4 0.6)
+		(at -4.775 1.905)
+		(size 1.75 0.6)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "5" smd roundrect
-		(at -3.25 0.635)
-		(size 2.4 0.6)
+		(at 4.775 1.905)
+		(size 1.75 0.6)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "6" smd roundrect
-		(at -3.25 1.905)
-		(size 2.4 0.6)
+		(at 4.775 0.635)
+		(size 1.75 0.6)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "7" smd roundrect
-		(at -3.25 3.175)
-		(size 2.4 0.6)
+		(at 4.775 -0.635)
+		(size 1.75 0.6)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(pad "8" smd roundrect
-		(at -3.25 4.445)
-		(size 2.4 0.6)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.25)
-	)
-	(pad "9" smd roundrect
-		(at 3.25 4.445)
-		(size 2.4 0.6)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.25)
-	)
-	(pad "10" smd roundrect
-		(at 3.25 3.175)
-		(size 2.4 0.6)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.25)
-	)
-	(pad "11" smd roundrect
-		(at 3.25 1.905)
-		(size 2.4 0.6)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.25)
-	)
-	(pad "12" smd roundrect
-		(at 3.25 0.635)
-		(size 2.4 0.6)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.25)
-	)
-	(pad "13" smd roundrect
-		(at 3.25 -0.635)
-		(size 2.4 0.6)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.25)
-	)
-	(pad "14" smd roundrect
-		(at 3.25 -1.905)
-		(size 2.4 0.6)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.25)
-	)
-	(pad "15" smd roundrect
-		(at 3.25 -3.175)
-		(size 2.4 0.6)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.25)
-	)
-	(pad "16" smd roundrect
-		(at 3.25 -4.445)
-		(size 2.4 0.6)
+		(at 4.775 -1.905)
+		(size 1.75 0.6)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 	)
 	(fp_poly
 		(pts
-			(xy -3.55 -5.005)
-			(xy -3.79 -5.335)
-			(xy -3.31 -5.335)
-			(xy -3.55 -5.005)
+			(xy -4.7 -2.465)
+			(xy -5.04 -2.935)
+			(xy -4.36 -2.935)
+			(xy -4.7 -2.465)
 		)
 		(stroke
 			(width 0.12)
@@ -298,7 +250,7 @@
 			)
 		)
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-16W_5.3x10.2mm_P1.27mm.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-DSO-8-59_7.5x6.3mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
