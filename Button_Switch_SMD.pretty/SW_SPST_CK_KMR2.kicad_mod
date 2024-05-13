@@ -42,7 +42,7 @@
 			)
 		)
 	)
-	(property "Datasheet" "https://www.ckswitches.com/media/1479/kmr2.pdf"
+	(property "Datasheet" ""
 		(at 0 3.7 0)
 		(unlocked yes)
 		(layer "F.Fab")
