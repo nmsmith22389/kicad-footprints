@@ -10,7 +10,7 @@
  (layer "F.Fab")(uuid "f803f3fb-35bd-4ba0-aafb-46c9609ec6fc")
     (effects (font (size 0.6 0.6) (thickness 0.09)))
   )
-  (property "Footprint" "SW_SPST_CK_KMR2_no_grounding_pin" (at -6.2 6.75 0)(unlocked yes)
+  (property "Footprint" "" (at -6.2 6.75 0)(unlocked yes)
  (layer "F.Fab")(hide yes)
 (uuid "d244ed0c-e18e-4cf6-a184-99b508a7043c")
     (effects (font (size 1 1) (thickness 0.15)))
