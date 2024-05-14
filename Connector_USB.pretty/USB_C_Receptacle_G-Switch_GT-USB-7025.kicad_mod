@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "USB_C_Receptacle_G-Switch_GT-USB-7025"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -115,8 +115,8 @@
 		(uuid "6aa9ec27-13c6-44af-85d3-6005ac68bfc8")
 	)
 	(fp_line
-		(start -5.47 3.45)
-		(end -5.47 -3.57)
+		(start -5.52 -1.76)
+		(end -5.52 -3.62)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -125,8 +125,28 @@
 		(uuid "9c0bbfdb-3dc7-499b-aefe-cd1509d72229")
 	)
 	(fp_line
+		(start -5.37 -1.76)
+		(end -5.52 -1.76)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "eb13ea72-d8dc-4a6a-897e-9a0d42479e17")
+	)
+	(fp_line
+		(start -5.37 3.45)
+		(end -5.37 -1.76)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "fcd1475f-ca05-4d75-847f-a14a45c78aef")
+	)
+	(fp_line
 		(start -4.24 -4.37)
-		(end -4.24 -3.57)
+		(end -4.24 -3.62)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -145,8 +165,8 @@
 		(uuid "9e051379-7f1d-44d0-9345-a45543d447e4")
 	)
 	(fp_line
-		(start -4.24 -3.57)
-		(end -5.47 -3.57)
+		(start -4.24 -3.62)
+		(end -5.52 -3.62)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -156,7 +176,7 @@
 	)
 	(fp_line
 		(start 4.24 -4.37)
-		(end 4.24 -3.59)
+		(end 4.24 -3.62)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -165,8 +185,8 @@
 		(uuid "33116b3a-6ff5-4cc2-a164-7300ebb8448d")
 	)
 	(fp_line
-		(start 4.24 -3.59)
-		(end 5.47 -3.59)
+		(start 4.24 -3.62)
+		(end 5.52 -3.62)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -175,8 +195,28 @@
 		(uuid "6f2b0703-b39f-4ae3-91f6-e14b43223af4")
 	)
 	(fp_line
-		(start 5.47 -3.59)
-		(end 5.47 3.45)
+		(start 5.37 -1.76)
+		(end 5.37 3.45)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "efa7354d-5ae3-44a0-8192-38fbd76d2b75")
+	)
+	(fp_line
+		(start 5.37 3.45)
+		(end -5.37 3.45)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b99dad18-feeb-4adb-ab5a-250a9fcc99b2")
+	)
+	(fp_line
+		(start 5.52 -3.62)
+		(end 5.52 -1.76)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -185,14 +225,14 @@
 		(uuid "553101a2-df2e-4179-a908-8c17b467f5f1")
 	)
 	(fp_line
-		(start 5.47 3.45)
-		(end -5.47 3.45)
+		(start 5.52 -1.76)
+		(end 5.37 -1.76)
 		(stroke
 			(width 0.05)
-			(type solid)
+			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "b99dad18-feeb-4adb-ab5a-250a9fcc99b2")
+		(uuid "c4e9832e-892a-49ff-b797-1e9496c760ad")
 	)
 	(fp_line
 		(start -4.67 -2.95)
@@ -416,7 +456,7 @@
 		(remove_unused_layers no)
 		(uuid "da70bfa6-d3b7-40d9-a065-07fc0ccb19ae")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_G-Switch_GT-USB-7025.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_G-Switch_GT-USB-7010ASV.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
