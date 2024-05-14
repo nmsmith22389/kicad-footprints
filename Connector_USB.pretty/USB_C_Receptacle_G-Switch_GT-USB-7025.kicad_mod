@@ -65,8 +65,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -4.81 -2.07)
-		(end -4.81 -0.92)
+		(start -4.78 -2.03)
+		(end -4.78 -0.97)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -95,8 +95,8 @@
 		(uuid "636f827d-6a2d-4923-88e5-98f6e6678aaa")
 	)
 	(fp_line
-		(start 4.75 -0.92)
-		(end 4.75 -2.07)
+		(start 4.78 -0.97)
+		(end 4.78 -2.03)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -195,8 +195,8 @@
 		(uuid "b99dad18-feeb-4adb-ab5a-250a9fcc99b2")
 	)
 	(fp_line
-		(start -4.7 -2.95)
-		(end -4.7 2.95)
+		(start -4.67 -2.95)
+		(end -4.67 2.95)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -205,8 +205,8 @@
 		(uuid "feaad850-cb66-476a-9576-8d89ea758d13")
 	)
 	(fp_line
-		(start -4.7 -2.95)
-		(end 4.64 -2.95)
+		(start -4.67 -2.95)
+		(end 4.67 -2.95)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -215,8 +215,8 @@
 		(uuid "198bdb9f-be8d-4f3f-bfec-8103a1805610")
 	)
 	(fp_line
-		(start -4.7 2.95)
-		(end 4.64 2.95)
+		(start -4.67 2.95)
+		(end 4.67 2.95)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -225,8 +225,8 @@
 		(uuid "bd4bb27b-34af-460f-a05c-3423e8a6f16a")
 	)
 	(fp_line
-		(start 4.64 2.95)
-		(end 4.64 -2.95)
+		(start 4.67 2.95)
+		(end 4.67 -2.95)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -386,7 +386,7 @@
 	)
 	(pad "S1" thru_hole circle
 		(at -4.595 -2.69)
-		(size 0.75 0.75)
+		(size 0.85 0.85)
 		(drill 0.55)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -394,7 +394,7 @@
 	)
 	(pad "S1" thru_hole oval
 		(at -4.595 0.29)
-		(size 0.45 1.95)
+		(size 0.55 2.05)
 		(drill oval 0.25 1.75)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -402,7 +402,7 @@
 	)
 	(pad "S1" thru_hole circle
 		(at 4.595 -2.69)
-		(size 0.75 0.75)
+		(size 0.85 0.85)
 		(drill 0.55)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -410,7 +410,7 @@
 	)
 	(pad "S1" thru_hole oval
 		(at 4.595 0.29)
-		(size 0.45 1.95)
+		(size 0.55 2.05)
 		(drill oval 0.25 1.75)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
