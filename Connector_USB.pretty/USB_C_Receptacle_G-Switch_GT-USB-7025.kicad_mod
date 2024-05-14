@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" "USB_C_Receptacle_G-Switch_GT-USB-7025"
+	(property "Footprint" ""
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
