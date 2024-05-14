@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" "USB_C_Receptacle_G-Switch_GT-USB-7025"
+	(property "Footprint" ""
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -416,7 +416,7 @@
 		(remove_unused_layers no)
 		(uuid "da70bfa6-d3b7-40d9-a065-07fc0ccb19ae")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_G-Switch_GT-USB-7010ASV.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_G-Switch_GT-USB-7025.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
