@@ -2,8 +2,8 @@
 	(version 20240108)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "SSOP, 20 Pin (http://www.nxp.com/docs/en/data-sheet/PCF8574_PCF8574A.pdf#page=21), generated with kicad-footprint-generator ipc_gullwing_generator.py")
-	(tags "SSOP SO JEDEC-MO-152 SOT266-1")
+	(descr "SSOP, 20 Pin (https://www.jedec.org/system/files/docs/Mo-152c.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+	(tags "SSOP SO JEDEC-MO-152-AC SOT266-1 Nisshinbo-PI-SSOP20-E-A")
 	(property "Reference" "REF**"
 		(at 0 -4.2 0)
 		(layer "F.SilkS")
