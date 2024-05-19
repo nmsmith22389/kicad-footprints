@@ -1,4 +1,4 @@
-(footprint "FC2QFN-16_3.5x3.5mm_P0.5mm"
+(footprint "Maxim_FC2QFN-16_3.5x3.5mm_P0.5mm"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "FC2QFN-16_3.5x3.5mm_P0.5mm"
+	(property "Value" "Maxim_FC2QFN-16_3.5x3.5mm_P0.5mm"
 		(at 0 3.4 0)
 		(layer "F.Fab")
 		(uuid "b770bd05-34fd-45e1-a74b-1799694a538b")
@@ -27,8 +27,8 @@
 			)
 		)
 	)
-	(property "Footprint" "FC2QFN-16_3.5x3.5mm_P0.5mm"
-		(at 0 0 0)
+	(property "Footprint" "Maxim_FC2QFN-16_3.5x3.5mm_P0.5mm"
+		(at 0 7 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -39,7 +39,7 @@
 			)
 		)
 	)
-	(property "Datasheet" "https://pdfserv.maximintegrated.com/land_patterns/90-100141.PDF"
+	(property "Datasheet" "https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/fc2qfn/21-100410.pdf"
 		(at 0 5 0)
 		(unlocked yes)
 		(layer "F.Fab")
