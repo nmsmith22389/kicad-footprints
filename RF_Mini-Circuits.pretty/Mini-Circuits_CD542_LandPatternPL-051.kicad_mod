@@ -101,7 +101,7 @@
 	)
 	(fp_line
 		(start -2.921 4.064)
-		(end -2.921 3.429)
+		(end -2.921 3.4925)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -111,7 +111,7 @@
 	)
 	(fp_line
 		(start -2.032 -4.064)
-		(end -2.667 -3.429)
+		(end -2.6035 -3.4925)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -130,7 +130,7 @@
 		(uuid "664b48e4-2e8e-4489-92bc-f84bf9e910fd")
 	)
 	(fp_line
-		(start 2.921 -3.429)
+		(start 2.921 -3.4925)
 		(end 2.921 -4.064)
 		(stroke
 			(width 0.1)
@@ -140,7 +140,7 @@
 		(uuid "bc0429fd-ebdb-424e-9b1e-370e6f79b513")
 	)
 	(fp_line
-		(start 2.921 3.429)
+		(start 2.921 3.4925)
 		(end 2.921 4.064)
 		(stroke
 			(width 0.1)
