@@ -29,7 +29,7 @@
 			)
 		)
 	)
-	(property "Footprint" "Mini-Circuits_CD542_LandPatternPL-051"
+	(property "Footprint" ""
 		(at 0 7.62 0)
 		(unlocked yes)
 		(layer "F.Fab")
