@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(descr "Right-angle SMD mounting Hardware, inside threaded M3, length 7m, Würth electronics 7466303R (https://www.we-online.com/components/products/datasheet/7466303R.pdf)")
-	(tags "threaded")
+	(tags "threaded screw")
 	(property "Reference" "REF**"
 		(at 0 -3.5 0)
 		(layer "F.SilkS")
