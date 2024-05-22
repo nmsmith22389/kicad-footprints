@@ -1,10 +1,9 @@
-(footprint "Mounting_Wuerth_WA-SMRA-3.3mm_L7mm_7466300_Horizontal"
+(footprint "Mounting_Wuerth_WA-SMRA-D3.3mm_L7mm_7466300R_Horizontal"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "Mounting Hardware, inside through hole 3.3mm, lenght 7, Wureth electronics 7466300 (https://katalog.we-online.com/em/datasheet/7466300.pdf)")
-	(tags "Mounting 3.3mm 7466300")
+	(descr "Right-angle SMD mounting hardware, inside through hole 3.3mm, lenght 7mm, Würth electronics 7466300 (https://www.we-online.com/components/products/datasheet/7466300R.pdf)")
 	(property "Reference" "REF**"
 		(at 0 -3.5 0)
 		(layer "F.SilkS")
@@ -16,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "Mounting_Wuerth_WA-SMRA-3.3mm_L7mm_7466300_Horizontal"
+	(property "Value" "Mounting_Wuerth_WA-SMRA-D3.3mm_L7mm_7466300R_Horizontal"
 		(at 0 3.5 0)
 		(layer "F.Fab")
 		(uuid "11bf24c9-a5e1-43d8-98f8-4b07895a5e1d")
@@ -27,7 +26,7 @@
 			)
 		)
 	)
-	(property "Footprint" "Mounting_Wuerth_WA-SMRA-3.3mm_L7mm_7466300_Horizontal"
+	(property "Footprint" "Mounting_Wuerth_WA-SMRA-D3.3mm_L7mm_7466300R_Horizontal"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
