@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "Right-angle SMD mounting hardware, inside through hole 3.3mm, lenght 7mm, Würth electronics 7466300 (https://www.we-online.com/components/products/datasheet/7466300R.pdf)")
+	(descr "Right-angle SMD mounting hardware, inside through hole 3.3mm, lenght 7mm, Würth electronics 7466300R (https://www.we-online.com/components/products/datasheet/7466300R.pdf)")
 	(property "Reference" "REF**"
 		(at 0 -3.5 0)
 		(layer "F.SilkS")
