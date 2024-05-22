@@ -243,7 +243,7 @@
 		(solder_paste_margin -0.1)
 		(uuid "9bb15705-aa81-4695-a88f-ea009128b2ea")
 	)
-	(model "${KICAD8_3DMODELS_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMRA-M3_L7mm_7466303_Horizontal.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMRA-M3_L7mm_7466303R_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

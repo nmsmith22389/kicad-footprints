@@ -4,6 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(descr "Right-angle SMD mounting hardware, inside through hole 3.3mm, lenght 7mm, Würth electronics 7466300R (https://www.we-online.com/components/products/datasheet/7466300R.pdf)")
+	(tags "screw")
 	(property "Reference" "REF**"
 		(at 0 -3.5 0)
 		(layer "F.SilkS")
@@ -242,7 +243,7 @@
 		(solder_paste_margin -0.1)
 		(uuid "92c77d6d-61fc-451f-b4d1-9dc4aa946768")
 	)
-	(model "${KICAD8_3DMODELS_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMRA-3.3mm_L7mm_7466300_Horizontal.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMRA-D3.3mm_L7mm_7466300R_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
