@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" "Mounting_Wuerth_WA-SMRA-M3_L7mm_7466303R_Horizontal"
+	(property "Footprint" ""
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
