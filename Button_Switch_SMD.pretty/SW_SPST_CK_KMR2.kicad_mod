@@ -29,7 +29,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "SW_SPST_CK_KMR2"
 		(at -6.2 6.75 0)
 		(unlocked yes)
 		(layer "F.Fab")
