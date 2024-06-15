@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "PCB Mount Blade Type Power Connector, Horizontal, 5 Position, 5.00mm Pitch")
+	(descr "PCB Mount Blade Type Power Connector, Horizontal, 5 Position, 5.00mm Pitch, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F5787443%7FO%7Fpdf%7FEnglish%7FENG_CD_5787443_O.pdf%7F5787443-1")
 	(tags "power connector connectors keyless TE right angle battery male blade")
 	(property "Reference" "REF**"
 		(at 10 -11.13 0)
