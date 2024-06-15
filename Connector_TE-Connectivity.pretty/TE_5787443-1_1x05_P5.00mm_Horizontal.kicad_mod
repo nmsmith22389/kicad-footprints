@@ -13,7 +13,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -42,7 +42,7 @@
 			)
 		)
 	)
-	(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F5787443%7FO%7Fpdf%7FEnglish%7FENG_CD_5787443_O.pdf%7F5787443-1"
+	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -55,7 +55,7 @@
 			)
 		)
 	)
-	(property "Description" "PCB Mount Blade Type Power Connector, Horizontal, 5 Position, 5.00mm Pitch"
+	(property "Description" ""
 		(at 91.772 -86.254 0)
 		(unlocked yes)
 		(layer "F.Fab")
