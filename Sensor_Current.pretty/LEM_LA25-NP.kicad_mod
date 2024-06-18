@@ -337,7 +337,7 @@
 	)
 	(pad "1" thru_hole roundrect
 		(at 0 0)
-		(size 1.1 1)
+		(size 1.2 1.1)
 		(drill oval 0.9 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -346,7 +346,7 @@
 	)
 	(pad "2" thru_hole oval
 		(at 2.54 0)
-		(size 1.1 1)
+		(size 1.2 1.1)
 		(drill oval 0.9 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -354,7 +354,7 @@
 	)
 	(pad "3" thru_hole oval
 		(at 5.08 0)
-		(size 1.1 1)
+		(size 1.2 1.1)
 		(drill oval 0.9 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -362,7 +362,7 @@
 	)
 	(pad "4" thru_hole oval
 		(at 7.62 0)
-		(size 1.1 1)
+		(size 1.2 1.1)
 		(drill oval 0.9 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -370,7 +370,7 @@
 	)
 	(pad "5" thru_hole oval
 		(at 10.16 0)
-		(size 1.1 1)
+		(size 1.2 1.1)
 		(drill oval 0.9 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -378,7 +378,7 @@
 	)
 	(pad "6" thru_hole oval
 		(at 10.16 8.89)
-		(size 1.1 1)
+		(size 1.2 1.1)
 		(drill oval 0.9 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -386,7 +386,7 @@
 	)
 	(pad "7" thru_hole oval
 		(at 7.62 8.89)
-		(size 1.1 1)
+		(size 1.2 1.1)
 		(drill oval 0.9 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -394,7 +394,7 @@
 	)
 	(pad "8" thru_hole oval
 		(at 5.08 8.89)
-		(size 1.1 1)
+		(size 1.2 1.1)
 		(drill oval 0.9 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -402,7 +402,7 @@
 	)
 	(pad "9" thru_hole oval
 		(at 2.54 8.89)
-		(size 1.1 1)
+		(size 1.2 1.1)
 		(drill oval 0.9 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -410,7 +410,7 @@
 	)
 	(pad "10" thru_hole oval
 		(at 0 8.89)
-		(size 1.1 1)
+		(size 1.2 1.1)
 		(drill oval 0.9 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -418,7 +418,7 @@
 	)
 	(pad "11" thru_hole circle
 		(at -2.54 20.32)
-		(size 1.4 1.4)
+		(size 1.6 1.6)
 		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -426,7 +426,7 @@
 	)
 	(pad "12" thru_hole circle
 		(at 5.08 20.32)
-		(size 1.4 1.4)
+		(size 1.6 1.6)
 		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -434,7 +434,7 @@
 	)
 	(pad "13" thru_hole circle
 		(at 12.7 20.32)
-		(size 1.4 1.4)
+		(size 1.6 1.6)
 		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
