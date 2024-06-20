@@ -3,6 +3,8 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
+	(descr "Texas instruments RPW0010A VQFN-HR, see https://www.ti.com/lit/ds/symlink/tps25981.pdf")
+	(tags "rpw0010a ti texas")
 	(property "Reference" "REF**"
 		(at 0 -2.5 0)
 		(unlocked yes)
@@ -11,7 +13,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -359,5 +361,16 @@
 		(roundrect_rratio 0.1666666667)
 		(thermal_bridge_angle 45)
 		(uuid "5b2ef03a-3817-4789-8df0-c13ea5e5ee82")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RPW0010A_VQFN-10_2x2mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
 	)
 )
