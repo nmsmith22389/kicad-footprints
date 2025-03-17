@@ -1,5 +1,5 @@
 (footprint "ST_UFBGA-59_5x5mm_Layout8x8_P0.5mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
 	(descr "ST UFBGA-59, 5.0x5.0mm, 59 Ball, 8x8 Layout, 0.5mm Pitch, https://www.st.com/resource/en/datasheet/stm32wba55ug.pdf")
@@ -28,85 +28,13 @@
 	)
 	(attr smd)
 	(fp_line
-		(start 2.5 2.5)
-		(end -2.5 2.5)
+		(start -2.61 2.61)
+		(end -2.61 -1.61)
 		(stroke
-			(width 0.1)
+			(width 0.12)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -2.5 2.5)
-		(end -2.5 -1.5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -2.5 -1.5)
-		(end -1.5 -2.5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -1.5 -2.5)
-		(end 2.5 -2.5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 2.5 -2.5)
-		(end 2.5 2.5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -3.5 -3.5)
-		(end -3.5 3.5)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -3.5 3.5)
-		(end 3.5 3.5)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 3.5 3.5)
-		(end 3.5 -3.5)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 3.5 -3.5)
-		(end -3.5 -3.5)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
+		(layer "F.SilkS")
 	)
 	(fp_line
 		(start -1.61 -2.61)
@@ -135,14 +63,109 @@
 		)
 		(layer "F.SilkS")
 	)
-	(fp_line
-		(start -2.61 2.61)
-		(end -2.61 -1.61)
+	(fp_poly
+		(pts
+			(xy -2.61 -2.61)
+			(xy -3.11 -2.61)
+			(xy -2.61 -3.11)
+		)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
+		(fill yes)
 		(layer "F.SilkS")
+	)
+	(fp_line
+		(start -3.5 -3.5)
+		(end -3.5 3.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -3.5 3.5)
+		(end 3.5 3.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3.5 -3.5)
+		(end -3.5 -3.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3.5 3.5)
+		(end 3.5 -3.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -2.5 -1.5)
+		(end -1.5 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+	)
+	(fp_line
+		(start -2.5 2.5)
+		(end -2.5 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+	)
+	(fp_line
+		(start -1.5 -2.5)
+		(end 2.5 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+	)
+	(fp_line
+		(start 2.5 -2.5)
+		(end 2.5 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+	)
+	(fp_line
+		(start 2.5 2.5)
+		(end -2.5 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
 	(pad "A1" smd circle
 		(at -1.75 -1.75)
@@ -498,31 +521,8 @@
 		(property pad_prop_bga)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
-	(fp_poly
-		(pts
-			(xy -2.61 -2.61)
-			(xy -3.11 -2.61)
-			(xy -2.61 -3.11)
-			(xy -2.61 -2.61)
-		)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.SilkS")
-	)
-	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
-		(layer "F.Fab")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(model "${KICAD8_3DMODEL_DIR}/Package_BGA.3dshapes/ST_UFBGA-59_5x5mm_Layout8x8_P0.5mm.wrl"
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/ST_UFBGA-59_5x5mm_Layout8x8_P0.5mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

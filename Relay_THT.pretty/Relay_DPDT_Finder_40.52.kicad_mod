@@ -1,7 +1,7 @@
 (footprint "Relay_DPDT_Finder_40.52"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "DPDT relay, Finder 40.52, 8A, 250V, body size 29x12.4mm, height 25mm, pitch 5x7.5mm, https://cdn.findernet.com/app/uploads/S40EN.pdf")
 	(tags "2-Form-C")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "019e2f00-1df0-45dc-929b-e989e68f55f0")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -242,7 +232,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 		(uuid "765a3d14-6c6c-4e0e-a508-92f7824ae5d2")
 	)
@@ -290,7 +280,7 @@
 		(start -2.5 -1.45)
 		(end -1.5 -2.45)
 		(stroke
-			(width 0.12)
+			(width 0.1)
 			(type default)
 		)
 		(layer "F.Fab")
@@ -300,7 +290,7 @@
 		(start -2.5 9.95)
 		(end -2.5 -1.45)
 		(stroke
-			(width 0.12)
+			(width 0.1)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -310,27 +300,17 @@
 		(start -2.5 9.95)
 		(end 26.5 9.95)
 		(stroke
-			(width 0.12)
+			(width 0.1)
 			(type solid)
 		)
 		(layer "F.Fab")
 		(uuid "9cc1732c-bdac-4aea-83dd-25a35193e3c3")
 	)
 	(fp_line
-		(start 0 1.8)
-		(end 0 5.8)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "35deb58c-1b84-43ad-90fc-558037821c18")
-	)
-	(fp_line
 		(start 26.5 -2.45)
 		(end -1.5 -2.45)
 		(stroke
-			(width 0.12)
+			(width 0.1)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -340,7 +320,7 @@
 		(start 26.5 9.95)
 		(end 26.5 -2.45)
 		(stroke
-			(width 0.12)
+			(width 0.1)
 			(type solid)
 		)
 		(layer "F.Fab")
@@ -422,7 +402,8 @@
 		(remove_unused_layers no)
 		(uuid "23f486b3-bc0d-4b12-a084-a2d71cc97b54")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Finder_40.52.wrl"
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Finder_40.52.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

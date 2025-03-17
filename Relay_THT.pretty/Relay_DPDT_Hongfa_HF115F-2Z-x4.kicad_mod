@@ -1,7 +1,7 @@
 (footprint "Relay_DPDT_Hongfa_HF115F-2Z-x4"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Hongfa DPDT power relay, 8A, 250VAC, body size 29x127.x15.7mm, https://source.hongfa.com//pdf/web/viewer.html?file=/Uploads/Product/PDF/HF115F_I_en.pdf")
 	(tags "2-Form-C")
@@ -373,8 +373,8 @@
 		(remove_unused_layers no)
 		(uuid "ac40752b-849c-4644-b5ab-7634a91b22bd")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Hongfa_HF115F-2Z-x4.wrl"
-		(hide yes)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Hongfa_HF115F-2Z-x4.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
