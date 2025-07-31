@@ -251,8 +251,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -1.15 -2.02)
-		(end -1.15 24.88)
+		(start -1.15 -1.15)
+		(end -0.5 -1.15)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -260,8 +260,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -1.15 24.88)
-		(end 6.23 24.88)
+		(start -1.15 24.01)
+		(end -1.15 -1.15)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -269,8 +269,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 6.23 -2.02)
-		(end -1.15 -2.02)
+		(start -0.5 -2.02)
+		(end 5.58 -2.02)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -278,8 +278,80 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 6.23 24.88)
-		(end 6.23 -2.02)
+		(start -0.5 -1.15)
+		(end -0.5 -2.02)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -0.5 24.01)
+		(end -1.15 24.01)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -0.5 24.88)
+		(end -0.5 24.01)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 5.58 -2.02)
+		(end 5.58 -1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 5.58 -1.15)
+		(end 6.23 -1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 5.58 24.01)
+		(end 5.58 24.88)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 5.58 24.88)
+		(end -0.5 24.88)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 6.23 -1.15)
+		(end 6.23 24.01)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 6.23 24.01)
+		(end 5.58 24.01)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -593,7 +665,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_Wuerth.3dshapes/Wuerth_WR-PHD_61302025721_Standard_2x10_P2.54mm_Vertical.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Connector_Wuerth.3dshapes/Wuerth_WR-PHD_61302025721_Standard_2x10_P2.54mm_Vertical.step"
 		(offset
 			(xyz 0 0 0)
 		)

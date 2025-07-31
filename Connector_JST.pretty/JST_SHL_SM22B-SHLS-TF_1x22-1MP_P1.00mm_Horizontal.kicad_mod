@@ -98,8 +98,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -12.9 -2.8)
-		(end -12.9 3.5)
+		(start -12.9 -1.8)
+		(end -11.3 -1.8)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -108,6 +108,51 @@
 	)
 	(fp_line
 		(start -12.9 3.5)
+		(end -12.9 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -11.3 -2.8)
+		(end 11.3 -2.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -11.3 -1.8)
+		(end -11.3 -2.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 11.3 -2.8)
+		(end 11.3 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 11.3 -1.8)
+		(end 12.9 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 12.9 -1.8)
 		(end 12.9 3.5)
 		(stroke
 			(width 0.05)
@@ -116,17 +161,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 12.9 -2.8)
-		(end -12.9 -2.8)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
 		(start 12.9 3.5)
-		(end 12.9 -2.8)
+		(end -12.9 3.5)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -342,7 +378,7 @@
 		(roundrect_rratio 0.25)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SHL_SM22B-SHLS-TF_1x22-1MP_P1.00mm_Horizontal.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SHL_SM22B-SHLS-TF_1x22-1MP_P1.00mm_Horizontal.step"
 		(offset
 			(xyz 0 0 0)
 		)

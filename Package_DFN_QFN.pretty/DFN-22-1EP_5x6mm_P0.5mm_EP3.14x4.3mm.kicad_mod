@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "DFN22 6*5*0.9 MM, 0.5 P; CASE 506AF\\xe2\\x88\\x9201 (see ON Semiconductor 506AF.PDF)")
+	(descr "DFN22 6*5*0.9 MM, 0.5 P; CASE 506AF-01 (https://www.onsemi.com/download/package-drawing/pdf/506af.pdf)")
 	(tags "DFN 0.5")
 	(property "Reference" "REF**"
 		(at 0 -4.075 0)
@@ -398,7 +398,7 @@
 		(uuid "5019e1b6-1214-4004-b730-efc9164e4c06")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-22-1EP_5x6mm_P0.5mm_EP3.14x4.3mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-22-1EP_5x6mm_P0.5mm_EP3.14x4.3mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

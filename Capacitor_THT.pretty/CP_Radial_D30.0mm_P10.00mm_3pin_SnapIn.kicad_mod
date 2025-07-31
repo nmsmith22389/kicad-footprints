@@ -1287,7 +1287,7 @@
 	)
 	(fp_line
 		(start 7.76 -14.826)
-		(end 7.76 -2.24)
+		(end 7.76 2.01)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -5141,12 +5141,13 @@
 			)
 		)
 	)
-	(pad "1" thru_hole rect
+	(pad "1" thru_hole roundrect
 		(at 0 0)
 		(size 4 4)
 		(drill 2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(roundrect_rratio 0.0625)
 	)
 	(pad "2" thru_hole circle
 		(at 6.7 4.75)
@@ -5163,7 +5164,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D30.0mm_P10.00mm_3pin_SnapIn.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D30.0mm_P10.00mm_3pin_SnapIn.step"
 		(offset
 			(xyz 0 0 0)
 		)

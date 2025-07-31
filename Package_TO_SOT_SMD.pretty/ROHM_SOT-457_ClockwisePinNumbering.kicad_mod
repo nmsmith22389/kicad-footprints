@@ -74,59 +74,127 @@
 		(fill yes)
 		(layer "F.SilkS")
 	)
-	(fp_rect
-		(start -1.7 -2.1)
-		(end 1.7 2.1)
+	(fp_line
+		(start -1.7 -1.08)
+		(end -1.45 -1.08)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
-		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -1.45 -0.4125)
-		(end -1.0375 -0.825)
+		(start -1.7 1.08)
+		(end -1.7 -1.08)
 		(stroke
-			(width 0.1)
+			(width 0.05)
 			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -1.45 0.825)
-		(end -1.45 -0.4125)
+		(start -1.45 -2.1)
+		(end 1.45 -2.1)
 		(stroke
-			(width 0.1)
+			(width 0.05)
 			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -1.0375 -0.825)
-		(end 1.45 -0.825)
+		(start -1.45 -1.08)
+		(end -1.45 -2.1)
 		(stroke
-			(width 0.1)
+			(width 0.05)
 			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 1.45 -0.825)
-		(end 1.45 0.825)
+		(start -1.45 1.08)
+		(end -1.7 1.08)
 		(stroke
-			(width 0.1)
+			(width 0.05)
 			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 1.45 0.825)
-		(end -1.45 0.825)
+		(start -1.45 2.1)
+		(end -1.45 1.08)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 1.45 -2.1)
+		(end 1.45 -1.08)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 1.45 -1.08)
+		(end 1.7 -1.08)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 1.45 1.08)
+		(end 1.45 2.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 1.45 2.1)
+		(end -1.45 2.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 1.7 -1.08)
+		(end 1.7 1.08)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 1.7 1.08)
+		(end 1.45 1.08)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_poly
+		(pts
+			(xy -1.45 -0.4125)
+			(xy -1.45 0.825)
+			(xy 1.45 0.825)
+			(xy 1.45 -0.825)
+			(xy -1.0375 -0.825)
+		)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -176,7 +244,7 @@
 		(roundrect_rratio 0.25)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/ROHM_SOT-457_ClockwisePinNumbering.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/ROHM_SOT-457_ClockwisePinNumbering.step"
 		(offset
 			(xyz 0 0 0)
 		)

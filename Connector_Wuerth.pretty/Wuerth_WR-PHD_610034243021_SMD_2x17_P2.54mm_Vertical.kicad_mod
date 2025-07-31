@@ -377,8 +377,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -4.6 -22.09)
-		(end -4.6 22.09)
+		(start -4.6 -21.27)
+		(end -3 -21.27)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -386,8 +386,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -4.6 22.09)
-		(end 4.6 22.09)
+		(start -4.6 21.27)
+		(end -4.6 -21.27)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -395,8 +395,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 4.6 -22.09)
-		(end -4.6 -22.09)
+		(start -3 -22.09)
+		(end 3 -22.09)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -404,8 +404,80 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 4.6 22.09)
-		(end 4.6 -22.09)
+		(start -3 -21.27)
+		(end -3 -22.09)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -3 21.27)
+		(end -4.6 21.27)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -3 22.09)
+		(end -3 21.27)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3 -22.09)
+		(end 3 -21.27)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3 -21.27)
+		(end 4.6 -21.27)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3 21.27)
+		(end 3 22.09)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3 22.09)
+		(end -3 22.09)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 4.6 -21.27)
+		(end 4.6 21.27)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 4.6 21.27)
+		(end 3 21.27)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -833,7 +905,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_Wuerth.3dshapes/Wuerth_WR-PHD_610034243021_SMD_2x17_P2.54mm_Vertical.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Connector_Wuerth.3dshapes/Wuerth_WR-PHD_610034243021_SMD_2x17_P2.54mm_Vertical.step"
 		(offset
 			(xyz 0 0 0)
 		)

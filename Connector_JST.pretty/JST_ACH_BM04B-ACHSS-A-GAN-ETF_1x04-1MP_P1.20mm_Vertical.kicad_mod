@@ -143,8 +143,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -3.85 -2.8)
-		(end -3.85 2.8)
+		(start -3.85 0.69)
+		(end -3.8 0.69)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -153,6 +153,87 @@
 	)
 	(fp_line
 		(start -3.85 2.8)
+		(end -3.85 0.69)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -3.8 -2.5)
+		(end -2.6 -2.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -3.8 0.69)
+		(end -3.8 -2.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -2.6 -2.8)
+		(end 2.6 -2.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -2.6 -2.5)
+		(end -2.6 -2.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 2.6 -2.8)
+		(end 2.6 -2.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 2.6 -2.5)
+		(end 3.8 -2.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3.8 -2.5)
+		(end 3.8 0.69)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3.8 0.69)
+		(end 3.85 0.69)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3.85 0.69)
 		(end 3.85 2.8)
 		(stroke
 			(width 0.05)
@@ -161,17 +242,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 3.85 -2.8)
-		(end -3.85 -2.8)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
 		(start 3.85 2.8)
-		(end 3.85 -2.8)
+		(end -3.85 2.8)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -315,7 +387,7 @@
 		(roundrect_rratio 0.25)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_ACH_BM04B-ACHSS-A-GAN-ETF_1x04-1MP_P1.20mm_Vertical.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_ACH_BM04B-ACHSS-A-GAN-ETF_1x04-1MP_P1.20mm_Vertical.step"
 		(offset
 			(xyz 0 0 0)
 		)

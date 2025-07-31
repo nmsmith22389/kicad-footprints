@@ -116,15 +116,6 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -1.93 17.29)
-		(end -1.93 17.29)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
 		(start -1.93 34.4)
 		(end -1.93 17.29)
 		(stroke
@@ -271,15 +262,6 @@
 	(fp_line
 		(start -1.93 17.29)
 		(end -3.13 17.29)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -1.93 17.29)
-		(end -1.93 17.29)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -539,8 +521,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x13-1MP_P2.54mm_Latch_Vertical.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x13-1MP_P2.54mm_Latch_Vertical.step"
 		(offset
 			(xyz 0 0 0)
 		)

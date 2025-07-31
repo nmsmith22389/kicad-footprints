@@ -27,15 +27,6 @@
 	(attr through_hole)
 	(fp_line
 		(start -1.19 -1.31)
-		(end -1.19 1.31)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start -1.19 -1.31)
 		(end 3.73 -1.31)
 		(stroke
 			(width 0.12)
@@ -45,7 +36,7 @@
 	)
 	(fp_line
 		(start -1.19 1.31)
-		(end 3.73 1.31)
+		(end -1.19 -1.31)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -91,6 +82,15 @@
 	(fp_line
 		(start 3.73 -1.31)
 		(end 3.73 1.31)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 3.73 1.31)
+		(end -1.19 1.31)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -204,7 +204,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D2.0mm_W4.8mm_H2.5mm_FlatTop.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D2.0mm_W4.8mm_H2.5mm_FlatTop.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -71,26 +71,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 6.62 10.11)
-		(end 8.62 10.11)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
 		(start -0.75 8.61)
 		(end -1 10.11)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start 6.87 8.61)
-		(end 6.62 10.11)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -134,8 +116,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 8.37 8.61)
-		(end 6.87 8.61)
+		(start 1 10.11)
+		(end 0.75 8.61)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -143,8 +125,26 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 1 10.11)
-		(end 0.75 8.61)
+		(start 6.62 10.11)
+		(end 8.62 10.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 6.87 8.61)
+		(end 6.62 10.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 8.37 8.61)
+		(end 6.87 8.61)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -312,7 +312,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTBA_2,5_2-G-7,62_1x02_P7.62mm_Horizontal.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTBA_2,5_2-G-7,62_1x02_P7.62mm_Horizontal.step"
 		(offset
 			(xyz 0 0 0)
 		)

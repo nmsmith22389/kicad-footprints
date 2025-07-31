@@ -36,8 +36,8 @@
 	)
 	(fp_arc
 		(start -3.79 -2.375816)
-		(mid 2.487072 -5.455899)
-		(end 6.86 -0.000072)
+		(mid 2.487107 -5.455891)
+		(end 6.86 0)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -45,8 +45,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_arc
-		(start 6.86 0.000072)
-		(mid 2.487072 5.455899)
+		(start 6.86 0)
+		(mid 2.487107 5.455891)
 		(end -3.79 2.375816)
 		(stroke
 			(width 0.12)
@@ -111,8 +111,8 @@
 	)
 	(fp_arc
 		(start -3.73 -2.291288)
-		(mid 6.77 -0.00007)
-		(end -3.729942 2.291415)
+		(mid 6.77 0)
+		(end -3.73 2.291288)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -154,7 +154,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D10.0mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D10.0mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

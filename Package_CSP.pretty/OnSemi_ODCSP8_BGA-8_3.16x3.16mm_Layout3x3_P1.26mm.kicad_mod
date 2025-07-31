@@ -2,7 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "OnSemi ODCSP8 (Case 570CS), 0.27mm pad, 3.16x3.16mm, 8 Ball, 3x3 Layout, 1.26mm Pitch, https://www.onsemi.com/pub/Collateral/570CS.PDF")
+	(descr "OnSemi ODCSP8 (Case 570CS), 0.27mm pad, 3.16x3.16mm, 8 Ball, 3x3 Layout, 1.26mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.onsemi.com/pub/Collateral/570CS.PDF")
 	(tags "CSP 8 1.26")
 	(solder_mask_margin 0.1)
 	(property "Reference" "REF**"
@@ -74,6 +74,24 @@
 		)
 		(fill yes)
 		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 0.38 1.26)
+		(end 0.88 1.26)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Cmts.User")
+	)
+	(fp_line
+		(start 0.63 1.01)
+		(end 0.63 1.51)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Cmts.User")
 	)
 	(fp_line
 		(start -2.58 -2.58)
@@ -156,16 +174,6 @@
 		)
 		(layer "F.Fab")
 	)
-	(fp_text user "+"
-		(at 0.6 1.21 0)
-		(layer "Cmts.User")
-		(effects
-			(font
-				(size 0.55 0.55)
-				(thickness 0.1)
-			)
-		)
-	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
@@ -225,7 +233,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_CSP.3dshapes/OnSemi_ODCSP8_BGA-8_3.16x3.16mm_Layout3x3_P1.26mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_CSP.3dshapes/OnSemi_ODCSP8_BGA-8_3.16x3.16mm_Layout3x3_P1.26mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

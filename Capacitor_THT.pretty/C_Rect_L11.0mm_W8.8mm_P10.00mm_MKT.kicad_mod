@@ -27,15 +27,6 @@
 	(attr through_hole)
 	(fp_line
 		(start -0.62 -4.52)
-		(end -0.62 -0.835)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start -0.62 -4.52)
 		(end 10.62 -4.52)
 		(stroke
 			(width 0.12)
@@ -44,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -0.62 0.835)
-		(end -0.62 4.52)
+		(start -0.62 -0.835)
+		(end -0.62 -4.52)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -54,7 +45,7 @@
 	)
 	(fp_line
 		(start -0.62 4.52)
-		(end 10.62 4.52)
+		(end -0.62 0.835)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -80,75 +71,32 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -1.05 -4.65)
-		(end -1.05 4.65)
+		(start 10.62 4.52)
+		(end -0.62 4.52)
 		(stroke
-			(width 0.05)
+			(width 0.12)
 			(type solid)
 		)
-		(layer "F.CrtYd")
+		(layer "F.SilkS")
 	)
-	(fp_line
-		(start -1.05 4.65)
+	(fp_rect
+		(start -1.05 -4.65)
 		(end 11.05 4.65)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
-	(fp_line
-		(start 11.05 -4.65)
-		(end -1.05 -4.65)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 11.05 4.65)
-		(end 11.05 -4.65)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
+	(fp_rect
 		(start -0.5 -4.4)
-		(end -0.5 4.4)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -0.5 4.4)
 		(end 10.5 4.4)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 10.5 -4.4)
-		(end -0.5 -4.4)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 10.5 4.4)
-		(end 10.5 -4.4)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -176,7 +124,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L11.0mm_W8.8mm_P10.00mm_MKT.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L11.0mm_W8.8mm_P10.00mm_MKT.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -2,7 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Maxim WLP-12, W121H2+1, 2.008x1.608mm, 12 Ball, 4x3 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100302.PDF, https://pdfserv.maximintegrated.com/package_dwgs/21-100302.PDF")
+	(descr "Maxim WLP-12, W121H2+1, 2.008x1.608mm, 12 Ball, 4x3 Layout, 0.4mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://pdfserv.maximintegrated.com/package_dwgs/21-100302.PDF, https://pdfserv.maximintegrated.com/package_dwgs/21-100302.PDF")
 	(tags "BGA 12 0.4")
 	(property "Reference" "REF**"
 		(at 0 -1.804 0)
@@ -238,7 +238,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/Maxim_WLP-12_2.008x1.608mm_Layout4x3_P0.4mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/Maxim_WLP-12_2.008x1.608mm_Layout4x3_P0.4mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

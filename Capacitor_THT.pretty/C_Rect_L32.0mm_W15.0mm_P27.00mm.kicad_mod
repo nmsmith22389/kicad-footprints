@@ -27,15 +27,6 @@
 	(attr through_hole)
 	(fp_line
 		(start -2.62 -7.62)
-		(end -2.62 7.62)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start -2.62 -7.62)
 		(end 29.62 -7.62)
 		(stroke
 			(width 0.12)
@@ -45,7 +36,7 @@
 	)
 	(fp_line
 		(start -2.62 7.62)
-		(end 29.62 7.62)
+		(end -2.62 -7.62)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -62,75 +53,32 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -2.75 -7.75)
-		(end -2.75 7.75)
+		(start 29.62 7.62)
+		(end -2.62 7.62)
 		(stroke
-			(width 0.05)
+			(width 0.12)
 			(type solid)
 		)
-		(layer "F.CrtYd")
+		(layer "F.SilkS")
 	)
-	(fp_line
-		(start -2.75 7.75)
+	(fp_rect
+		(start -2.75 -7.75)
 		(end 29.75 7.75)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
-	(fp_line
-		(start 29.75 -7.75)
-		(end -2.75 -7.75)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 29.75 7.75)
-		(end 29.75 -7.75)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
+	(fp_rect
 		(start -2.5 -7.5)
-		(end -2.5 7.5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -2.5 7.5)
 		(end 29.5 7.5)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 29.5 -7.5)
-		(end -2.5 -7.5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 29.5 7.5)
-		(end 29.5 -7.5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -158,7 +106,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L32.0mm_W15.0mm_P27.00mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L32.0mm_W15.0mm_P27.00mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

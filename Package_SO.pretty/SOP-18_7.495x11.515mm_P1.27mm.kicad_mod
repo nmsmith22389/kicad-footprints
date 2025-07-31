@@ -110,59 +110,127 @@
 		(fill yes)
 		(layer "F.SilkS")
 	)
-	(fp_rect
-		(start -5.93 -6.01)
-		(end 5.93 6.01)
+	(fp_line
+		(start -5.93 -5.63)
+		(end -4 -5.63)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
-		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -3.7475 -4.7575)
-		(end -2.7475 -5.7575)
+		(start -5.93 5.63)
+		(end -5.93 -5.63)
 		(stroke
-			(width 0.1)
+			(width 0.05)
 			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -3.7475 5.7575)
-		(end -3.7475 -4.7575)
+		(start -4 -6.01)
+		(end 4 -6.01)
 		(stroke
-			(width 0.1)
+			(width 0.05)
 			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -2.7475 -5.7575)
-		(end 3.7475 -5.7575)
+		(start -4 -5.63)
+		(end -4 -6.01)
 		(stroke
-			(width 0.1)
+			(width 0.05)
 			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 3.7475 -5.7575)
-		(end 3.7475 5.7575)
+		(start -4 5.63)
+		(end -5.93 5.63)
 		(stroke
-			(width 0.1)
+			(width 0.05)
 			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 3.7475 5.7575)
-		(end -3.7475 5.7575)
+		(start -4 6.01)
+		(end -4 5.63)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 4 -6.01)
+		(end 4 -5.63)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 4 -5.63)
+		(end 5.93 -5.63)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 4 5.63)
+		(end 4 6.01)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 4 6.01)
+		(end -4 6.01)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 5.93 -5.63)
+		(end 5.93 5.63)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 5.93 5.63)
+		(end 4 5.63)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_poly
+		(pts
+			(xy -3.7475 -4.7575)
+			(xy -3.7475 5.7575)
+			(xy 3.7475 5.7575)
+			(xy 3.7475 -5.7575)
+			(xy -2.7475 -5.7575)
+		)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -284,7 +352,7 @@
 		(roundrect_rratio 0.25)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/SOP-18_7.495x11.515mm_P1.27mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/SOP-18_7.495x11.515mm_P1.27mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

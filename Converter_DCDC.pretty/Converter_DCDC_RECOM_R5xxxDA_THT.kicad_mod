@@ -27,15 +27,6 @@
 	(attr through_hole)
 	(fp_line
 		(start -2.16 -17.06)
-		(end -2.16 -1.94)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start -2.16 -17.06)
 		(end 30.16 -17.06)
 		(stroke
 			(width 0.12)
@@ -45,7 +36,7 @@
 	)
 	(fp_line
 		(start -2.16 -1.94)
-		(end 30.16 -1.94)
+		(end -2.16 -17.06)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -53,8 +44,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -1.05 -1.94)
-		(end -1.05 1.09)
+		(start -1.07 -1.94)
+		(end -1.07 1.09)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -64,6 +55,15 @@
 	(fp_line
 		(start 30.16 -17.06)
 		(end 30.16 -1.94)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 30.16 -1.94)
+		(end -2.16 -1.94)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -462,7 +462,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_RECOM_R5xxxDA_THT.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_RECOM_R5xxxDA_THT.step"
 		(offset
 			(xyz 0 0 0)
 		)

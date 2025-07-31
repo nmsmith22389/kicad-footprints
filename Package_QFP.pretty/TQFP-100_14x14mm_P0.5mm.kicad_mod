@@ -2,8 +2,8 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "TQFP, 100 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py")
-	(tags "TQFP QFP")
+	(descr "TQFP, 100 Pin (JEDEC MS-026 variation AED, 1.00mm body thickness, https://www.jedec.org/document_search?search_api_views_fulltext=MS-026, https://ww1.microchip.com/downloads/en/PackagingSpec/00000049BZ.pdf#page=683), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+	(tags "TQFP QFP VQ100 CASE-932AN 983B-01 SOT386-1 C100-1")
 	(property "Reference" "REF**"
 		(at 0 -9.35 0)
 		(layer "F.SilkS")
@@ -112,24 +112,6 @@
 	)
 	(fp_line
 		(start -8.65 -6.4)
-		(end -8.65 0)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -8.65 6.4)
-		(end -8.65 0)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -7.25 -7.25)
 		(end -7.25 -6.4)
 		(stroke
 			(width 0.05)
@@ -138,8 +120,26 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -7.25 -6.4)
+		(start -8.65 6.4)
 		(end -8.65 -6.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -7.25 -7.25)
+		(end -6.4 -7.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -7.25 -6.4)
+		(end -7.25 -7.25)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -166,7 +166,7 @@
 	)
 	(fp_line
 		(start -6.4 -8.65)
-		(end -6.4 -7.25)
+		(end 6.4 -8.65)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -175,7 +175,7 @@
 	)
 	(fp_line
 		(start -6.4 -7.25)
-		(end -7.25 -7.25)
+		(end -6.4 -8.65)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -194,42 +194,6 @@
 	(fp_line
 		(start -6.4 8.65)
 		(end -6.4 7.25)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 0 -8.65)
-		(end -6.4 -8.65)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 0 -8.65)
-		(end 6.4 -8.65)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 0 8.65)
-		(end -6.4 8.65)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 0 8.65)
-		(end 6.4 8.65)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -256,7 +220,7 @@
 	)
 	(fp_line
 		(start 6.4 7.25)
-		(end 7.25 7.25)
+		(end 6.4 8.65)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -265,7 +229,7 @@
 	)
 	(fp_line
 		(start 6.4 8.65)
-		(end 6.4 7.25)
+		(end -6.4 8.65)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -292,7 +256,7 @@
 	)
 	(fp_line
 		(start 7.25 6.4)
-		(end 8.65 6.4)
+		(end 7.25 7.25)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -301,7 +265,7 @@
 	)
 	(fp_line
 		(start 7.25 7.25)
-		(end 7.25 6.4)
+		(end 6.4 7.25)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -310,7 +274,7 @@
 	)
 	(fp_line
 		(start 8.65 -6.4)
-		(end 8.65 0)
+		(end 8.65 6.4)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -319,56 +283,26 @@
 	)
 	(fp_line
 		(start 8.65 6.4)
-		(end 8.65 0)
+		(end 7.25 6.4)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
 		(layer "F.CrtYd")
 	)
-	(fp_line
-		(start -7 -6)
-		(end -6 -7)
+	(fp_poly
+		(pts
+			(xy -7 -6)
+			(xy -7 7)
+			(xy 7 7)
+			(xy 7 -7)
+			(xy -6 -7)
+		)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -7 7)
-		(end -7 -6)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -6 -7)
-		(end 7 -7)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 7 -7)
-		(end 7 7)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 7 7)
-		(end -7 7)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -982,7 +916,7 @@
 		(roundrect_rratio 0.25)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-100_14x14mm_P0.5mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-100_14x14mm_P0.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

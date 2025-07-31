@@ -55,45 +55,19 @@
 		(fill no)
 		(layer "F.SilkS")
 	)
-	(fp_line
+	(fp_rect
 		(start -2.06 -11.15)
-		(end -2.06 11.15)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -2.06 11.15)
 		(end 21.65 11.15)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 21.65 -11.15)
-		(end -2.06 -11.15)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 21.65 11.15)
-		(end 21.65 -11.15)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -0.9996 0.001001)
-		(end 6.338415 -0.927156)
+		(start -0.9996 0)
+		(end 6.338508 -0.927504)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -101,8 +75,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 0.446688 -5.398789)
-		(end 7.265719 -2.533694)
+		(start 0.447272 -5.3998)
+		(end 7.266012 -2.533988)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -110,8 +84,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 0.447689 5.400522)
-		(end 6.338587 0.927798)
+		(start 0.447272 5.3998)
+		(end 6.338508 0.927504)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -119,8 +93,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 4.399045 -9.352061)
-		(end 8.872042 -3.46137)
+		(start 4.4002 -9.352728)
+		(end 8.872496 -3.461492)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -128,8 +102,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 4.400778 9.353061)
-		(end 7.266188 2.534164)
+		(start 4.4002 9.352728)
+		(end 7.266012 2.533988)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -137,8 +111,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 9.798499 -10.7996)
-		(end 10.726996 -3.461628)
+		(start 9.8 -10.7996)
+		(end 10.727504 -3.461492)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -146,8 +120,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 9.8005 10.7996)
-		(end 8.872683 3.461542)
+		(start 9.8 10.7996)
+		(end 8.872496 3.461492)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -155,8 +129,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 15.198356 -9.353562)
-		(end 12.333577 -2.534399)
+		(start 15.1998 -9.352728)
+		(end 12.333988 -2.533988)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -164,8 +138,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 15.200089 9.352561)
-		(end 10.727638 3.461456)
+		(start 15.1998 9.352728)
+		(end 10.727504 3.461492)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -173,8 +147,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 19.151811 -5.401389)
-		(end 13.261327 -0.928119)
+		(start 19.152728 -5.3998)
+		(end 13.261492 -0.927504)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -182,17 +156,8 @@
 		(layer "F.Fab")
 	)
 	(fp_line
-		(start 19.152811 5.399656)
-		(end 12.334047 2.533929)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 20.5996 -0.002001)
-		(end 13.261671 0.926836)
+		(start 19.152728 5.3998)
+		(end 12.333988 2.533988)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -201,7 +166,7 @@
 	)
 	(fp_line
 		(start 20.5996 0)
-		(end 13.261499 0.927477)
+		(end 13.261492 0.927504)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -253,7 +218,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D21.8mm_P19.60mm_Bourns_2100.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D21.8mm_P19.60mm_Bourns_2100.step"
 		(offset
 			(xyz 0 0 0)
 		)

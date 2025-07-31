@@ -2,7 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Circular Fiducial, 1.5mm bare copper, 3mm soldermask opening")
+	(descr "Fiducial, circular marking, 1.5mm bare copper, 3mm soldermask opening")
 	(tags "fiducial")
 	(property "Reference" "REF**"
 		(at 0 -2.45 0)
@@ -60,6 +60,7 @@
 		(size 1.5 1.5)
 		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin 0.75)
+		(clearance 0.85)
 	)
 	(embedded_fonts no)
 )

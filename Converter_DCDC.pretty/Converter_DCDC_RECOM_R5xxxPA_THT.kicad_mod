@@ -45,15 +45,6 @@
 	)
 	(fp_line
 		(start -2.16 -0.86)
-		(end -2.16 8.36)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start -2.16 -0.86)
 		(end -1.07 -0.86)
 		(stroke
 			(width 0.12)
@@ -63,7 +54,7 @@
 	)
 	(fp_line
 		(start -2.16 8.36)
-		(end 30.16 8.36)
+		(end -2.16 -0.86)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -181,6 +172,15 @@
 	(fp_line
 		(start 30.16 -0.86)
 		(end 30.16 8.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 30.16 8.36)
+		(end -2.16 8.36)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -363,7 +363,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_RECOM_R5xxxPA_THT.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_RECOM_R5xxxPA_THT.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "Pololu Breakout 16-pin 15.2x20.3mm 0.6x0.8\\")
+	(descr "Pololu Breakout 16-pin 15.2x20.3mm 0.6x0.8")
 	(tags "Pololu Breakout")
 	(property "Reference" "REF**"
 		(at 6.35 -2.54 0)
@@ -384,7 +384,7 @@
 		(uuid "de170945-c365-417e-bd94-f8aafba2aa2a")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Module.3dshapes/Pololu_Breakout-16_15.2x20.3mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Module.3dshapes/Pololu_Breakout-16_15.2x20.3mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

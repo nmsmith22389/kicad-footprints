@@ -2,7 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "Texas Instruments, DSBGA-6, 0.704x1.054mm, NSMD, YKA0006-C01 pad definition, 0.704x1.054mm, 6 Ball, 2x3 Layout, 0.35mm Pitch, https://www.ti.com/lit/ds/symlink/tps62800.pdf")
+	(descr "Texas Instruments, DSBGA-6, 0.704x1.054mm, NSMD, YKA0006-C01 pad definition, 0.704x1.054mm, 6 Ball, 2x3 Layout, 0.35mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.ti.com/lit/ds/symlink/tps62800.pdf")
 	(tags "BGA 6 0.35")
 	(solder_mask_margin 0.0325)
 	(property "Reference" "REF**"
@@ -203,7 +203,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-6_0.704x1.054mm_Layout2x3_P0.35mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-6_0.704x1.054mm_Layout2x3_P0.35mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -27,15 +27,6 @@
 	(attr through_hole)
 	(fp_line
 		(start -14.42 -1.555)
-		(end -14.42 12.985)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start -14.42 -1.555)
 		(end -1.32 -1.555)
 		(stroke
 			(width 0.12)
@@ -45,7 +36,16 @@
 	)
 	(fp_line
 		(start -14.42 12.985)
-		(end -1.32 12.985)
+		(end -14.42 -1.555)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start -1.32 12.985)
+		(end -14.42 12.985)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -62,15 +62,6 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 1.32 12.985)
-		(end 14.42 12.985)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
 		(start 14.42 -1.555)
 		(end 14.42 12.985)
 		(stroke
@@ -80,62 +71,27 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -14.55 -2.05)
-		(end -14.55 13.48)
+		(start 14.42 12.985)
+		(end 1.32 12.985)
 		(stroke
-			(width 0.05)
+			(width 0.12)
 			(type solid)
 		)
-		(layer "F.CrtYd")
+		(layer "F.SilkS")
 	)
-	(fp_line
-		(start -14.55 13.48)
+	(fp_rect
+		(start -14.55 -2.05)
 		(end 14.55 13.48)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 14.55 -2.05)
-		(end -14.55 -2.05)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 14.55 13.48)
-		(end 14.55 -2.05)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -14.3 -1.435)
-		(end -14.3 12.865)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
 	)
 	(fp_line
 		(start -14.3 -1.435)
 		(end -12.87 12.865)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -14.3 12.865)
-		(end 14.3 12.865)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -223,22 +179,14 @@
 		)
 		(layer "F.Fab")
 	)
-	(fp_line
-		(start 14.3 -1.435)
-		(end -14.3 -1.435)
+	(fp_rect
+		(start -14.3 -1.435)
+		(end 14.3 12.865)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 14.3 12.865)
-		(end 14.3 -1.435)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -266,7 +214,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L28.6mm_W14.3mm_P11.43mm_Bourns_5700.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L28.6mm_W14.3mm_P11.43mm_Bourns_5700.step"
 		(offset
 			(xyz 0 0 0)
 		)

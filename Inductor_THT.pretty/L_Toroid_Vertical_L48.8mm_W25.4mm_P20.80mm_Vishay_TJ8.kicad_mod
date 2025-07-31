@@ -27,15 +27,6 @@
 	(attr through_hole)
 	(fp_line
 		(start -24.52 -2.42)
-		(end -24.52 23.22)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start -24.52 -2.42)
 		(end 24.52 -2.42)
 		(stroke
 			(width 0.12)
@@ -45,7 +36,7 @@
 	)
 	(fp_line
 		(start -24.52 23.22)
-		(end 24.52 23.22)
+		(end -24.52 -2.42)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -62,62 +53,27 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -24.65 -2.55)
-		(end -24.65 23.35)
+		(start 24.52 23.22)
+		(end -24.52 23.22)
 		(stroke
-			(width 0.05)
+			(width 0.12)
 			(type solid)
 		)
-		(layer "F.CrtYd")
+		(layer "F.SilkS")
 	)
-	(fp_line
-		(start -24.65 23.35)
+	(fp_rect
+		(start -24.65 -2.55)
 		(end 24.65 23.35)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 24.65 -2.55)
-		(end -24.65 -2.55)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start 24.65 23.35)
-		(end 24.65 -2.55)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-	)
-	(fp_line
-		(start -24.4 -2.3)
-		(end -24.4 23.1)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
 	)
 	(fp_line
 		(start -24.4 -2.3)
 		(end -21.96 23.1)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start -24.4 23.1)
-		(end 24.4 23.1)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -205,22 +161,14 @@
 		)
 		(layer "F.Fab")
 	)
-	(fp_line
-		(start 24.4 -2.3)
-		(end -24.4 -2.3)
+	(fp_rect
+		(start -24.4 -2.3)
+		(end 24.4 23.1)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
-	)
-	(fp_line
-		(start 24.4 23.1)
-		(end 24.4 -2.3)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
+		(fill no)
 		(layer "F.Fab")
 	)
 	(fp_text user "${REFERENCE}"
@@ -248,7 +196,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L48.8mm_W25.4mm_P20.80mm_Vishay_TJ8.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L48.8mm_W25.4mm_P20.80mm_Vishay_TJ8.step"
 		(offset
 			(xyz 0 0 0)
 		)

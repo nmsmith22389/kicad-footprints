@@ -35,8 +35,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start 1.08 0.935)
-		(end 1.999 0.935)
+		(start 1.999 0.935)
+		(end 1.08 0.935)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -46,15 +46,6 @@
 	(fp_line
 		(start 3.081 -0.935)
 		(end 3.28 -0.935)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-	)
-	(fp_line
-		(start 3.081 0.935)
-		(end 3.28 0.935)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -73,6 +64,15 @@
 	(fp_line
 		(start 3.28 0.787)
 		(end 3.28 0.935)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 3.28 0.935)
+		(end 3.081 0.935)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -176,7 +176,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_Rectangular_W3.9mm_H1.8mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_Rectangular_W3.9mm_H1.8mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

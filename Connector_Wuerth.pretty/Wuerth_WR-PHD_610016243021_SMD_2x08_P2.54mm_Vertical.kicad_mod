@@ -215,8 +215,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -4.6 -10.66)
-		(end -4.6 10.66)
+		(start -4.6 -9.84)
+		(end -3 -9.84)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -224,8 +224,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -4.6 10.66)
-		(end 4.6 10.66)
+		(start -4.6 9.84)
+		(end -4.6 -9.84)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -233,8 +233,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 4.6 -10.66)
-		(end -4.6 -10.66)
+		(start -3 -10.66)
+		(end 3 -10.66)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -242,8 +242,80 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 4.6 10.66)
-		(end 4.6 -10.66)
+		(start -3 -9.84)
+		(end -3 -10.66)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -3 9.84)
+		(end -4.6 9.84)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start -3 10.66)
+		(end -3 9.84)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3 -10.66)
+		(end 3 -9.84)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3 -9.84)
+		(end 4.6 -9.84)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3 9.84)
+		(end 3 10.66)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 3 10.66)
+		(end -3 10.66)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 4.6 -9.84)
+		(end 4.6 9.84)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 4.6 9.84)
+		(end 3 9.84)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -473,7 +545,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_Wuerth.3dshapes/Wuerth_WR-PHD_610016243021_SMD_2x08_P2.54mm_Vertical.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Connector_Wuerth.3dshapes/Wuerth_WR-PHD_610016243021_SMD_2x08_P2.54mm_Vertical.step"
 		(offset
 			(xyz 0 0 0)
 		)

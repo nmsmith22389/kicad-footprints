@@ -143,8 +143,8 @@
 		(layer "F.SilkS")
 	)
 	(fp_line
-		(start -1.35 -2.02)
-		(end -1.35 9.64)
+		(start -1.35 -1.35)
+		(end 0.77 -1.35)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -152,8 +152,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start -1.35 9.64)
-		(end 8.97 9.64)
+		(start -1.35 8.97)
+		(end -1.35 -1.35)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -161,8 +161,8 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 8.97 -2.02)
-		(end -1.35 -2.02)
+		(start 0.77 -2.02)
+		(end 6.85 -2.02)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -170,8 +170,80 @@
 		(layer "F.CrtYd")
 	)
 	(fp_line
-		(start 8.97 9.64)
-		(end 8.97 -2.02)
+		(start 0.77 -1.35)
+		(end 0.77 -2.02)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 0.77 8.97)
+		(end -1.35 8.97)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 0.77 9.64)
+		(end 0.77 8.97)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 6.85 -2.02)
+		(end 6.85 -1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 6.85 -1.35)
+		(end 8.97 -1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 6.85 8.97)
+		(end 6.85 9.64)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 6.85 9.64)
+		(end 0.77 9.64)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 8.97 -1.35)
+		(end 8.97 8.97)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+	)
+	(fp_line
+		(start 8.97 8.97)
+		(end 6.85 8.97)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -329,7 +401,7 @@
 		(remove_unused_layers no)
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_Wuerth.3dshapes/Wuerth_WR-PHD_613008216921_Large_2x04_P2.54mm_Vertical.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Connector_Wuerth.3dshapes/Wuerth_WR-PHD_613008216921_Large_2x04_P2.54mm_Vertical.step"
 		(offset
 			(xyz 0 0 0)
 		)

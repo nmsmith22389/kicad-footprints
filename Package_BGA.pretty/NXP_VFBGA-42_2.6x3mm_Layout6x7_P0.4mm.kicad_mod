@@ -2,7 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "NXP VFBGA-42, 2.6x3.0mm, 42 Ball, 6x7 Layout, 0.4mm Pitch, https://www.nxp.com/docs/en/package-information/SOT1963-1.pdf")
+	(descr "NXP VFBGA-42, 2.6x3.0mm, 42 Ball, 6x7 Layout, 0.4mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.nxp.com/docs/en/package-information/SOT1963-1.pdf")
 	(tags "BGA 42 0.4")
 	(solder_mask_margin 0.04)
 	(solder_paste_margin 0.0175)
@@ -420,7 +420,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/NXP_VFBGA-42_2.6x3mm_Layout6x7_P0.4mm.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_BGA.3dshapes/NXP_VFBGA-42_2.6x3mm_Layout6x7_P0.4mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

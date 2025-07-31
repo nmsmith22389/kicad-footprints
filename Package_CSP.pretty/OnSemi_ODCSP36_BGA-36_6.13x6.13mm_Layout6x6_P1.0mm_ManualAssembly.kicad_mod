@@ -2,7 +2,7 @@
 	(version 20241229)
 	(generator "kicad-footprint-generator")
 	(layer "F.Cu")
-	(descr "OnSemi ODCSP36 (Case 570CP), 0.47mm pad, manual assembly variant (larger pads), 6.13x6.13mm, 36 Ball, 6x6 Layout, 1.0mm Pitch, https://www.onsemi.com/pub/Collateral/570CP.PDF")
+	(descr "OnSemi ODCSP36 (Case 570CP), 0.47mm pad, manual assembly variant (larger pads), 6.13x6.13mm, 36 Ball, 6x6 Layout, 1.0mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.onsemi.com/pub/Collateral/570CP.PDF")
 	(tags "CSP 36 1.0")
 	(property "Reference" "REF**"
 		(at 0 -4.065 0)
@@ -73,6 +73,24 @@
 		)
 		(fill yes)
 		(layer "F.SilkS")
+	)
+	(fp_line
+		(start 2.55 2.8)
+		(end 3.05 2.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Cmts.User")
+	)
+	(fp_line
+		(start 2.8 2.55)
+		(end 2.8 3.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Cmts.User")
 	)
 	(fp_line
 		(start -4.07 -4.07)
@@ -154,16 +172,6 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-	)
-	(fp_text user "+"
-		(at 2.8 2.75 0)
-		(layer "Cmts.User")
-		(effects
-			(font
-				(size 0.55 0.55)
-				(thickness 0.1)
-			)
-		)
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
@@ -392,7 +400,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_CSP.3dshapes/OnSemi_ODCSP36_BGA-36_6.13x6.13mm_Layout6x6_P1.0mm_ManualAssembly.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Package_CSP.3dshapes/OnSemi_ODCSP36_BGA-36_6.13x6.13mm_Layout6x6_P1.0mm_ManualAssembly.step"
 		(offset
 			(xyz 0 0 0)
 		)
